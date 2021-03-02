@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://sybyl.com/xmlrpc.php">
+
+    <title>Tableau Logo for website - Sybyl</title>
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Open+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic', 'Old+Standard+TT:400,700,400italic']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        
+<!-- This site is optimized with the Yoast SEO plugin v13.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://sybyl.com/our-partners/tableau-logo-for-website/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Tableau Logo for website - Sybyl" />
+<meta property="og:url" content="https://sybyl.com/our-partners/tableau-logo-for-website/" />
+<meta property="og:site_name" content="Sybyl" />
+<meta property="og:image" content="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />
+<meta property="og:image:secure_url" content="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />
+<meta property="og:image:width" content="804" />
+<meta property="og:image:height" content="804" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Tableau Logo for website - Sybyl" />
+<meta name="twitter:image" content="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://sybyl.com/#organization","name":"Sybyl","url":"https://sybyl.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://sybyl.com/#logo","inLanguage":"en-US","url":"https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo.png","width":160,"height":80,"caption":"Sybyl"},"image":{"@id":"https://sybyl.com/#logo"}},{"@type":"WebSite","@id":"https://sybyl.com/#website","url":"https://sybyl.com/","name":"Sybyl","inLanguage":"en-US","description":"Crafted Enterprise Solutions","publisher":{"@id":"https://sybyl.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://sybyl.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://sybyl.com/our-partners/tableau-logo-for-website/#webpage","url":"https://sybyl.com/our-partners/tableau-logo-for-website/","name":"Tableau Logo for website - Sybyl","isPartOf":{"@id":"https://sybyl.com/#website"},"inLanguage":"en-US","datePublished":"2019-11-15T09:31:02+00:00","dateModified":"2019-11-15T09:31:02+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sybyl &raquo; Feed" href="https://sybyl.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sybyl &raquo; Comments Feed" href="https://sybyl.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sybyl &raquo; Tableau Logo for website Comments Feed" href="https://sybyl.com/our-partners/tableau-logo-for-website/feed/" />
+<!-- This site uses the Google Analytics by ExactMetrics plugin v6.0.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.0.2';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-146435501-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-146435501-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sybyl.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://sybyl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://sybyl.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://sybyl.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='isotope-css-css'  href='https://sybyl.com/wp-content/plugins/js_composer/assets/css/lib/isotope.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='levelup-style-css'  href='https://sybyl.com/wp-content/themes/levelup/style.css?ver=1.1.39' type='text/css' media='all' />
+<link rel='stylesheet' id='levelup_main-css'  href='https://sybyl.com/wp-content/themes/levelup/assets/css/style.css?ver=1.1.39' type='text/css' media='all' />
+<style id='levelup_main-inline-css' type='text/css'>
+            #header-menu.slidedown-layout,
+            #header-menu.fixed-layout,
+            #header-menu.static-layout,
+            #header-menu.fixed-layout .container,
+            #header-menu.static-layout .container
+            {
+                height: 80px;
+            }
+
+            @media only screen and (min-width: 992px){
+                body.admin-bar #header-search {
+                    top: 32px
+                }
+                                #header,
+                #header-menu {
+                    top: auto;
+                }
+                #header #logo,
+                #header .menu-right-side {
+                    height: 80px;
+                    top: 0;
+                }
+
+                
+                
+            }
+
+                                    #header:not(.with-columns) #logo .logo-holder,            #header:not(.with-columns) .menu-right-side .side-icon {
+                top: 50%;
+                -webkit-transform: translateY(-50%);
+                -moz-transform: translateY(-50%);
+                -o-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+            }
+
+                        #header-menu #main-menu {
+                margin-right: 120px;
+            }
+                        
+            
+                            #header_spacer {
+                    height: 80px;
+                }
+                                                
+                        .rdy-menu > li {
+                height: 80px;
+            }
+            .rdy-menu > li > a,
+            .rdy-menu > li > .title {
+                line-height: 80px !important;
+            }
+            
+            
+            
+                        .wpb_column.fix-column {
+    width: 100px;
+    margin: 0 auto !important;
+    float: none;
+}
+.main_demo_portfolio .grid-item h2 {
+    font-weight: 900 !important;
+}
+
+.main_demo_portfolio .grid-item img {
+    border: 10px solid #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+.main_demo_portfolio .grid-item article,
+.main_demo_portfolio .grid-item article a,
+.main_demo_portfolio .grid-item article .picture {
+    overflow: visible !important;
+}
+
+@media screen and (max-width: 450px){
+.hidesc {
+display:none !important;
+}
+}
+
+#bstrt {
+    background-position: right !important;
+}            
+            
+                            html.no-touch #bottom-bar > div {
+                    opacity: 0.6;
+                    transition: opacity .3s;
+                }
+                html.no-touch #bottom-bar:hover > div {
+                    opacity: 1;
+                }
+            
+        
+</style>
+<link rel='stylesheet' id='levelup_font_sym-css'  href='https://sybyl.com/wp-content/themes/levelup/assets/fonts/g79/styles.css?ver=1.1.39' type='text/css' media='all' />
+<link rel='stylesheet' id='levelup_animated-css'  href='https://sybyl.com/wp-content/themes/levelup/assets/vendor/animate.css?ver=1.1.39' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-css'  href='https://sybyl.com/wp-content/themes/levelup/assets/vendor/fa/css/font-awesome.min.css?ver=1.1.39' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://sybyl.com/wp-content/themes/levelup/assets/vendor/owl-carousel/assets/owl.carousel.css?ver=1.1.39' type='text/css' media='all' />
+<link rel='stylesheet' id='levelup_custom-css'  href='https://sybyl.com/wp-content/uploads/wp-less/levelup/assets/css/custom-f9c8c69509.css?ver=1.1.39' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='levelup_font_open_sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C300%2C400%2C600%2C700%2C800&#038;subset=latin%2Ccyrillic&#038;ver=5.3.6' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/sybyl.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/waypoints/jquery.waypoints.min.js?ver=5.3.6'></script>
+<link rel='https://api.w.org/' href='https://sybyl.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sybyl.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sybyl.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.6" />
+<link rel='shortlink' href='https://sybyl.com/?p=11054' />
+<link rel="alternate" type="application/json+oembed" href="https://sybyl.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsybyl.com%2Four-partners%2Ftableau-logo-for-website%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sybyl.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsybyl.com%2Four-partners%2Ftableau-logo-for-website%2F&#038;format=xml" />
+
+<script type='text/javascript' src='//sybyl.com/wp-content/uploads/custom-css-js/10951.js?v=270'></script>
+
+<link rel='stylesheet' id='9975-css'  href='//sybyl.com/wp-content/uploads/custom-css-js/9975.css?v=3913' type='text/css' media='all' />
+        <!--[if IE]>
+        <script src="https://sybyl.com/wp-content/themes/levelup/assets/vendor/html5shiv.min.js"></script>
+        <![endif]-->
+        <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Favicon.png" sizes="32x32" />
+<link rel="icon" href="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Favicon.png" />
+<meta name="msapplication-TileImage" content="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Favicon.png" />
+<script type="text/javascript">function setREVStartSize(e){			
+			try {								
+				var pw = document.getElementById(e.c).parentNode.offsetWidth,
+					newh;
+				pw = pw===0 || isNaN(pw) ? window.innerWidth : pw;
+				e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+				e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+				e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+				e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+				e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+				e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+				e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+				if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+					newh = Math.max(e.mh,window.innerHeight);				
+				else{					
+					e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+					for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+					e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+					e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+					for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+										
+					var nl = new Array(e.rl.length),
+						ix = 0,						
+						sl;					
+					e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+					e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+					e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+					e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+					for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i];
+					sl = nl[0];									
+					for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+					var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+
+					newh =  (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+				}			
+				
+				if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+				document.getElementById(e.c).height = newh;
+				window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+			} catch(e){
+				console.log("Failure at Presize of Slider:" + e)
+			}					   
+		  };</script>
+<style type="text/css" title="dynamic-css" class="options-output">.wpb_text_column .dropcap{padding-right:20px;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="attachment attachment-template-default attachmentid-11054 attachment-jpeg animated-anchors wpb-js-composer js-comp-ver-6.1 vc_responsive">
+<div class="body-wrapper">
+    <span id="totop"></span>
+
+    
+
+<div class="body-overlay" data-search="1"></div>
+
+
+	<header id="header" class="bg-white fixed-layout" data-fixed-menu="1">
+					            <a href="https://sybyl.com/" id="logo" class="zlogo main-logo">
+                <div class="logo-holder">
+                    <img class="starting-logo dark-version preload-me" alt="Sybyl" src="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo.png" srcset="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo.png 1x, https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo.png 2x"  /><img class="starting-logo light-version preload-me" alt="Sybyl" src="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo-Alt.png" srcset="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo-Alt.png 1x, https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo-Alt.png 2x"  />                </div>
+            </a>
+            
+			<div class="menu-right-side animate">
+				<div id="hamburger-icon" class="hamburger-icon side-icon">
+					<div class="side-icon-holder">
+						<div id="menu-toggle">
+														<ul>
+								<li></li>
+								<li></li>
+								<li></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+									<div id="search-icon" class="search-icon side-icon">
+						<div class="side-icon-holder search-main-icon">
+							<div class="icon">
+								<svg version="1.1" id="svg_search" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+								     width="20px" height="20px" viewBox="3.441 3.416 20 19.851" enable-background="new 3.441 3.416 20 19.851"
+								     xml:space="preserve">
+<g id="XMLID_13_">
+	<g>
+		<g id="XMLID_10_">
+			<g>
+				<path d="M20.816,23.166l-4.697-4.699c-1.286,0.845-2.825,1.336-4.486,1.336c-4.53,0-8.191-3.67-8.191-8.197
+                    c0-4.52,3.661-8.189,8.19-8.189c4.521,0,8.188,3.67,8.188,8.189c0,1.581-0.445,3.053-1.215,4.302l4.729,4.728
+                    c0.253,0.244,0.043,0.854-0.46,1.354l-0.703,0.706C21.667,23.198,21.06,23.409,20.816,23.166z M17.098,11.606
+                    c0-3.022-2.446-5.468-5.468-5.468c-3.023,0-5.476,2.446-5.476,5.468c0,3.022,2.454,5.477,5.476,5.477
+                    C14.652,17.083,17.098,14.628,17.098,11.606z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
+
+							</div>
+						</div>
+
+					</div>
+																								</div>
+				</header>
+
+	<header id="header-search">
+		<div class="widget widget_search"><form method="get" class="search-form" action="https://sybyl.com/">
+    <label class="screen-reader-text">Search for:</label>
+    <input type="search" class="search-field" placeholder="Search&hellip;" value="" name="s">
+    <input type="submit" class="search-submit" value="Search">
+</form></div>		<div class="close_btn">
+			<div class="side-icon-holder search-close-icon">
+				<ul>
+					<li></li>
+					<li></li>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	</header>
+
+	<header id="header-menu" class="menu-opened fixed-layout with-background align-right is_fullwidth show_bottomline" data-fixed-menu="1">
+		<div id="header-bg">
+							<div id="main-menu">
+
+					
+						<div class="main-menu-container col-md-12 col-td">
+							<div class="col-table">
+
+								<div class="col-td logo-container">            <a href="https://sybyl.com/" class="zlogo main-logo">
+                <div class="logo-holder">
+                    <img class="starting-logo dark-version preload-me" alt="Sybyl" src="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo.png" srcset="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo.png 1x, https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo.png 2x"  /><img class="starting-logo light-version preload-me" alt="Sybyl" src="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo-Alt.png" srcset="https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo-Alt.png 1x, https://sybyl.com/wp-content/uploads/2017/07/Sybyl-Logo-Alt.png 2x"  />                </div>
+            </a>
+            </div>
+								
+									<ul id="menu-menu_top" class="sf-menu rdy-menu col-td"><li id="nav-menu-item-9983" class="menu-item menu-item-type-post_type menu-item-object-page menu-depth-0 "><a href="https://sybyl.com/about-us/" class=""><span>About</span></a></li>
+<li id="nav-menu-item-10089" class="menu-item menu-item-type-post_type menu-item-object-page wide megamenu mega-auto-width menu-depth-0 "><a href="https://sybyl.com/our-expertise/" class=""><span>Expertise</span></a></li>
+<li id="nav-menu-item-10001" class="menu-item menu-item-type-post_type menu-item-object-page menu-depth-0 "><a href="https://sybyl.com/why-choose-us/" class=""><span>Why Us</span></a></li>
+<li id="nav-menu-item-10554" class="menu-item menu-item-type-post_type menu-item-object-page menu-depth-0 "><a href="https://sybyl.com/our-partners/" class=""><span>Partners</span></a></li>
+<li id="nav-menu-item-10158" class="menu-item menu-item-type-post_type menu-item-object-page wide megamenu mega-auto-width menu-depth-0 "><a href="https://sybyl.com/our-projects/" class=""><span>Projects</span></a></li>
+<li id="nav-menu-item-10573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-depth-0  has_sub"><a href="#" class=""><span>More<em class="fa-sub-indicator"><i class="fa fa-angle-down"></i></em></span></a>
+<ul class="sub-menu" style="">
+	<li id="nav-menu-item-10683" class="menu-item menu-item-type-post_type menu-item-object-page menu-depth-1 "><a href="https://sybyl.com/discover-and-learn/" class=""><span>Discover and Learn</span></a></li>
+	<li id="nav-menu-item-10716" class="menu-item menu-item-type-post_type menu-item-object-page menu-depth-1 "><a href="https://sybyl.com/csr/" class=""><span>CSR</span></a></li>
+	<li id="nav-menu-item-10576" class="menu-item menu-item-type-post_type menu-item-object-page menu-depth-1 "><a href="https://sybyl.com/careers/" class=""><span>Careers</span></a></li>
+</ul>
+</li>
+<li id="nav-menu-item-10049" class="menu-item menu-item-type-post_type menu-item-object-page menu-depth-0 "><a href="https://sybyl.com/contact-us/" class=""><span>Contact Us</span></a></li>
+</ul>
+																
+							</div>
+						</div>
+
+						
+						
+
+					
+				</div>
+						</div>
+	</header>
+
+	<div id="mobile-menu" class=" fixed-width" data-menu-items-cascade="1">
+				<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="wrapper">
+
+					
+					<ul id="menu-mobile" class="menu-mobile"><li id="mnav-menu-item-9983" class="menu-item menu-item-type-post_type menu-item-object-page open-item  narrow"><a href="https://sybyl.com/about-us/" class=""><span>About</span></a></li>
+<li id="mnav-menu-item-10089" class="menu-item menu-item-type-post_type menu-item-object-page open-item  narrow"><a href="https://sybyl.com/our-expertise/" class=""><span>Expertise</span></a></li>
+<li id="mnav-menu-item-10001" class="menu-item menu-item-type-post_type menu-item-object-page open-item  narrow"><a href="https://sybyl.com/why-choose-us/" class=""><span>Why Us</span></a></li>
+<li id="mnav-menu-item-10554" class="menu-item menu-item-type-post_type menu-item-object-page open-item  narrow"><a href="https://sybyl.com/our-partners/" class=""><span>Partners</span></a></li>
+<li id="mnav-menu-item-10158" class="menu-item menu-item-type-post_type menu-item-object-page open-item  narrow"><a href="https://sybyl.com/our-projects/" class=""><span>Projects</span></a></li>
+<li id="mnav-menu-item-10573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children open-item  has_sub narrow"><a href="#" class=""><span>More</span></a>
+<ul class="sub-menu">
+	<li id="mnav-menu-item-10683" class="menu-item menu-item-type-post_type menu-item-object-page open-item "><a href="https://sybyl.com/discover-and-learn/" class=""><span>Discover and Learn</span></a></li>
+	<li id="mnav-menu-item-10716" class="menu-item menu-item-type-post_type menu-item-object-page open-item "><a href="https://sybyl.com/csr/" class=""><span>CSR</span></a></li>
+	<li id="mnav-menu-item-10576" class="menu-item menu-item-type-post_type menu-item-object-page open-item "><a href="https://sybyl.com/careers/" class=""><span>Careers</span></a></li>
+</ul>
+</li>
+<li id="mnav-menu-item-10049" class="menu-item menu-item-type-post_type menu-item-object-page open-item  narrow"><a href="https://sybyl.com/contact-us/" class=""><span>Contact Us</span></a></li>
+</ul>
+					
+					<div class="mobile_menu_side">
+															</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <div id="page" class="hfeed site">
+
+        <div id="content" class="site-content">
+
+            <div id="header_spacer"></div>
+		<div class="page-title title-center solid-bg page-title-topfix" style="min-height: 300px;">
+			<div class="container">
+			<div class="row">
+				<div class="title-container">
+					<div class="col-table" style="height: 300px;">
+
+						<div class="col-td hgroup"><h1 class="responsive-h4" style="line-height: 120%;">Tableau Logo for website</h1></div>                    </div>
+				</div>
+			</div>
+			</div>
+					</div>
+
+		
+	            <div class="page-title-margin-bottom" style="height: 60px"></div>
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+			                <div class="container-fluid container-main">
+            
+            <div class="row">
+
+            <div class=" page-content">
+			
+				<article id="post-11054" class="post-11054 attachment type-attachment status-inherit hentry">
+	<div class="entry-content row">
+		
+<div class="container row_section vc_row_p_30">
+	<div class="vc_row wpb_row vc_row-fluid vc_column-gap-30">
+		<div class="row-container container-fluid">
+			<div class="row-inner">
+				<div class="wpb_column vc_column_container vc_col-sm-12">
+					<div class="vc_column-inner ">
+						<div class="wpb_wrapper">
+							<p class="attachment"><a href='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg'><img width="300" height="300" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg" class="attachment-medium size-medium" alt="" srcset="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg 300w, https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-150x150.jpg 150w, https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-768x768.jpg 768w, https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-700x700.jpg 700w, https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg 804w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>			</div><!-- .entry-content -->
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+                
+			            </div>
+
+            
+            </div>
+
+            </div>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div class="footer_spacer" style="height: 60px;"></div>
+
+	</div><!-- #content -->
+
+	
+</div><!-- #page -->
+
+
+    <footer id="colophon" class="site-footer" data-pad-columns="1" data-phone-columns="1">
+
+        
+        
+        <div class="footer-wrapper " style="">
+
+        <div class="site-footer-area container">
+            <div class="row f-row">
+                                <div class="f-column col auto-clear  col-sm-12 col-xs-12 col-md-12"></div>
+                            </div>
+        </div>
+
+        </div>
+            <div id="bottom-bar" data-mobile-align="left" data-mobile="xs">
+            
+            <div
+                class="site-footer-bar-area container">
+                <div class="row">
+                    <div class="bottom-bar-wrapper col-xs-12">
+                                                    <div class="bottom-bar-social-top"><div class="bottom-bar-social"><div class="brand-hover"><a href="https://twitter.com/SybylLimited" target="_blank" class="social_media social_media_twitter"><i class="fa fa-twitter"></i></a><a href="https://www.linkedin.com/company/sybylgroup" target="_blank" class="social_media social_media_linkedin"><i class="fa fa-linkedin"></i></a></div></div></div>
+                        
+
+                        <div class="col-table copyright" style="height:60px">
+
+                            
+                                                                    <div class="col-td col1 left center">
+                                        <div class="elem"><p><a href="https://sybyl.com/legal-and-copyright/">Legal and Copyright</a></p></div>                                    </div>
+                                
+                                
+                                
+                                                    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+    </footer>
+
+</div>
+
+    <a href="#" class="scroll-top-main anm-arrow-up-hv icon3"></a>        <a href="#" class="scroll-top-main-mobile rounded shadow" style="opacity: 1;background-color: #444444"><span class="fa fa-angle-up"></span></a>
+    
+	<!-- W3TC-include-js-head -->
+
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/sybyl.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/modernizr/modernizr.custom.72003.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/superfish.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/midnight.jquery.src.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/jquery.smooth-scroll.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/seriously.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/seriously.fx/seriously.blend.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/seriously.fx/seriously.edge.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/seriously.fx/seriously.hue-saturation.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/seriously.fx/seriously.layers.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/seriously.fx/seriously.linear-transfer.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/seriously.fx/seriously.tone.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/particles.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/three.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/renderers/Projector.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/renderers/CanvasRenderer.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/fx/glitch.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/counters.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/graphic.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/easy-pie-chart.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/jquery.lazyload.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/jquery.fitvids.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/countup.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/jquery.mousewheel.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/blast.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/jquery.parallax-scroll.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/easyzoom.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/shaderloader.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/sine-waves.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/scrollspy.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/froogaloop2.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/detect-element-resize.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/jquery.easing.1.3.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/url.js?ver=1.1.39'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var levelup_js_vars = {"themePath":"https:\/\/sybyl.com\/wp-content\/themes\/levelup"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/main.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/isotope/isotope.pkgd.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=6.1'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/jquery.infinitescroll.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/js/libs/velocity.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-content/themes/levelup/assets/vendor/owl-carousel/owl.carousel.min.js?ver=1.1.39'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-includes/js/comment-reply.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://sybyl.com/wp-includes/js/wp-embed.min.js?ver=5.3.6'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.312 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2021-02-24 01:30:51 -->
+
+<!-- Super Cache dynamic page detected but late init not set. See the readme.txt for further details. -->
+<!-- Dynamic Super Cache -->
+<!-- Compression = gzip -->

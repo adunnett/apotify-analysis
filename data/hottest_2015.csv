@@ -1,0 +1,99 @@
+,Name,Album,Artist,Release_date,Length,Popularity,Acousticness,Danceability,Energy,Instrumentalness,Liveness,valence,Loudness,Speechiness,Tempo,Time_signature
+0,Hoops,Hoops,The Rubens,2015-10-23,158946,0,0.248,0.738,0.517,2.27e-05,0.468,0.772,-5.82,0.0321,96.037,4
+1,King Kunta,To Pimp A Butterfly,Kendrick Lamar,2015-03-16,234693,72,0.00589,0.884,0.657,0.0,0.154,0.489,-4.569,0.0977,107.059,4
+2,Lean On (feat. MØ & DJ Snake),Peace Is The Mission,Major Lazer,2015-06-01,176561,0,0.00346,0.723,0.809,0.00123,0.565,0.274,-3.081,0.0625,98.007,4
+3,The Less I Know The Better,Currents,Tame Impala,2015-07-17,216320,84,0.0115,0.64,0.74,0.00678,0.167,0.785,-4.083,0.0284,116.879,4
+4,Let It Happen,Currents,Tame Impala,2015-07-17,467586,74,0.00462,0.602,0.881,0.0266,0.111,0.577,-5.875,0.0443,125.012,4
+5,The Trouble with Us,Work EP,Marcus Marr,2015-12-04,222066,0,0.338,0.828,0.744,0.000774,0.158,0.831,-4.932,0.0646,121.09,4
+6,Do You Remember,Jarryd James EP,Jarryd James,2015-09-03,234426,35,0.169,0.662,0.334,0.000458,0.124,0.315,-10.012,0.0584,72.014,4
+7,The Buzz (feat. Mataya & Young Tapz),Dark Night Sweet Light,Hermitude,2015-08-28,221786,56,0.33,0.739,0.583,0.00137,0.122,0.497,-6.434,0.173,140.941,4
+8,Can't Feel My Face,Beauty Behind The Madness,The Weeknd,2015-08-28,213520,0,0.124,0.702,0.77,0.0,0.103,0.593,-5.416,0.0482,107.951,4
+9,Magnets,Caracal (Deluxe),Disclosure,2015-09-25,199245,62,0.0626,0.704,0.628,1.49e-06,0.103,0.654,-7.882,0.162,92.005,4
+10,Never Be,Never Be,Meg Mac,2015-08-07,253043,29,0.262,0.572,0.592,4.06e-05,0.0967,0.271,-8.195,0.0379,99.915,4
+11,You Were Right,You Were Right,RÜFÜS DU SOL,2015-06-26,238646,0,0.0122,0.708,0.802,0.00299,0.117,0.701,-5.427,0.0379,121.973,4
+12,Ocean Drive,Blasé Boys Club (Pt. 1),Duke Dumont,2015-10-02,206320,39,0.00637,0.686,0.718,0.000703,0.119,0.557,-5.054,0.0431,115.026,4
+13,Hotline Bling,Hotline Bling,Drake,2015-07-31,267023,0,0.00257,0.896,0.623,0.000258,0.039,0.585,-8.008,0.0571,134.962,4
+14,Like Soda,Like Soda,Violent Soho,2015-10-08,241507,0,0.0145,0.359,0.911,0.0,0.0508,0.252,-3.791,0.0767,133.624,4
+15,Fire and the Flood,Dream Your Life Away (Deluxe Edition),Vance Joy,2015-09-04,249382,0,0.026,0.6,0.79,0.0,0.0959,0.345,-5.466,0.0365,115.063,4
+16,Middle,Middle,DJ Snake,2015-10-16,220573,0,0.0175,0.564,0.737,0.0,0.054,0.211,-4.079,0.0414,104.764,4
+17,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)","Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,2015-08-27,292593,0,0.0916,0.828,0.609,1.21e-06,0.291,0.707,-4.402,0.0694,109.725,4
+18,The Hills,Beauty Behind The Madness,The Weeknd,2015-08-28,242253,0,0.0861,0.356,0.567,0.0,0.137,0.109,-7.011,0.0798,135.553,5
+19,Mountain at My Gates,What Went Down,Foals,2015-08-28,244293,65,0.0025,0.495,0.931,0.0783,0.246,0.617,-5.336,0.0469,104.05,4
+20,Magnolia,The Positions,Gang of Youths,2015-04-17,311906,0,0.618,0.429,0.665,0.0135,0.0985,0.321,-6.985,0.0327,92.33,4
+21,Keeping Score (feat. Paige IV),Keeping Score (feat. Paige IV),L D R U,2015-09-25,182950,45,0.0245,0.629,0.618,0.0,0.0938,0.644,-5.51,0.0918,92.071,4
+22,Embracing Me,Embracing Me,SAFIA,2015-07-10,231041,0,0.4,0.716,0.681,0.0,0.108,0.167,-5.144,0.073,109.967,4
+23,Some Minds (feat. Andrew Wyatt),Some Minds (feat. Andrew Wyatt),Flume,2015-05-29,263764,0,0.316,0.263,0.555,5.78e-05,0.128,0.191,-6.884,0.0446,79.783,4
+24,Shine On,Shine On,The Amity Affliction,2015-11-13,225311,45,0.0154,0.48,0.973,0.0,0.451,0.495,-2.586,0.092,94.332,4
+25,I Know There's Gonna Be (Good Times),In Colour,Jamie xx,2015-06-01,213622,6,0.117,0.458,0.595,0.0,0.506,0.502,-9.912,0.217,89.571,4
+26,Young,Vallis Alps,Vallis Alps,2015-01-06,324122,57,0.72,0.584,0.384,0.288,0.0964,0.184,-12.144,0.0675,93.981,4
+27,Like An Animal,Like An Animal,RÜFÜS DU SOL,2015-09-25,241677,0,0.029,0.705,0.754,0.000197,0.0917,0.401,-6.27,0.0301,120.004,4
+28,Greek Tragedy,Glitterbug (Deluxe Edition),The Wombats,2015-04-14,209557,66,0.00257,0.515,0.869,2.01e-06,0.21,0.452,-4.732,0.0672,93.24,4
+29,Say My Name (feat. Benjamin Joseph),Songs to Sweat to,Peking Duk,2015-07-31,187533,25,0.179,0.478,0.635,0.0,0.644,0.595,-6.601,0.0567,174.021,4
+30,Loud Places,In Colour,Jamie xx,2015-06-01,283066,8,0.00422,0.647,0.626,0.323,0.122,0.185,-10.753,0.0424,109.015,4
+31,Leave A Trace,Every Open Eye,CHVRCHES,2015-09-25,237481,0,0.015,0.587,0.736,8.81e-05,0.148,0.177,-5.824,0.0948,99.614,4
+32,Long Loud Hours,Long Loud Hours,Urthboy,2015-10-16,218765,0,0.136,0.404,0.548,7.54e-06,0.1,0.296,-6.772,0.221,169.134,4
+33,Eventually,Currents,Tame Impala,2015-07-17,318591,65,0.0158,0.424,0.615,0.000389,0.0844,0.155,-6.217,0.0325,77.935,4
+34,Counting Sheep,Counting Sheep,SAFIA,2015-03-13,173081,0,0.0135,0.777,0.524,8.38e-06,0.129,0.617,-6.549,0.037,94.959,4
+35,All My Friends (feat. Tinashe & Chance the Rapper),All My Friends (feat. Tinashe & Chance the Rapper),Snakehips,2015-10-21,229746,72,0.119,0.689,0.521,8.41e-05,0.108,0.178,-5.845,0.132,95.055,4
+36,Alright,To Pimp A Butterfly,Kendrick Lamar,2015-03-16,219333,72,0.0742,0.796,0.766,0.0,0.0827,0.558,-5.974,0.238,110.034,4
+37,Delilah,"How Big, How Blue, How Beautiful (Deluxe)",Florence + The Machine,2015-06-01,293468,49,0.096,0.426,0.87,0.0,0.112,0.414,-3.821,0.0621,169.946,4
+38,Swear Jar,Swear Jar,Illy,2015-11-17,186237,42,0.103,0.692,0.632,0.0,0.119,0.836,-7.009,0.326,135.668,4
+39,Ship To Wreck,"How Big, How Blue, How Beautiful (Deluxe)",Florence + The Machine,2015-06-01,234526,51,0.00147,0.564,0.923,0.0,0.277,0.587,-3.843,0.0325,141.991,4
+40,Puppet Theatre,Puppet Theatre,Claptone,2015-07-28,254640,0,0.0753,0.936,0.648,0.0509,0.104,0.663,-6.72,0.0404,115.026,4
+41,Hold Me Down,BADLANDS (Deluxe),Halsey,2015-08-28,204785,60,0.279,0.677,0.744,0.0,0.119,0.531,-4.512,0.0882,145.928,4
+42,Pedestrian at Best,"Sometimes I Sit and Think, And Sometimes I Just Sit",Courtney Barnett,2015-03-23,230560,0,4.61e-06,0.479,0.854,5.72e-05,0.372,0.535,-6.101,0.0405,136.067,4
+43,Something About You,Something About You,Hayden James,2015-04-22,225181,62,0.369,0.861,0.602,0.0644,0.0751,0.684,-7.314,0.0617,114.978,4
+44,Throne,That's The Spirit,Bring Me The Horizon,2015-09-11,191520,73,0.000455,0.426,0.888,0.0,0.306,0.387,-3.72,0.0987,144.111,4
+45,Go,Born In The Echoes,The Chemical Brothers,2015-07-10,260696,46,0.00957,0.751,0.897,2.88e-05,0.329,0.482,-3.598,0.0468,119.97,4
+46,Dynamite (feat. Allday),Dynamite (feat. Allday),Asta,2015-03-11,237491,24,0.0671,0.79,0.758,3.72e-05,0.0452,0.901,-5.982,0.0557,107.98,4
+47,Crushed,Ire,Parkway Drive,2015-09-25,276222,53,0.00228,0.404,0.964,5.16e-06,0.0888,0.24,-4.569,0.115,84.996,4
+48,Too Much Time Together,Gracetown,San Cisco,2015-03-06,169996,49,0.263,0.563,0.841,0.000258,0.0751,0.954,-5.35,0.0519,154.876,4
+49,Deception Bay,Deception Bay – Single,Boo Seeka,2015-08-07,189033,35,0.0305,0.483,0.801,0.00876,0.104,0.302,-5.253,0.0343,185.967,4
+50,Clearest Blue,Every Open Eye,CHVRCHES,2015-09-25,233769,0,0.017,0.641,0.832,0.00186,0.0648,0.167,-5.873,0.0333,123.03,4
+51,Cream On Chrome - Single Edit,Cream On Chrome,Ratatat,2015-04-13,235362,22,0.0275,0.79,0.692,0.369,0.528,0.82,-4.704,0.0532,100.264,4
+52,Monday,Monday,Matt Corby,2015-10-01,247893,16,0.874,0.299,0.522,0.00656,0.07,0.229,-6.394,0.0571,89.757,4
+53,Working For It,Genesis Series,ZHU,2015-11-06,231813,55,0.0971,0.776,0.715,0.0131,0.247,0.502,-6.587,0.0505,99.951,4
+54,Multi-Love,Multi-Love,Unknown Mortal Orchestra,2015-05-26,250800,62,0.571,0.784,0.506,0.0,0.139,0.545,-5.243,0.0403,120.141,4
+55,Alive,Alive,Sia,2015-09-24,263893,51,0.289,0.32,0.752,0.000101,0.102,0.392,-4.91,0.056,98.88,4
+56,Foolish,Yuck,Alpine,2015-06-09,202614,28,0.0298,0.673,0.672,0.00991,0.0819,0.77,-6.01,0.0335,94.008,4
+57,Vice Grip,Ire,Parkway Drive,2015-09-25,263586,57,3.17e-05,0.48,0.988,0.00432,0.389,0.252,-3.229,0.0838,124.041,4
+58,Run,Run,Alison Wonderland,2015-03-20,218783,49,0.00389,0.507,0.779,0.02,0.398,0.109,-5.763,0.0333,145.02,4
+59,Kamikaze,Kamikaze,MØ,2015-10-15,214240,57,0.0368,0.663,0.878,3.39e-06,0.328,0.704,-3.195,0.0646,158.035,4
+60,'Cause I'm A Man,Currents,Tame Impala,2015-07-17,241986,63,0.108,0.547,0.695,0.00301,0.14,0.641,-4.969,0.0337,144.684,4
+61,Omen - Radio Edit,Omen (Radio Edit),Disclosure,2015-07-27,196817,64,0.115,0.671,0.786,0.0,0.363,0.621,-4.857,0.14,106.057,4
+62,Walk the Wire,Limit of Love,Boy & Bear,2015-10-09,179120,34,0.00136,0.535,0.895,0.000449,0.101,0.703,-4.985,0.042,139.477,4
+63,L$D,AT.LONG.LAST.A$AP,A$AP Rocky,2015-05-26,238306,75,0.194,0.598,0.252,0.133,0.0992,0.0352,-15.086,0.0644,120.064,4
+64,Don't Wanna Fight,Sound & Color,Alabama Shakes,2015-04-21,232530,0,0.235,0.597,0.915,0.0865,0.106,0.555,-3.298,0.152,100.444,4
+65,M.O.B.,Switch Tape EP,Tkay Maidza,2015-12-04,194275,0,0.285,0.692,0.852,0.0,0.194,0.429,-3.454,0.0478,137.95,4
+66,Give Me a Try,Glitterbug (Deluxe Edition),The Wombats,2015-04-14,228470,44,0.000815,0.623,0.922,0.0,0.069,0.681,-3.013,0.0534,135.976,4
+67,Shutdown,Shutdown,Skepta,2015-04-26,188938,0,0.126,0.656,0.746,0.0,0.508,0.824,-4.716,0.314,104.044,3
+68,Forces,Forces,Japanese Wallpaper,2015-03-26,252315,0,0.287,0.597,0.754,0.00614,0.264,0.591,-7.264,0.028,156.014,4
+69,What Kind Of Man,"How Big, How Blue, How Beautiful (Deluxe)",Florence + The Machine,2015-06-01,216176,51,0.0229,0.313,0.635,0.0,0.129,0.224,-4.676,0.0431,114.776,4
+70,Flesh without Blood,Flesh without Blood,Grimes,2015-10-26,264523,0,0.000904,0.481,0.965,0.000727,0.476,0.66,-2.993,0.0875,155.938,4
+71,Anchor,Anchor EP,Birds Of Tokyo,2015-04-24,216096,10,0.0883,0.597,0.716,0.0,0.14,0.554,-4.771,0.0275,87.979,4
+72,Once - Radio Edit,Once,Ngaiire,2015-07-10,267212,0,0.664,0.76,0.48,0.00172,0.105,0.12,-10.455,0.0371,104.995,4
+73,Powerful (feat. Ellie Goulding & Tarrus Riley),Peace Is The Mission (Extended),Major Lazer,2015-11-27,206327,0,0.121,0.598,0.792,0.0,0.158,0.732,-4.043,0.0478,97.479,3
+74,Elevator Operator,"Sometimes I Sit and Think, And Sometimes I Just Sit",Courtney Barnett,2015-03-23,194946,0,0.000766,0.682,0.769,0.00898,0.36,0.769,-7.197,0.0324,131.693,4
+75,Suddenly,Nothing Touches Me,British India,2015-03-13,267225,0,0.0687,0.532,0.828,5.78e-05,0.111,0.578,-5.081,0.0422,126.811,4
+76,Lay Down,Lay Down,DMA'S,2015-09-29,193042,0,0.00177,0.329,0.832,7.77e-05,0.128,0.461,-2.208,0.0383,78.531,4
+77,Weathered,Weathered,Jack Garratt,2015-07-06,274174,0,0.0885,0.367,0.497,6.33e-05,0.0792,0.291,-7.311,0.0436,146.63,4
+78,Wolves,Wolves,The Cat Empire,2015-10-09,202840,24,0.125,0.659,0.9,0.127,0.347,0.856,-5.461,0.0426,121.244,4
+79,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",AT.LONG.LAST.A$AP,A$AP Rocky,2015-05-26,260986,73,0.00996,0.394,0.661,0.0,0.343,0.335,-8.684,0.192,149.818,4
+80,Depreston,"Sometimes I Sit and Think, And Sometimes I Just Sit",Courtney Barnett,2015-03-23,292853,0,0.0246,0.692,0.467,1.43e-05,0.059,0.422,-11.577,0.0336,126.407,4
+81,Down To Earth - Radio Edit,Down To Earth (Remixes),Flight Facilities,2015-05-18,190812,0,0.0122,0.735,0.622,0.465,0.101,0.417,-5.526,0.0316,121.953,4
+82,Heart Attack - Radio Edit,Heart Attack (Remixes),Flight Facilities,2015-10-07,224516,0,0.374,0.707,0.555,0.0728,0.124,0.173,-10.484,0.0606,123.967,4
+83,Happy Song,That's The Spirit,Bring Me The Horizon,2015-09-11,239386,66,4.02e-05,0.295,0.924,0.00462,0.377,0.219,-3.407,0.0678,171.941,4
+84,begin again,another eternity,Purity Ring,2015-03-02,217201,23,0.0108,0.598,0.565,0.0471,0.307,0.328,-7.764,0.0471,92.126,4
+85,Party Machine,Party Machine,The Bennies,2015-11-06,164948,19,0.00713,0.589,0.889,7.92e-05,0.672,0.619,-4.446,0.0545,164.963,4
+86,High By The Beach,Honeymoon,Lana Del Rey,2015-09-18,257573,66,0.244,0.536,0.486,0.00788,0.12,0.0968,-11.067,0.0346,131.988,4
+87,Gemini (feat. George Maple),Gemini (feat. George Maple),What So Not,2015-04-03,270257,53,0.238,0.481,0.687,0.11,0.107,0.188,-6.748,0.0699,145.971,4
+88,Be Your Shadow,Glitterbug (Deluxe Edition),The Wombats,2015-04-14,215693,37,0.0251,0.636,0.965,1.12e-06,0.146,0.551,-2.897,0.064,125.043,4
+89,No One (feat. Thelma Plum),XXIV,Golden Features,2015-06-19,295056,46,0.18,0.766,0.549,0.069,0.209,0.255,-10.578,0.0778,119.943,4
+90,Indian Summer,Indian Summer,Jai Wolf,2015-06-09,248470,58,0.0246,0.507,0.824,0.0451,0.0848,0.0394,-2.501,0.0526,84.992,4
+91,Ghost,BADLANDS (Deluxe),Halsey,2015-08-28,153656,61,0.0529,0.57,0.606,0.000727,0.134,0.212,-8.085,0.129,95.038,4
+92,Nobody Really Cares If You Don't Go to the Party,"Sometimes I Sit and Think, And Sometimes I Just Sit",Courtney Barnett,2015-03-23,166080,0,1.64e-05,0.421,0.93,0.128,0.341,0.574,-5.133,0.0741,136.688,4
+93,Rumour Mill (feat. Anne-Marie & Will Heard),We the Generation,Rudimental,2015-10-02,243783,50,0.147,0.842,0.534,7.77e-05,0.261,0.761,-8.547,0.171,119.976,4
+94,Twilight Driving,Oh Inhuman Spectacle,Methyl Ethel,2015-06-05,239356,51,0.123,0.599,0.744,0.0128,0.365,0.585,-6.502,0.0298,124.034,4
+95,Be Together (feat. Wild Belle),Peace Is The Mission,Major Lazer,2015-06-01,233010,0,0.00142,0.497,0.627,0.0,0.619,0.193,-6.141,0.0319,79.93,4
+96,True Friends,That's The Spirit,Bring Me The Horizon,2015-09-11,232320,66,0.000683,0.419,0.938,0.0,0.114,0.333,-3.12,0.0837,160.151,4
+97,Hell Boy,Strange New Past,Seth Sentry,2015-06-19,204000,0,0.0195,0.726,0.792,0.0,0.0849,0.492,-3.395,0.169,140.102,4

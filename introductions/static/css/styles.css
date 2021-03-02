@@ -1,0 +1,88 @@
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+
+body {
+    background: #f5f5f5;}
+  
+  title {
+    text-align: center;
+    font: sans-serif;
+  }
+
+  h1 {
+    font-size: 80px;
+    text-align: center;
+    font: sans-serif;
+  }
+  
+  h2 {
+    font-size: 60px;
+    text-align: center;
+    font: sans-serif;}
+  
+  h3 {
+    font-size: 40px;
+    text-align: center;
+    font: sans-serif;}
+  
+  h4 {
+    font-size: 20px;
+    text-align: center;}
+
+  p {
+    font-size: 20px;
+    font: sans-serif;
+
+
+
+  }
+ 
+  /* Giving our navbar some padding and a background color */
+  .navbar {
+    padding: 10px;
+    background: #228b22;
+    text-align: center}
+  
+  body {
+    text-align: center;
+    font: sans-serif;}
+  
+  .navbar li {
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 3px;}
+  
+  /* Getting rid of the default link styles here */
+  .navbar li a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  /* Styling the header, giving it a height, a background color, and some top padding */
+  .header {
+    height: 200px;
+    padding-top: 20px;
+    background: #f5f5f5;
+  }
+  
+  /* Centering our h1 tag inside our header, giving it a little padding, removing its margin */
+  .header h1 {
+    padding: 60px;
+    margin: 0;
+    color: #000;
+    text-align: center;
+  }
+  
+  /* Giving the .post element margin on 3 sides */
+  .post {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  

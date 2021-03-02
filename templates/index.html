@@ -1,0 +1,130 @@
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Spotify App</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abel">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=ABeeZee">
+  	<link rel="stylesheet" href="../static/css/forrest_style.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script>		 
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>		 
+	<script src="https://d3js.org/d3.v5.min.js"></script>		 
+</head>
+
+<!-- NAVIGATION -->
+
+<nav class="navbar navbar-default">
+  <div class="row">
+    <div class="navbar-header"></div>
+    </div>
+      <ul class="nav navbar-nav navbar-right navbar-right-custom"></ul>
+          <li class="nav-item">
+             <a class="nav-link" href="{{ url_for('callback') }}">Project</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ url_for('team') }}">Team</a>
+          </li>
+          <li class="nav-item">
+          <a class="nav-link" href="{{ url_for('clustering') }}">Clustering</a>
+          </li>
+          <li class="nav-item">
+          <a class="nav-link" href="{{ url_for('forest') }}">Popularity Prediction</a>
+          </li>
+          </li>
+          <li class="nav-item">
+          <a class="nav-link" href="{{ url_for('mood') }}">Mood Prediction</a>
+          </li>
+    </div>
+  </div>
+</nav>
+
+<main>
+<div class="hero text-center">
+  <h1>Spotify Analysis</h1>
+  <p>Use our prediction model to determine how trash your music taste is</p>
+</div>
+
+
+<div class='container'>
+  <div class ='row'>
+
+    <h3>The Spotify Web API</h3>
+    <p class = "text-justify">Based on simple REST principles, the Spotify Web API endpoints return JSON metadata about music artists, albums, and tracks, directly from the Spotify Data Catalogue.
+    Web API also provides access to user related data, like playlists and music that the user saves in the Your Music library. Such access is enabled through selective authorization, by the user.
+    We registered our app to obtain a client secret and client id which were used to generate our log in page and access user listening data.<br>
+    <br>
+    The Spotify Developer Platform, allows us to to read calculated audio features of tracks to learn about its danceability, energy, valence, and more. For more advanced use cases, 
+    it is possible to read in-depth analysis data about tracks such as the segments, tatums, bars, beats, pitches, and more.<br>
+            
+    <ul>- Mood: Danceability, Valence, Energy, Tempo</ul>
+    <ul>- Properties: Loudness, Speechiness, Instrumentalness</ul>
+    <ul>- Context: Liveness, Acousticness</ul>
+    <ul>- Segments, Tatums, Bars, Beats, Pitches, Timbre, and more</ul>
+    <br></p>
+    <h3>Analysing Spotify Data with Spotipy</h3>
+    <p class = "text-justify">Spotipy is a lightweight Python library for the Spotify Web APO. This library gave us full access to all of the music data on the Spotify platform.
+     Using this library, we extracted the track features of the six most recent Triple J hottest 100 countdowns and used this data to train and test our machine learning models.</p>
+
+    <h3>Scikit-learn</h3>
+    <p class = "text-justify">We used the scikit-learn to train and test a number of models with the intention of predicting song mood and popularity. Our clustering models rendered some interesting results,
+    but random forest was our most successful modelling with upwards of 80% accuracy.         
+    </p>
+  </div>
+</div>
+
+<div class ='container'>
+  <div class ='row'>
+    <h3>Visualisations:</h3>
+
+    <h4>Line Graph</h4>
+    <p class = "text-justify">When looking into the track features, we thought it was interesting to compare how song features had changed over time, this could help us create our prediction models for popularity. 
+      Energy has decreased over the past 5 years, while both valence and danceability show a slight increase, platauing around 2018.
+      Danceability appears to be trending down post 2019.<br>
+      
+      Acousticness has shown the greatest variation over the 5 years, while speechiness has remained reasonably consistant. 
+      Both Liveness and Intrumentalness have shown a moderate amount of movement over the time period.</p>
+    <section><img src="{{url_for('static', filename='images/line-1.png')}}" class="img-fluid" alt="Responsive image" class="rounded float-center">
+            <img src="{{url_for('static', filename='images/line-2.png')}}" class="img-fluid" alt="Responsive image" class="rounded float-center"></section><br>
+
+
+    <h4>Histograms</h4>
+      <p class = "text-justify">We used clustering models to class music into four mood categories:<br>
+      <ul>1. Calm</ul>
+      <ul>2. Happy</ul>
+      <ul>3. Sad</ul>
+      <ul>4. Energetic</ul>
+      We then exported the songs in each mood category into seperate DataFrames and compared the song features of each mood in histogram visualisations using matplotlib<br>
+      This is where we can see the difference between the different features of each mood and how they compare. It's interesting to note that sad and happy songs are similarly 'danceable' while sad songs are less 'danceable' than sad songs.</p>
+        <section><img src="{{url_for('static', filename='images/danceability.png')}}" class="img-fluid" alt="Responsive image" class="rounded float-center"></section><br>
+        <section><img src="{{url_for('static', filename='images/energy.png')}}" class="img-fluid" alt="Responsive image" class="rounded float-center"></section><br>
+        <section><img src="{{url_for('static', filename='images/valence.png')}}" class="img-fluid" alt="Responsive image" class="rounded float-center"></section><br>
+         
+
+    <h4>Mean Track Feature by Mood</h4>
+      <p class = "text-justify"></p>This graph shows the difference in the mean values for each feature by mood classification. 
+      Again, it's interesting to note that energetic songs don't rate very high in Danceability or Valence categoriies, while there isn't a great difference in the mean danceability of all other mood categories. Each of these three track features highest values are either 'Happy' and 'Energetic'. 
+      Finally, valence track features have the highest value of Happiness.
+      </p>
+        <section> <img src="{{url_for('static', filename='images/mean-track-features.png')}}" class="img-fluid" alt="Responsive image" class="rounded float-center"></section><br>
+    </div>
+</div>
+
+</main>
+ 
+
+<script type="text/javascript" scr="static\js\app.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+<script src="static/js/data.js"></script>
+<script src="static/js/app.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+<script src='../static/js/forest.js'></script>
+
+</body>
+</html>

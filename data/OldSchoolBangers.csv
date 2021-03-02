@@ -1,0 +1,101 @@
+,Name,Album,Artist,Release_date,Length,Popularity,Track_id,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Valence,Loudness,Speechiness,Tempo,Time_signature
+0,The Sweet Escape,The Sweet Escape (International Version),Gwen Stefani,2006-01-01,246466,0,26eOTllWPn7oKuDUJnsJwF,0.191,0.756,0.77,0.0,0.178,0.73,-3.502,0.0343,119.961,4
+1,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,Disc-Overy,Tinie Tempah,2010-05-31,206460,41,7xqK9Kc2m6Nkn8Settuy16,0.00237,0.736,0.929,1.11e-05,0.402,0.658,-5.89,0.0674,125.03,4
+2,Pass Out,Disc-Overy,Tinie Tempah,2010,268053,59,2cY7WSxFIsZQaoDNJe7Fz3,0.0281,0.693,0.891,0.0,0.143,0.532,-3.261,0.296,91.1,4
+3,Dog Days Are Over,Between Two Lungs,Florence + The Machine,2010-01-01,252818,0,5vGEdM7LvbgMypJkILhQ4p,0.0363,0.494,0.831,0.00345,0.119,0.271,-5.151,0.0996,150.248,4
+4,You've Got The Dirtee Love - Live At The Brit Awards / 2010,Between Two Lungs,Florence + The Machine,2010-01-01,221066,0,44BD9ncgmBTbSSdR21coX6,0.449,0.362,0.911,0.0,0.964,0.471,-4.542,0.194,84.851,3
+5,Seven Nation Army,Elephant,The White Stripes,2003-04-01,231920,3,3m6KkYKdnbffMpGd9Pm9FP,0.00666,0.745,0.466,0.35,0.272,0.303,-7.62,0.0864,123.889,4
+6,Teenage Dirtbag,50 Summer Hits,Various Artists,2009-06-11,241613,0,39L1UeplZpNWwbSEo8YcNw,0.305,0.619,0.853,0.000176,0.152,0.628,-3.883,0.0518,94.661,4
+7,It Wasn't Me,Summer Party,Various Artists,2007-01-01,227720,46,4i387P9kogblRBfjFi3NaX,0.0443,0.85,0.551,0.0,0.329,0.679,-6.596,0.0717,94.751,4
+8,Ignition (Remix),The R. In R&B Collection: Volume 1,R. Kelly,2003-09-11,187733,0,0nmxH6IsSQVT1YEsCB9UMi,0.0615,0.787,0.527,0.0,0.0656,0.807,-6.981,0.0512,133.107,4
+9,"Lose Yourself - From ""8 Mile"" Soundtrack",Curtain Call: The Hits,Eminem,2005-12-06,326466,0,1JOgNMKbemRhrD9pjL7fKz,0.00971,0.701,0.728,0.00115,0.361,0.0591,-4.554,0.255,171.388,4
+10,Earthquake (feat. Tinie Tempah) - Radio Edit,Earthquake (feat. Tinie Tempah),Labrinth,2011-10-23,216386,10,00qGLiQp7RxQqf9ZUjlZva,0.135,0.512,0.835,0.0,0.09,0.309,-4.306,0.135,153.063,4
+11,Stacy's Mom,Welcome Interstate Managers,Fountains Of Wayne,2003-01-01,197986,73,27L8sESb3KR79asDUBu8nW,0.00207,0.774,0.75,1.78e-05,0.0808,0.927,-4.927,0.0412,118.015,4
+12,Low (feat. T-Pain),Mail on Sunday,Flo Rida,2008-03-17,231400,79,0CAfXk7DXMnon4gLudAp7J,0.0928,0.918,0.609,0.0,0.139,0.304,-5.64,0.0791,128.008,4
+13,Where Is The Love?,Elephunk,Black Eyed Peas,2003-01-01,272533,61,7oPnZNl1acGA7ELxsNirrR,0.111,0.834,0.699,0.0,0.131,0.803,-3.222,0.196,94.069,4
+14,I Gotta Feeling,The Beginning & The Best Of The E.N.D. (International Mega-Deluxe Version),Black Eyed Peas,2010-01-01,289186,0,1u0aIMrEBvFkRtgcg264gW,0.0792,0.74,0.751,0.0,0.392,0.634,-6.324,0.0275,127.956,4
+15,Song 2,Blur: The Best Of,Blur,2000-10-23,121880,64,3GfOAdcoc3X5GPiiXmpBjK,0.00188,0.658,0.709,0.00447,0.0657,0.855,-6.736,0.0904,129.699,4
+16,Fire,Fire,Kasabian,2009-05-29,251946,45,7K2vo9oSUzFgmtIXNYegzP,0.0867,0.526,0.741,0.128,0.108,0.17,-5.663,0.0311,117.031,4
+17,Feel Good Inc.,Demon Days,Gorillaz,2005-05-23,222640,80,0d28khcov6AiegSCpG5TuT,0.00836,0.818,0.705,0.00233,0.613,0.772,-6.679,0.177,138.559,4
+18,Pumped Up Kicks,Torches,Foster The People,2011-05-23,239600,83,7w87IxuO7BDcJ3YUqCyMTT,0.145,0.733,0.71,0.115,0.0956,0.965,-5.849,0.0292,127.975,4
+19,Ni**as In Paris,Watch The Throne (Deluxe),JAY-Z,2011-08-08,219333,79,4Li2WHPkuyCdtmokzW2007,0.127,0.789,0.858,0.0,0.349,0.775,-5.542,0.311,140.022,4
+20,POWER,My Beautiful Dark Twisted Fantasy,Kanye West,2010-01-01,292093,0,2RUFzxyUlI36KKy9Agkqze,0.0193,0.539,0.907,0.0,0.825,0.553,-4.757,0.13,154.0,4
+21,Gold Digger,Late Registration,Kanye West,2005-01-01,207626,60,3QHPHLAkYV5cQBUYs6rowx,0.0195,0.629,0.696,0.0,0.0554,0.623,-5.572,0.348,93.034,4
+22,Acceptable in the 80's,I Created Disco,Calvin Harris,2007-06-18,332826,43,7JPZYBDynF6KlqJyLfTI3K,0.0134,0.789,0.807,0.27,0.055,0.934,-5.417,0.0504,127.996,4
+23,Jump Around,House Of Pain (US Release),House Of Pain,1992,214946,0,2oTDOIAdsxPTE7yAp4YOcv,0.0113,0.854,0.71,8.72e-05,0.166,0.818,-6.32,0.0793,106.894,4
+24,Changed The Way You Kiss Me - Radio Edit,Playing In The Shadows,Example,2011-09-04,193107,0,0KBEVz2V72Ozn3AoXbpuXR,0.0082,0.562,0.811,0.000286,0.0765,0.211,-4.355,0.0416,127.029,4
+25,Dance Wiv Me,Tongue N' Cheek (Dirtee Deluxe Edition),Dizzee Rascal,2009,204093,0,2Slm8U9Ql1TlzHMC7gOCec,0.0488,0.885,0.745,0.0,0.164,0.778,-4.362,0.0448,112.005,4
+26,Wearing My Rolex - Radio Edit,See Clear Now,Wiley,2008-11-10,170480,58,5liQj4sVRmEEESvvcb64o8,0.0468,0.876,0.716,0.000482,0.0667,0.755,-6.884,0.135,131.942,4
+27,99 Problems,The Black Album (Explicit),JAY-Z,2003-11-14,234626,0,1l6DvDFssUqMnsFJNFnrRJ,0.00661,0.494,0.887,0.0,0.103,0.548,-4.297,0.398,89.554,4
+28,Dynamite,The Rokstarr Hits Collection,Taio Cruz,2010-01-01,202613,78,2CEgGE6aESpnmtfiZwYlbV,0.00379,0.751,0.783,0.0,0.036,0.816,-3.724,0.0859,119.975,4
+29,Beautiful Girls,Beautiful Girls,Sean Kingston,2007-07-23,225373,77,1hGy2eLcmC8eKx7qr1tOqx,0.15,0.762,0.661,0.0,0.256,0.769,-6.075,0.0687,130.009,4
+30,Bump & Grind,R&B Classics,Sweet N Slow,2010-08-06,246935,0,7I2zHQonXbaOGUp7LzCi5m,0.116,0.668,0.375,0.0,0.357,0.747,-13.004,0.0374,130.159,4
+31,All Star,All Star Smash Hits,Smash Mouth,2005-01-01,200560,0,22c2pt75xtnDddA5Zlm0yy,0.0398,0.73,0.862,0.0,0.0818,0.77,-5.876,0.0313,104.018,4
+32,Chelsea Dagger,Costello Music,The Fratellis,2006-01-01,215306,66,1bCmvezFg5MRcENzCGG1Cy,0.0491,0.511,0.815,0.0,0.0826,0.586,-3.14,0.144,154.514,4
+33,Goodbye Mr A,The Trick To Life,The Hoosiers,2007-10-22,266813,58,4spfRBAAdrMKR35lZWrgYF,0.0861,0.469,0.84,0.00195,0.187,0.573,-3.263,0.0294,185.966,4
+34,Sticks 'N' Stones,Kings & Queens,Jamie T,2009-01-01,240832,60,1khoSOxg6VHzvRlVkczrbl,0.0572,0.545,0.851,0.0,0.403,0.787,-3.569,0.0935,179.947,4
+35,Golden Skans,Myths Of The Near Future,Klaxons,2007,165120,0,7kcyCnpHm1BZGB9Wc7MCZH,0.000418,0.463,0.836,7.38e-06,0.25,0.713,-2.776,0.0381,141.955,4
+36,Sweet Nothing (feat. Florence Welch),18 Months,Calvin Harris,2012-10-29,212560,71,24LS4lQShWyixJ0ZrJXfJ5,0.197,0.573,0.929,0.000112,0.0567,0.582,-3.942,0.109,127.934,4
+37,Day ‘N’ Nite - Radio Edit,Day ‘N’ Nite,Crookers,2009-01-12,162765,0,4bWVB6ir9mnfYracLYlL8y,0.121,0.771,0.729,0.00356,0.117,0.966,-5.529,0.0552,130.01,4
+38,Starry Eyed,Lights,Ellie Goulding,2011-03-08,176613,0,147k5Uj9xnXzmU9QUZzA2N,0.133,0.501,0.812,8.39e-06,0.324,0.603,-5.345,0.0375,149.86,4
+39,I'm A Believer - Soundtrack Version,Shrek (Music From The Original Motion Picture),Various Artists,2001-01-01,185760,0,60Ctoy2M8nmDaI7Fax3fTL,0.0175,0.534,0.976,1.02e-06,0.27,0.912,-2.337,0.0782,164.68,4
+40,Toxic,Greatest Hits: My Prerogative,Britney Spears,2004-11-08,198813,52,26nr9XnFCYWxBTIP7HyWXg,0.027,0.774,0.839,0.0166,0.252,0.923,-3.948,0.114,142.985,4
+41,Hips Don't Lie (feat. Wyclef Jean),"Oral Fixation, Vol. 2 (Expanded Edition)",Shakira,2005-11-28,218093,82,3ZFTkvIE7kyPt6Nu3PEa7V,0.284,0.778,0.824,0.0,0.405,0.756,-5.892,0.0712,100.024,4
+42,Shake It,Metro Station,Metro Station,2007-09-18,179946,70,5619Ojc6t9evEEs3B7Drhe,0.00221,0.618,0.955,3.09e-06,0.486,0.79,-3.836,0.0798,150.034,4
+43,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",Back To Black (Deluxe Edition),Amy Winehouse,2006,233733,71,6nLvaCZFR1wEzW3sIKpsnr,0.744,0.772,0.371,0.0,0.167,0.684,-5.743,0.0348,96.574,4
+44,Bonkers,Tongue N' Cheek (Dirtee Deluxe Edition),Dizzee Rascal,2009,177573,0,4X3DTWKa5uAqcUPlVQBgcC,0.00673,0.616,0.981,0.0,0.279,0.724,-3.3,0.256,126.113,4
+45,Naive,Inside In / Inside Out,The Kooks,2006-01-01,203506,72,7BHPGtpuuWWsvE7cCaMuEU,0.0759,0.391,0.808,0.0,0.149,0.737,-6.209,0.0892,100.304,4
+46,Mr. Brightside,Hot Fuss (International Version Ecopac),The Killers,2004-06-15,222106,0,4L3sku3mPh6uWGNA63VCgu,0.00113,0.352,0.928,0.0,0.0987,0.239,-3.71,0.0758,148.026,4
+47,That's Not My Name,We Started Nothing,The Ting Tings,2008-05-19,310573,51,0GrrLYCH8u81aENhC8FBF4,0.0451,0.755,0.901,0.0373,0.363,0.959,-3.152,0.0893,145.042,4
+48,Crank That (Soulja Boy),souljaboytellem.com,Soulja Boy,2007-01-01,221933,74,66TRwr5uJwPt15mfFkzhbi,0.515,0.736,0.74,0.0,0.0468,0.803,-2.18,0.0786,140.141,4
+49,Kids,Oracular Spectacular,MGMT,2007-12-14,302840,77,1jJci4qxiYcOHhQR247rEU,0.00076,0.451,0.931,0.0049,0.361,0.172,-3.871,0.0719,122.961,4
+50,Airplanes (feat. Hayley Williams of Paramore),B.o.B Presents: The Adventures of Bobby Ray,B.o.B,2010-04-27,180480,67,1QnvpPFP4Q3FHbDchqWiWy,0.11,0.66,0.867,0.0,0.0368,0.377,-4.285,0.116,93.033,4
+51,Like A G6,Dirty Bass (Deluxe),Far East Movement,2012,219306,22,2s5YN9O8Qv25BjQobPHWVZ,0.00618,0.431,0.862,0.0,0.322,0.696,-7.005,0.428,124.93,4
+52,Dragostea Din Tei - Original Romanian Version,Time 25th Anniversary,Various Artists,2009-12-25,213461,0,09nxdcY2oYo57fJrG6CCCT,0.173,0.813,0.966,0.0,0.0729,0.681,-3.924,0.0417,130.086,4
+53,Umbrella,Good Girl Gone Bad,Rihanna,2007-03-31,275360,0,5DTun2UqgKVq1aK8u5O375,0.00822,0.583,0.829,0.0,0.0899,0.552,-4.524,0.115,174.089,4
+54,American Boy (feat. Kanye West),American Boy (feat. Kanye West),Estelle,2008-01-29,284733,0,5qm85spREm4P8Q46RxsEV8,0.19,0.728,0.723,0.0,0.0597,0.521,-2.975,0.324,117.95,4
+55,Hot N Cold,One Of The Boys,Katy Perry,2008-06-17,220226,70,0iGckQFyv6svOfAbAY9aWJ,7.95e-05,0.706,0.841,0.0,0.0688,0.861,-3.956,0.0418,132.032,4
+56,Jai Ho! (You Are My Destiny),Jai Ho! (You Are My Destiny),A.R. Rahman,2009-01-01,222400,0,59wpu37k02o2UGZIPpcSPd,0.0476,0.657,0.941,0.0,0.0797,0.879,-3.919,0.061,136.202,4
+57,Mambo No. 5 (A Little Bit of...),King of Mambo,Lou Bega,2002-05-31,219600,0,5lA6mFOvaiienokVbTZEQx,0.107,0.607,0.802,0.0,0.305,0.901,-6.849,0.403,174.201,4
+58,Ruby,"Yours Truly, Angry Mob",Kaiser Chiefs,2007-01-01,204200,0,0N5x5UmYcbBeHFJtCCqf62,0.00673,0.451,0.939,4.85e-06,0.0774,0.448,-2.82,0.0512,93.416,4
+59,It's Raining Men,80s 100 Hits,Various Artists,2010-02-26,212000,63,5TgD3Wh5ZUZnUU4tmVvJbx,0.207,0.705,0.898,0.00118,0.702,0.657,-6.371,0.0702,136.282,4
+60,Written in the Stars (feat. Eric Turner),Written in the Stars (feat. Eric Turner),Tinie Tempah,2010-09-24,219560,37,3bF9INaPMwgsYPRuOqHDDR,0.0587,0.644,0.945,0.0,0.184,0.573,-3.534,0.0717,91.017,4
+61,Mysterious Girl - Radio Edit,The Long Road Back,Peter Andre,2004-06-07,217106,60,3GCpEbJzknVdpvx9WI03x3,0.14,0.655,0.822,0.0,0.298,0.859,-5.755,0.211,171.983,4
+62,Breathe (feat. Sean Paul) - Rap Version,Bittersweet,Blu Cantrell,2003-06-11,228000,63,1BPybPVkDfUjFDvqG04l58,0.048,0.8,0.663,0.0,0.252,0.472,-3.832,0.0324,91.934,4
+63,In Da Club,Get Rich Or Die Tryin',50 Cent,2003-02-06,193466,34,5JnBcxYo4hAfTXPmkrJZ1V,0.316,0.901,0.66,0.0,0.0878,0.808,-3.952,0.394,90.005,4
+64,This Ain't a Love Song,Everybody Wants To Be On TV,Scouting For Girls,2010-08-23,210680,57,4urgbN6tlGse0nFnEqOcZW,0.000413,0.461,0.915,0.0,0.415,0.526,-3.581,0.0455,176.7,4
+65,Crazy,St. Elsewhere,Gnarls Barkley,2006-04-24,177466,75,1vxw6aYJls2oq3gW0DujAo,0.0505,0.855,0.587,0.00714,0.105,0.64,-4.589,0.0336,111.97,4
+66,Empire State Of Mind,The Hits Collection Volume One,JAY-Z,2010-11-22,277106,37,6u8txb92XRmzfURmKEdZcr,0.0265,0.503,0.955,0.0,0.265,0.818,-1.533,0.381,173.521,4
+67,Replay,Replay,Iyaz,2009-08-18,182306,76,4E5P1XyAFtrjpiIxkydly4,0.173,0.706,0.751,0.0,0.168,0.195,-6.323,0.0708,91.031,4
+68,Call Me Maybe,Call Me Maybe,Carly Rae Jepsen,2012-01-01,193466,2,5unfeZUhKhICP73CDYBW4N,0.0126,0.778,0.615,1.44e-06,0.108,0.648,-6.529,0.0384,120.045,4
+69,Whistle,Wild Ones,Flo Rida,2012-06-22,224653,76,3bC1ahPIYt1btJzSSEyyrF,0.0208,0.747,0.937,0.0,0.29,0.739,-5.746,0.0453,103.976,4
+70,Holiday,Tongue N' Cheek (Dirtee Deluxe Edition),Dizzee Rascal,2009,220626,0,69lthMmNtlYX3woh9LK3yx,0.0677,0.554,0.916,0.0,0.0459,0.83,-1.926,0.0434,117.993,4
+71,Drinking from the Bottle (feat. Tinie Tempah),18 Months,Calvin Harris,2012-10-29,240346,61,1oHxIPqJyvAYHy0PVrDU98,0.0469,0.665,0.886,6.24e-05,0.0525,0.53,-4.175,0.0514,128.062,4
+72,Cooler Than Me - Single Mix,Cooler Than Me,Mike Posner,2010-04-05,214760,52,2MIqLCofYbazo7rXz5RErV,0.174,0.767,0.824,0.0,0.357,0.623,-4.558,0.0479,129.96,4
+73,Whatcha Say,Jason Derulo (International),Jason Derulo,2010-02-26,221253,71,7xkQdy0cy5ymoWT7nedvLz,0.0444,0.615,0.711,0.0,0.145,0.711,-5.507,0.0779,144.036,4
+74,Billionaire (feat. Bruno Mars),Billionaire (feat. Bruno Mars),Travie McCoy,2010-03-09,211160,71,2M9ULmQwTaTGmAdXaXpfz5,0.297,0.633,0.673,0.0,0.206,0.659,-6.403,0.258,86.776,4
+75,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),Usher,2004-03-23,250373,81,5rb9QrpfcKFHM1EUbSIurX,0.0183,0.894,0.791,0.0,0.0388,0.583,-4.699,0.112,105.018,4
+76,Glad You Came,Battleground,The Wanted,2011-01-01,197935,0,6nHqns54LRqDNjeqKDF3v8,0.0383,0.562,0.857,0.0,0.11,0.539,-3.926,0.0801,126.883,4
+77,Big Girl (You Are Beautiful),Life In Cartoon Motion,MIKA,2007-01-01,248000,0,6Gm1Eym26iEc9H6wkwbKYm,0.0306,0.794,0.758,1.38e-06,0.269,0.821,-6.289,0.0713,115.99,4
+78,Starz In Their Eyes,Overtones (Slidepac),Just Jack,2007-01-01,295933,0,7GkFDcHCGbLHOUE1O7804H,0.00184,0.669,0.8,0.000356,0.466,0.656,-6.731,0.0652,123.801,4
+79,Opposite of Adults,The Preview,Chiddy Bang,2010-10-01,193706,59,22wKQbMH8n7wZfso2VcLJL,0.0123,0.677,0.89,0.0,0.321,0.622,-5.46,0.159,96.009,4
+80,Kickstarts - Radio Edit,#hits,Example,2013-08-05,182520,0,7FyamVemJrcOWDSa4Sz5Rk,0.00322,0.607,0.864,0.0,0.265,0.567,-4.348,0.0609,126.056,4
+81,Crazy In Love (feat. Jay-Z),Dangerously In Love,Beyoncé,2003-06-24,236133,75,5IVuqXILoxVWvWEPm82Jxr,0.00249,0.646,0.77,0.0,0.0715,0.681,-6.596,0.226,99.165,4
+82,A-Punk,Vampire Weekend,Vampire Weekend,2008-01-27,137760,40,5dKBaysNJtfpyNTRa5lqDb,0.0102,0.551,0.821,0.0438,0.153,0.842,-4.489,0.0539,174.923,4
+83,We Are Young (feat. Janelle Monáe),Some Nights,fun.,2012-02-14,250626,75,5rgy6ghBq1eRApCkeUdJXf,0.02,0.378,0.638,7.66e-05,0.0849,0.735,-5.576,0.075,184.086,4
+84,Cry Me a River,Justified,Justin Timberlake,2002-11-04,288333,73,7Lf7oSEVdzZqTA0kEDSlS5,0.577,0.624,0.654,0.0,0.104,0.564,-6.582,0.183,73.898,4
+85,Starships,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),Nicki Minaj,2012-01-01,210626,74,2EBCVPNAG46nbgs6jXPGvv,0.135,0.747,0.716,0.0,0.251,0.751,-2.457,0.075,125.008,4
+86,The Bad Touch,Hooray For Boobies,Bloodhound Gang,1999,260506,0,2ypT0w7jeCwcEQQvNE5o92,0.00355,0.827,0.747,0.0253,0.101,0.969,-6.247,0.0377,122.984,4
+87,"Whenever, Wherever",Laundry Service,Shakira,2001-11-13,196160,73,2lnzGkdtDj5mtlcOW2yRtG,0.236,0.793,0.832,1.12e-05,0.202,0.872,-4.862,0.0406,107.661,4
+88,What You Know,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,189693,0,5uVM8EIOTi0vAOUa4aNdCy,0.000665,0.55,0.753,7.74e-06,0.0921,0.841,-4.003,0.0407,139.048,4
+89,Too Many Man,Race Against Time,Wiley,2009-06-08,213386,0,2pucr6x078XuZbNLy8N8PA,0.0471,0.707,0.88,0.0,0.17,0.637,-5.492,0.274,129.942,4
+90,Down With The Trumpets,Stereo Typical,Rizzle Kicks,2011-01-01,186851,0,38Q8bp8VfCzCWWa0lPzCnB,0.0876,0.754,0.877,0.0,0.219,0.771,-4.59,0.079,115.021,4
+91,Party All Night (Sleep All Day),Party All Night (Sleep All Day),Sean Kingston,2010-12-21,222440,48,5bPrateGU0smTv4ZQhuEZS,0.000749,0.595,0.86,0.0,0.445,0.8,-3.902,0.0665,124.038,4
+92,Ridin' Solo,Jason Derulo (International),Jason Derulo,2010-02-26,215746,67,6OEolOOk9Gh9bqkdpfIOl0,0.128,0.442,0.83,0.0,0.129,0.578,-4.02,0.146,89.338,4
+93,Down,Down,Jay Sean,2009-01-01,212280,0,6ND2f7SUjYNpLqL0WPcNT1,0.0108,0.654,0.684,0.0,0.0768,0.7,-4.509,0.032,66.001,4
+94,Frisky (feat. Labrinth),Disc-Overy,Tinie Tempah,2010-05-31,295400,31,61qCzi7xhab75EqSk9kMNZ,0.121,0.609,0.719,0.0,0.125,0.415,-6.04,0.119,82.372,4
+95,In My Head,Jason Derulo (International),Jason Derulo,2010-02-26,199026,68,6St9lR6dhV2tpCNVz7qfrS,0.0266,0.762,0.748,0.0,0.348,0.851,-4.15,0.033,110.009,4
+96,The Real Slim Shady,Curtain Call (Deluxe),Eminem,2005-12-06,284800,0,1MYlx4dBtiyjn7K8YSyfzT,0.0331,0.947,0.655,0.0,0.0433,0.787,-4.243,0.0609,104.485,4
+97,I Love It (feat. Charli XCX) - Original Version,I Love It,Icona Pop,2012-06-19,155337,63,3VZQshi4COChhXaz7cLP02,0.00855,0.714,0.905,2.55e-05,0.146,0.838,-2.663,0.0289,125.927,4
+98,No One,As I Am (Expanded Edition),Alicia Keys,2007-11-09,253813,79,6IwKcFdiRQZOWeYNhUiWIv,0.0209,0.644,0.548,8.68e-06,0.134,0.166,-5.416,0.0286,90.042,4
+99,I Need A Doctor,I Need A Doctor,Dr. Dre,2011-02-01,283733,0,1aUT4xl8iiYNr6emik4qTB,0.103,0.587,0.931,1.16e-06,0.346,0.445,-4.426,0.467,155.964,4

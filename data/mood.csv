@@ -1,0 +1,594 @@
+,Name,Artist,Danceability,Energy,Loudness,Valence,Tempo,kmeans,Mood
+0,Hoops,The Rubens,0.738,0.517,-5.82,0.772,96.037,2,Happy
+1,King Kunta,Kendrick Lamar,0.884,0.657,-4.569,0.489,107.059,0,Energetic
+2,Lean On (feat. MØ & DJ Snake),Major Lazer,0.723,0.809,-3.081,0.274,98.007,0,Energetic
+3,The Less I Know The Better,Tame Impala,0.64,0.74,-4.083,0.785,116.879,2,Happy
+4,Let It Happen,Tame Impala,0.602,0.881,-5.875,0.577,125.012,0,Energetic
+5,The Trouble with Us,Marcus Marr,0.828,0.744,-4.932,0.831,121.09,2,Happy
+6,Do You Remember,Jarryd James,0.662,0.334,-10.012,0.315,72.014,3,Sad
+7,The Buzz (feat. Mataya & Young Tapz),Hermitude,0.739,0.583,-6.434,0.497,140.941,3,Sad
+8,Can't Feel My Face,The Weeknd,0.702,0.77,-5.416,0.593,107.951,2,Happy
+9,Magnets,Disclosure,0.704,0.628,-7.882,0.654,92.005,2,Happy
+10,Never Be,Meg Mac,0.572,0.592,-8.195,0.271,99.915,3,Sad
+11,You Were Right,RÜFÜS DU SOL,0.708,0.802,-5.427,0.701,121.973,2,Happy
+12,Ocean Drive,Duke Dumont,0.686,0.718,-5.054,0.557,115.026,0,Energetic
+13,Hotline Bling,Drake,0.896,0.623,-8.008,0.585,134.962,2,Happy
+14,Like Soda,Violent Soho,0.359,0.911,-3.791,0.252,133.624,0,Energetic
+15,Fire and the Flood,Vance Joy,0.6,0.79,-5.466,0.345,115.063,0,Energetic
+16,Middle,DJ Snake,0.564,0.737,-4.079,0.211,104.764,0,Energetic
+17,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,0.828,0.609,-4.402,0.707,109.725,2,Happy
+18,The Hills,The Weeknd,0.356,0.567,-7.011,0.109,135.553,3,Sad
+19,Mountain at My Gates,Foals,0.495,0.931,-5.336,0.617,104.05,0,Energetic
+20,Magnolia,Gang of Youths,0.429,0.665,-6.985,0.321,92.33,1,Calm
+21,Keeping Score (feat. Paige IV),L D R U,0.629,0.618,-5.51,0.644,92.071,2,Happy
+22,Embracing Me,SAFIA,0.716,0.681,-5.144,0.167,109.967,3,Sad
+23,Some Minds (feat. Andrew Wyatt),Flume,0.263,0.555,-6.884,0.191,79.783,3,Sad
+24,Shine On,The Amity Affliction,0.48,0.973,-2.586,0.495,94.332,0,Energetic
+25,I Know There's Gonna Be (Good Times),Jamie xx,0.458,0.595,-9.912,0.502,89.571,3,Sad
+26,Young,Vallis Alps,0.584,0.384,-12.144,0.184,93.981,1,Calm
+27,Like An Animal,RÜFÜS DU SOL,0.705,0.754,-6.27,0.401,120.004,0,Energetic
+28,Greek Tragedy,The Wombats,0.515,0.869,-4.732,0.452,93.24,0,Energetic
+29,Say My Name (feat. Benjamin Joseph),Peking Duk,0.478,0.635,-6.601,0.595,174.021,2,Happy
+30,Loud Places,Jamie xx,0.647,0.626,-10.753,0.185,109.015,3,Sad
+31,Leave A Trace,CHVRCHES,0.587,0.736,-5.824,0.177,99.614,3,Sad
+32,Long Loud Hours,Urthboy,0.404,0.548,-6.772,0.296,169.134,3,Sad
+33,Eventually,Tame Impala,0.424,0.615,-6.217,0.155,77.935,3,Sad
+34,Counting Sheep,SAFIA,0.777,0.524,-6.549,0.617,94.959,2,Happy
+35,All My Friends (feat. Tinashe & Chance the Rapper),Snakehips,0.689,0.521,-5.845,0.178,95.055,3,Sad
+36,Alright,Kendrick Lamar,0.796,0.766,-5.974,0.558,110.034,2,Happy
+37,Delilah,Florence + The Machine,0.426,0.87,-3.821,0.414,169.946,0,Energetic
+38,Swear Jar,Illy,0.692,0.632,-7.009,0.836,135.668,2,Happy
+39,Ship To Wreck,Florence + The Machine,0.564,0.923,-3.843,0.587,141.991,0,Energetic
+40,Puppet Theatre,Claptone,0.936,0.648,-6.72,0.663,115.026,2,Happy
+41,Hold Me Down,Halsey,0.677,0.744,-4.512,0.531,145.928,0,Energetic
+42,Pedestrian at Best,Courtney Barnett,0.479,0.854,-6.101,0.535,136.067,0,Energetic
+43,Something About You,Hayden James,0.861,0.602,-7.314,0.684,114.978,2,Happy
+44,Throne,Bring Me The Horizon,0.426,0.888,-3.72,0.387,144.111,0,Energetic
+45,Go,The Chemical Brothers,0.751,0.897,-3.598,0.482,119.97,0,Energetic
+46,Dynamite (feat. Allday),Asta,0.79,0.758,-5.982,0.901,107.98,2,Happy
+47,Crushed,Parkway Drive,0.404,0.964,-4.569,0.24,84.996,0,Energetic
+48,Too Much Time Together,San Cisco,0.563,0.841,-5.35,0.954,154.876,2,Happy
+49,Deception Bay,Boo Seeka,0.483,0.801,-5.253,0.302,185.967,0,Energetic
+50,Clearest Blue,CHVRCHES,0.641,0.832,-5.873,0.167,123.03,0,Energetic
+51,Cream On Chrome - Single Edit,Ratatat,0.79,0.692,-4.704,0.82,100.264,2,Happy
+52,Monday,Matt Corby,0.299,0.522,-6.394,0.229,89.757,1,Calm
+53,Working For It,ZHU,0.776,0.715,-6.587,0.502,99.951,2,Happy
+54,Multi-Love,Unknown Mortal Orchestra,0.784,0.506,-5.243,0.545,120.141,1,Calm
+55,Alive,Sia,0.32,0.752,-4.91,0.392,98.88,3,Sad
+56,Foolish,Alpine,0.673,0.672,-6.01,0.77,94.008,2,Happy
+57,Vice Grip,Parkway Drive,0.48,0.988,-3.229,0.252,124.041,0,Energetic
+58,Run,Alison Wonderland,0.507,0.779,-5.763,0.109,145.02,0,Energetic
+59,Kamikaze,MØ,0.663,0.878,-3.195,0.704,158.035,0,Energetic
+60,'Cause I'm A Man,Tame Impala,0.547,0.695,-4.969,0.641,144.684,2,Happy
+61,Omen - Radio Edit,Disclosure,0.671,0.786,-4.857,0.621,106.057,2,Happy
+62,Walk the Wire,Boy & Bear,0.535,0.895,-4.985,0.703,139.477,0,Energetic
+63,L$D,A$AP Rocky,0.598,0.252,-15.086,0.0352,120.064,1,Calm
+64,Don't Wanna Fight,Alabama Shakes,0.597,0.915,-3.298,0.555,100.444,0,Energetic
+65,M.O.B.,Tkay Maidza,0.692,0.852,-3.454,0.429,137.95,0,Energetic
+66,Give Me a Try,The Wombats,0.623,0.922,-3.013,0.681,135.976,0,Energetic
+67,Shutdown,Skepta,0.656,0.746,-4.716,0.824,104.044,2,Happy
+68,Forces,Japanese Wallpaper,0.597,0.754,-7.264,0.591,156.014,2,Happy
+69,What Kind Of Man,Florence + The Machine,0.313,0.635,-4.676,0.224,114.776,3,Sad
+70,Flesh without Blood,Grimes,0.481,0.965,-2.993,0.66,155.938,0,Energetic
+71,Anchor,Birds Of Tokyo,0.597,0.716,-4.771,0.554,87.979,2,Happy
+72,Once - Radio Edit,Ngaiire,0.76,0.48,-10.455,0.12,104.995,1,Calm
+73,Powerful (feat. Ellie Goulding & Tarrus Riley),Major Lazer,0.598,0.792,-4.043,0.732,97.479,2,Happy
+74,Elevator Operator,Courtney Barnett,0.682,0.769,-7.197,0.769,131.693,2,Happy
+75,Suddenly,British India,0.532,0.828,-5.081,0.578,126.811,0,Energetic
+76,Lay Down,DMA'S,0.329,0.832,-2.208,0.461,78.531,0,Energetic
+77,Weathered,Jack Garratt,0.367,0.497,-7.311,0.291,146.63,3,Sad
+78,Wolves,The Cat Empire,0.659,0.9,-5.461,0.856,121.244,2,Happy
+79,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",A$AP Rocky,0.394,0.661,-8.684,0.335,149.818,3,Sad
+80,Depreston,Courtney Barnett,0.692,0.467,-11.577,0.422,126.407,3,Sad
+81,Down To Earth - Radio Edit,Flight Facilities,0.735,0.622,-5.526,0.417,121.953,3,Sad
+82,Heart Attack - Radio Edit,Flight Facilities,0.707,0.555,-10.484,0.173,123.967,1,Calm
+83,Happy Song,Bring Me The Horizon,0.295,0.924,-3.407,0.219,171.941,0,Energetic
+84,begin again,Purity Ring,0.598,0.565,-7.764,0.328,92.126,3,Sad
+85,Party Machine,The Bennies,0.589,0.889,-4.446,0.619,164.963,0,Energetic
+86,High By The Beach,Lana Del Rey,0.536,0.486,-11.067,0.0968,131.988,3,Sad
+87,Gemini (feat. George Maple),What So Not,0.481,0.687,-6.748,0.188,145.971,3,Sad
+88,Be Your Shadow,The Wombats,0.636,0.965,-2.897,0.551,125.043,0,Energetic
+89,No One (feat. Thelma Plum),Golden Features,0.766,0.549,-10.578,0.255,119.943,3,Sad
+90,Indian Summer,Jai Wolf,0.507,0.824,-2.501,0.0394,84.992,0,Energetic
+91,Ghost,Halsey,0.57,0.606,-8.085,0.212,95.038,3,Sad
+92,Nobody Really Cares If You Don't Go to the Party,Courtney Barnett,0.421,0.93,-5.133,0.574,136.688,0,Energetic
+93,Rumour Mill (feat. Anne-Marie & Will Heard),Rudimental,0.842,0.534,-8.547,0.761,119.976,2,Happy
+94,Twilight Driving,Methyl Ethel,0.599,0.744,-6.502,0.585,124.034,2,Happy
+95,Be Together (feat. Wild Belle),Major Lazer,0.497,0.627,-6.141,0.193,79.93,3,Sad
+96,True Friends,Bring Me The Horizon,0.419,0.938,-3.12,0.333,160.151,0,Energetic
+97,Hell Boy,Seth Sentry,0.726,0.792,-3.395,0.492,140.102,0,Energetic
+98,Never Be Like You (feat. Kai),Flume,0.54,0.59,-4.359,0.267,119.878,3,Sad
+99,Adore,Amy Shark,0.592,0.438,-10.054,0.259,67.445,3,Sad
+100,Jungle,Tash Sultana,0.592,0.701,-5.879,0.509,146.032,2,Happy
+101,1955,Hilltop Hoods,0.766,0.5,-7.558,0.71,84.044,1,Calm
+102,Redbone,Childish Gambino,0.743,0.372,-10.459,0.575,160.07,3,Sad
+103,Papercuts (feat. Vera Blue),Illy,0.369,0.618,-6.304,0.467,191.863,3,Sad
+104,Say It,Flume,0.367,0.532,-6.837,0.261,70.16,3,Sad
+105,Stranger (feat. Elliphant),Peking Duk,0.528,0.874,-3.028,0.376,105.042,0,Energetic
+106,Starboy,The Weeknd,0.681,0.594,-7.028,0.535,186.054,3,Sad
+107,Chameleon,PNAU,0.718,0.934,-3.153,0.239,119.989,0,Energetic
+108,Cocoon,Milky Chance,0.732,0.708,-5.978,0.749,114.033,2,Happy
+109,Love$ick,Mura Masa,0.65,0.776,-5.059,0.772,88.89,2,Happy
+110,Viceroy,Violent Soho,0.69,0.73,-5.54,0.574,124.019,0,Energetic
+111,Genghis Khan,Miike Snow,0.699,0.837,-3.264,0.414,94.005,0,Energetic
+112,Jan-26,A.B. Original,0.835,0.63,-4.221,0.608,98.034,2,Happy
+113,The Opposite of Us,Big Scary,0.747,0.802,-5.768,0.585,117.012,2,Happy
+114,All Night (feat. Knox Fortune),Chance the Rapper,0.704,0.777,-5.729,0.392,111.921,0,Energetic
+115,7,Catfish and the Bottlemen,0.524,0.726,-4.92,0.311,155.089,0,Energetic
+116,On Hold,The xx,0.725,0.669,-6.582,0.338,125.046,3,Sad
+117,Death to the Lads,The Smith Street Band,0.222,0.854,-3.859,0.417,74.626,0,Energetic
+118,Ultralight Beam,Kanye West,0.672,0.397,-8.804,0.372,105.71,1,Calm
+119,Catch 22 (feat. Anne-Marie),Illy,0.765,0.561,-7.464,0.584,97.447,2,Happy
+120,Come on Mess Me Up,Cub Sport,0.345,0.593,-5.568,0.0392,149.724,3,Sad
+121,Because I Love You,Montaigne,0.764,0.834,-3.45,0.964,118.006,2,Happy
+122,Make Them Wheels Roll,SAFIA,0.729,0.66,-5.53,0.458,95.029,3,Sad
+123,Drive,Gretta Ray,0.697,0.475,-7.763,0.356,105.997,3,Sad
+124,Frankie Sinatra,The Avalanches,0.693,0.854,-5.816,0.837,95.527,2,Happy
+125,Our Town,Sticky Fingers,0.545,0.813,-5.394,0.628,90.012,2,Happy
+126,Innerbloom (What So Not Remix),RÜFÜS DU SOL,0.417,0.71,-6.628,0.101,138.369,3,Sad
+127,One Dance,Drake,0.791,0.619,-5.886,0.371,103.989,3,Sad
+128,Notion,Tash Sultana,0.352,0.414,-6.6,0.0688,60.042,1,Calm
+129,Bullshit,Dune Rats,0.499,0.967,-6.476,0.419,139.002,0,Energetic
+130,Scott Green,Dune Rats,0.566,0.93,-5.98,0.536,140.003,0,Energetic
+131,World Of Our Love,Client Liaison,0.851,0.89,-6.156,0.579,116.99,0,Energetic
+132,Sad Songs,Sticky Fingers,0.422,0.955,-2.994,0.299,127.047,0,Energetic
+133,Smoke & Retribution (feat. Vince Staples & Kucka),Flume,0.743,0.574,-6.028,0.403,120.877,3,Sad
+134,Youth,Glass Animals,0.648,0.733,-7.803,0.752,96.003,2,Happy
+135,Step Up The Morphine,DMA'S,0.444,0.803,-3.621,0.476,112.505,0,Energetic
+136,Surfin',Kid Cudi,0.809,0.685,-7.916,0.827,130.008,2,Happy
+137,I Feel It Coming,The Weeknd,0.769,0.813,-5.9,0.567,92.985,2,Happy
+138,Heartlines,Broods,0.659,0.677,-4.129,0.273,90.069,3,Sad
+139,Final Song,MØ,0.695,0.672,-6.109,0.245,104.988,3,Sad
+140,Satan,D.D Dumbo,0.797,0.685,-7.775,0.682,119.984,2,Happy
+141,Dang! (feat. Anderson .Paak),Mac Miller,0.836,0.67,-6.907,0.556,107.018,2,Happy
+142,Walrus,D.D Dumbo,0.611,0.666,-6.777,0.854,175.911,2,Happy
+143,Creepin,Kingswood,0.397,0.593,-7.369,0.393,175.424,3,Sad
+144,Higher,Hilltop Hoods,0.737,0.669,-9.127,0.621,111.99,2,Happy
+145,Strange Diseases,Gang of Youths,0.521,0.769,-6.143,0.417,120.959,0,Energetic
+146,Outcast at Last,Sticky Fingers,0.441,0.905,-3.666,0.752,183.981,0,Energetic
+147,Blanket,Violent Soho,0.476,0.912,-5.101,0.48,159.956,0,Energetic
+148,Bored To Death,blink-182,0.502,0.966,-3.876,0.638,159.948,0,Energetic
+149,Say a Prayer For Me,RÜFÜS DU SOL,0.821,0.675,-6.661,0.551,116.014,2,Happy
+150,Twice,Catfish and the Bottlemen,0.409,0.793,-4.603,0.313,136.631,0,Energetic
+151,Girlie Bits,Ali Barter,0.457,0.767,-5.644,0.453,153.084,0,Energetic
+152,Solo,Frank Ocean,0.444,0.287,-10.631,0.246,124.027,1,Calm
+153,Drinkee,Sofi Tukker,0.773,0.663,-8.101,0.324,115.002,3,Sad
+154,Gamma Knife,King Gizzard & The Lizard Wizard,0.326,0.915,-5.269,0.544,104.203,0,Energetic
+155,Marinade,DOPE LEMON,0.677,0.74,-6.528,0.679,110.193,2,Happy
+156,Life Itself,Glass Animals,0.696,0.62,-8.346,0.674,111.994,2,Happy
+157,Alaska,Maggie Rogers,0.853,0.353,-12.146,0.141,103.989,1,Calm
+158,All Fucked Up,The Amity Affliction,0.511,0.876,-4.287,0.291,142.056,0,Energetic
+159,I Bring the Weather with Me,The Amity Affliction,0.283,0.973,-3.359,0.0962,173.848,0,Energetic
+160,Next To You (feat. Savoi),L D R U,0.443,0.882,-4.623,0.43,170.123,0,Energetic
+161,So Sentimental,Violent Soho,0.567,0.846,-5.546,0.684,126.028,2,Happy
+162,Wolfie (feat. Julia Stone),Golden Features,0.599,0.585,-7.284,0.214,119.985,3,Sad
+163,Free,Broods,0.607,0.757,-3.536,0.446,89.992,0,Energetic
+164,Famous,Kanye West,0.357,0.751,-3.771,0.455,174,0,Energetic
+165,No Shade,Violent Soho,0.658,0.934,-4.861,0.623,122.006,0,Energetic
+166,Lost (Season One),Camp Cope,0.302,0.859,-3.066,0.684,155.676,0,Energetic
+167,Because I'm Me,The Avalanches,0.472,0.805,-5.793,0.512,94.922,0,Energetic
+168,This Could Be Heartbreak,The Amity Affliction,0.568,0.99,-2.906,0.545,131.991,0,Energetic
+169,Soundcheck,Catfish and the Bottlemen,0.602,0.749,-5.794,0.618,135.041,2,Happy
+170,Settle,Vera Blue,0.605,0.457,-7.105,0.201,81.96,3,Sad
+171,Burn the Witch,Radiohead,0.541,0.847,-6.52,0.62,148.937,2,Happy
+172,Panda,Desiigner,0.679,0.734,-5.542,0.245,145.028,0,Energetic
+173,Gemini Feed,BANKS,0.768,0.654,-6.223,0.543,102.01,2,Happy
+174,Think About It,Thundamentals,0.69,0.919,-3.593,0.269,122.015,0,Energetic
+175,Simulation,Tkay Maidza,0.776,0.89,-4.395,0.916,104.99,2,Happy
+176,Pink + White,Frank Ocean,0.544,0.552,-7.45,0.554,159.738,1,Calm
+177,My Love Is Gone,SAFIA,0.731,0.778,-5.803,0.761,125.03,2,Happy
+178,Dopamine (feat. Thief),Bliss n Eso,0.557,0.754,-7.508,0.284,171.939,3,Sad
+179,Uptown Folks,DOPE LEMON,0.475,0.824,-4.935,0.408,117.239,0,Energetic
+180,Me and Your Mama,Childish Gambino,0.555,0.454,-11.806,0.214,118.003,3,Sad
+181,Over You,SAFIA,0.597,0.544,-6.711,0.607,177.807,2,Happy
+182,Anything Near Conviction,Luca Brasi,0.504,0.961,-4.876,0.531,154.161,0,Energetic
+183,Subways,The Avalanches,0.502,0.867,-6.77,0.547,111.788,2,Happy
+184,How To Taste,Violent Soho,0.493,0.91,-7.184,0.591,152.98,0,Energetic
+185,High And Low,Empire of the Sun,0.508,0.782,-4.667,0.286,126.917,0,Energetic
+186,Fading,Vallis Alps,0.662,0.482,-9.786,0.294,98.05,1,Calm
+187,Lose It,Flume,0.606,0.854,-2.765,0.605,129.977,0,Energetic
+188,Hanging by a Thread (feat. Natalie Foster),Elk Road,0.77,0.794,-5.51,0.107,105.007,3,Sad
+189,You Don't Think You Like People Like Me,Alex Lahey,0.583,0.935,-2.851,0.549,157.994,0,Energetic
+190,Season 2 Episode 3,Glass Animals,0.739,0.283,-7.965,0.666,148.01,1,Calm
+191,Too Good,Drake,0.804,0.648,-7.805,0.392,117.983,3,Sad
+192,Brace,Birds Of Tokyo,0.477,0.779,-5.107,0.133,157.98,0,Energetic
+193,Panda,Desiigner,0.802,0.639,-7.905,0.35,145.276,3,Sad
+194,Starboy,The Weeknd,0.679,0.599,-7.081,0.511,185.999,3,Sad
+195,Starboy,The Weeknd,0.679,0.599,-7.081,0.511,185.999,3,Sad
+196,HUMBLE.,Kendrick Lamar,0.906,0.625,-6.779,0.423,150.018,3,Sad
+197,Let Me Down Easy,Gang of Youths,0.672,0.899,-6.878,0.927,139.01,2,Happy
+198,Chateau,Angus & Julia Stone,0.661,0.589,-11.217,0.603,129.987,1,Calm
+199,Ubu,Methyl Ethel,0.683,0.722,-8.321,0.882,129.991,2,Happy
+200,"The Deepest Sighs, the Frankest Shadows",Gang of Youths,0.355,0.812,-5.861,0.139,151.818,0,Energetic
+201,Green Light,Lorde,0.616,0.714,-7.792,0.24,128.924,3,Sad
+202,Go Bang,PNAU,0.598,0.893,-3.072,0.485,120.972,0,Energetic
+203,Sally,Thundamentals,0.723,0.866,-2.989,0.59,107.944,0,Energetic
+204,Lay It On Me,Vance Joy,0.733,0.673,-5.713,0.487,128.009,3,Sad
+205,What Can I Do If the Fire Goes Out?,Gang of Youths,0.396,0.992,-3.504,0.0975,99.905,0,Energetic
+206,SWEET,BROCKHAMPTON,0.718,0.628,-6.007,0.722,92.107,2,Happy
+207,Fake Magic,Peking Duk,0.726,0.862,-2.984,0.701,101.982,2,Happy
+208,Young Dumb & Broke,Khalid,0.798,0.539,-6.351,0.394,136.949,3,Sad
+209,Homemade Dynamite,Lorde,0.762,0.437,-5.581,0.217,106.965,3,Sad
+210,Regular Touch,Vera Blue,0.617,0.555,-7.802,0.462,93.833,3,Sad
+211,Feel the Way I Do,The Jungle Giants,0.803,0.636,-4.64,0.817,122.966,2,Happy
+212,Marryuna,Baker Boy,0.751,0.898,-6.238,0.627,113.933,0,Energetic
+213,Exactly How You Are,Ball Park Music,0.432,0.809,-5.678,0.612,141.375,0,Energetic
+214,The Man,The Killers,0.614,0.944,-2.545,0.546,106.014,0,Energetic
+215,Let You Down,Peking Duk,0.557,0.883,-5.069,0.588,99.963,0,Energetic
+216,Birthdays,The Smith Street Band,0.488,0.867,-3.34,0.372,108.124,0,Energetic
+217,Lemon to a Knife Fight,The Wombats,0.556,0.846,-3.578,0.722,150.002,0,Energetic
+218,Not Worth Hiding,Alex the Astronaut,0.566,0.65,-6.782,0.851,121.407,2,Happy
+219,rockstar,Post Malone,0.577,0.522,-6.594,0.119,159.772,3,Sad
+220,Weekends,Amy Shark,0.28,0.772,-5.509,0.356,153.034,0,Energetic
+221,Feel It Still,Portugal. The Man,0.78,0.798,-5.151,0.771,78.969,2,Happy
+222,Be About You,Winston Surfshirt,0.763,0.419,-9.916,0.335,92.044,1,Calm
+223,Mystik,Tash Sultana,0.548,0.699,-7.149,0.308,132.798,3,Sad
+224,Mended,Vera Blue,0.379,0.537,-6.706,0.0762,78.034,3,Sad
+225,Low Blows,Meg Mac,0.707,0.706,-5.984,0.469,97.997,3,Sad
+226,Lay Down,Touch Sensitive,0.453,0.761,-6.179,0.346,109.797,0,Energetic
+227,NUMB,Hayden James,0.623,0.562,-7.08,0.411,147.906,3,Sad
+228,Slow Mover,Angie McMahon,0.544,0.478,-7.099,0.422,94.935,1,Calm
+229,DNA.,Kendrick Lamar,0.636,0.517,-6.759,0.394,139.928,3,Sad
+230,Passionfruit,Drake,0.809,0.463,-11.377,0.364,111.98,3,Sad
+231,I Haven’t Been Taking Care Of Myself,Alex Lahey,0.541,0.884,-4.39,0.486,95.031,0,Energetic
+232,Slide (feat. Frank Ocean & Migos),Calvin Harris,0.736,0.795,-3.299,0.511,104.066,2,Happy
+233,bellyache,Billie Eilish,0.694,0.579,-8.608,0.41,99.953,1,Calm
+234,Got On My Skateboard,Skegss,0.498,0.962,-3.33,0.673,78.681,2,Happy
+235,True Lovers,Holy Holy,0.427,0.749,-5.092,0.378,139.031,3,Sad
+236,Cola,CamelPhat,0.706,0.74,-7.904,0.444,122.007,3,Sad
+237,Murder to the Mind,Tash Sultana,0.568,0.694,-5.657,0.577,86.968,2,Happy
+238,In Motion (feat. Japanese Wallpaper),Allday,0.659,0.435,-9.788,0.251,107.988,1,Calm
+239,Every Day’s The Weekend,Alex Lahey,0.464,0.939,-4.189,0.86,182.106,2,Happy
+240,Better,Mallrat,0.555,0.697,-5.488,0.168,103.934,3,Sad
+241,Want You Back,HAIM,0.635,0.853,-3.926,0.372,112.964,0,Energetic
+242,The Comedown,Ocean Alley,0.721,0.448,-8.368,0.549,125.894,3,Sad
+243,Passiona,The Smith Street Band,0.358,0.767,-4.261,0.549,110.49,2,Happy
+244,On Your Way Down,The Jungle Giants,0.721,0.782,-5.257,0.62,148.988,0,Energetic
+245,Man's Not Hot,Big Shaq,0.895,0.885,-4.182,0.633,134.973,0,Energetic
+246,Glorious (feat. Skylar Grey),Macklemore,0.731,0.794,-5.126,0.356,139.994,0,Energetic
+247,Moments (feat. Gavin James),Bliss n Eso,0.632,0.724,-7.183,0.311,82.227,3,Sad
+248,Homely Feeling,Hockey Dad,0.46,0.758,-5.426,0.545,137.805,0,Energetic
+249,6 Pack,Dune Rats,0.609,0.903,-4.667,0.825,131.905,2,Happy
+250,Watch Me Read You,Odette,0.903,0.603,-5.846,0.315,122.045,1,Calm
+251,Bad Dream,The Jungle Giants,0.686,0.579,-6.104,0.319,135.006,3,Sad
+252,The Opener,Camp Cope,0.567,0.757,-5.998,0.759,97.183,2,Happy
+253,Used to Be in Love,The Jungle Giants,0.83,0.631,-5.238,0.877,128.013,2,Happy
+254,Boys,Charli XCX,0.867,0.545,-5.192,0.525,139.943,3,Sad
+255,21 Grams,Thundamentals,0.612,0.847,-3.225,0.48,145.917,0,Energetic
+256,Saved,Khalid,0.739,0.448,-10.28,0.553,81.044,3,Sad
+257,Life Goes On,E^ST,0.701,0.605,-6.024,0.505,106.968,1,Calm
+258,Fool's Gold,Jack River,0.438,0.661,-6.412,0.355,79.874,3,Sad
+259,Everything Now,Arcade Fire,0.548,0.865,-5.325,0.61,116.046,0,Energetic
+260,Lemon,N.E.R.D,0.916,0.727,-6.556,0.201,94.997,3,Sad
+261,Shred For Summer,DZ Deathrays,0.457,0.912,-4.695,0.229,107.06,0,Energetic
+262,Golden,Kingswood,0.735,0.494,-8.657,0.436,80.003,1,Calm
+263,"I Love You, Will You Marry Me",YUNGBLUD,0.519,0.907,-4.773,0.564,149.956,0,Energetic
+264,Amsterdam,Nothing But Thieves,0.511,0.934,-4.561,0.668,168.062,0,Energetic
+265,Perfect Places,Lorde,0.621,0.574,-5.325,0.537,104.344,2,Happy
+266,In Cold Blood,alt-J,0.497,0.712,-6.536,0.605,143.442,2,Happy
+267,Nuclear Fusion,King Gizzard & The Lizard Wizard,0.427,0.783,-6.256,0.608,86.633,2,Happy
+268,XO Tour Llif3,Lil Uzi Vert,0.732,0.75,-6.366,0.401,155.096,0,Energetic
+269,Braindead,Dune Rats,0.436,0.953,-5.406,0.52,134.86,0,Energetic
+270,Cloud 9,Baker Boy,0.857,0.683,-6.789,0.365,109.832,3,Sad
+271,Million Man,The Rubens,0.472,0.544,-5.611,0.312,98.873,3,Sad
+272,Electric Feel - triple j Like A Version,Tash Sultana,0.495,0.459,-8.585,0.244,127.64,1,Calm
+273,"Hey, Did I Do You Wrong?",San Cisco,0.692,0.753,-7.278,0.889,105.037,2,Happy
+274,Say Something Loving,The xx,0.627,0.721,-7.782,0.383,130.08,3,Sad
+275,Liability,Lorde,0.534,0.218,-11.16,0.345,76.715,1,Calm
+276,1-800-273-8255,Logic,0.627,0.572,-7.738,0.361,100.041,1,Calm
+277,Blood Brothers,Amy Shark,0.645,0.733,-6.28,0.271,91.02,3,Sad
+278,Oceans,Vallis Alps,0.752,0.645,-8.594,0.425,119.973,3,Sad
+279,Does This Last,Boo Seeka,0.447,0.637,-7.074,0.155,140.978,3,Sad
+280,Maybe It’s My First Time,Meg Mac,0.704,0.645,-6.515,0.606,90.975,2,Happy
+281,The Way You Used to Do,Queens of the Stone Age,0.474,0.843,-5.909,0.433,97.691,0,Energetic
+282,Dawning,DMA'S,0.302,0.858,-1.808,0.503,140.131,0,Energetic
+283,Hyperreal,Flume,0.65,0.842,-5.211,0.535,109.868,0,Energetic
+284,Big For Your Boots,Stormzy,0.515,0.902,-4.729,0.628,174.589,0,Energetic
+285,LOVE. FEAT. ZACARI.,Kendrick Lamar,0.801,0.58,-7.311,0.777,126.062,2,Happy
+286,Do What You Want,The Presets,0.666,0.839,-5.493,0.845,144.965,2,Happy
+287,Second Hand Car,Kim Churchill,0.649,0.81,-5.574,0.634,103.157,2,Happy
+288,Mask Off,Future,0.833,0.434,-8.795,0.281,150.062,3,Sad
+289,Chasin',Cub Sport,0.471,0.667,-6.395,0.319,94.025,3,Sad
+290,LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,0.681,0.523,-8.963,0.473,110.812,3,Sad
+291,Snow,Angus & Julia Stone,0.741,0.571,-7.541,0.813,105.732,2,Happy
+292,Arty Boy,Flight Facilities,0.855,0.523,-4.559,0.628,117.025,2,Happy
+293,Don't Leave,Snakehips,0.657,0.703,-3.402,0.338,122.381,0,Energetic
+294,Sundress,A$AP Rocky,0.721,0.707,-6.364,0.743,125.005,2,Happy
+295,Everybody But You,Thundamentals,0.585,0.56,-7.992,0.586,167.903,3,Sad
+296,You Can Count On Me,Trophy Eyes,0.536,0.881,-2.733,0.542,160.002,0,Energetic
+297,Ivy (Doomsday),The Amity Affliction,0.5,0.833,-5.545,0.451,145.955,0,Energetic
+298,Four Out Of Five,Arctic Monkeys,0.601,0.863,-4.31,0.676,130.189,0,Energetic
+299,Take It To The Heart,Odette,0.86,0.758,-4.439,0.67,110.022,2,Happy
+300,Do I Need You Now?,DMA'S,0.411,0.784,-6.617,0.623,81.023,2,Happy
+301,Ghost Town,Kanye West,0.573,0.545,-4.247,0.297,83.378,3,Sad
+302,Polygraph Eyes,YUNGBLUD,0.5,0.754,-4.619,0.52,92.003,0,Energetic
+303,Happy Sad,Ocean Alley,0.477,0.737,-9.262,0.301,124.023,3,Sad
+304,Psycho (feat. Ty Dolla $ign),Post Malone,0.75,0.56,-8.094,0.459,140.06,1,Calm
+305,Dazed & Confused,Ruel,0.688,0.5,-7.411,0.418,127.906,3,Sad
+306,Labrador,WAAX,0.498,0.791,-3.759,0.468,120.039,0,Energetic
+307,Younger,Ruel,0.745,0.477,-7.706,0.454,136.055,3,Sad
+308,Dirt Cheap,Lime Cordiale,0.687,0.796,-7.699,0.737,136.012,1,Calm
+309,Bubblin,Anderson .Paak,0.568,0.873,-5.22,0.547,106.783,0,Energetic
+310,Cigarettes,Tash Sultana,0.557,0.753,-5.052,0.562,158.023,0,Energetic
+311,1999 WILDFIRE,BROCKHAMPTON,0.811,0.57,-8.093,0.814,128.066,2,Happy
+312,Hunger,Florence + The Machine,0.729,0.675,-5.62,0.332,116.016,1,Calm
+313,Ballroom,Jack River,0.514,0.721,-4.982,0.137,122.898,3,Sad
+314,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,0.601,0.794,-5.844,0.244,114.066,0,Energetic
+315,Clumsy Love,Thelma Plum,0.689,0.728,-5.528,0.56,84.998,2,Happy
+316,Better Together,Hayden James,0.759,0.812,-6.972,0.753,116.009,2,Happy
+317,Miracle,CHVRCHES,0.577,0.751,-4.204,0.44,124.004,0,Energetic
+318,Clarity,Polish Club,0.595,0.92,-3.638,0.232,113.98,0,Energetic
+319,Molotov,Kira Puru,0.686,0.754,-5.707,0.507,91.966,0,Energetic
+320,Pussy Is God,King Princess,0.739,0.621,-6.929,0.462,85.969,3,Sad
+321,Sweet Release,Hockey Dad,0.26,0.867,-6.163,0.662,141.589,0,Energetic
+322,Smogged Out,Skegss,0.569,0.848,-6.179,0.836,127.819,2,Happy
+323,UFO,Mallrat,0.682,0.72,-6.514,0.448,129.99,0,Energetic
+324,Cheetah Tongue,The Wombats,0.525,0.968,-3.075,0.591,95.006,0,Energetic
+325,Eastside (with Halsey & Khalid),benny blanco,0.632,0.686,-7.665,0.329,89.949,1,Calm
+326,Tints (feat. Kendrick Lamar),Anderson .Paak,0.805,0.833,-6.73,0.703,109.076,2,Happy
+327,Need You,Flight Facilities,0.759,0.739,-6.501,0.444,117.982,3,Sad
+328,Scream Whole,Methyl Ethel,0.794,0.71,-7.24,0.519,126.027,2,Happy
+329,Mistake,Middle Kids,0.515,0.896,-2.825,0.503,134.977,0,Energetic
+330,BOOGIE,BROCKHAMPTON,0.604,0.933,-3.034,0.28,110.029,0,Energetic
+331,Killing My Time,G Flip,0.838,0.609,-5.865,0.609,102.988,2,Happy
+332,I Wanna Be Everybody,Hockey Dad,0.492,0.863,-6.468,0.753,110.393,2,Happy
+333,The End,DMA'S,0.35,0.855,-6.307,0.327,103.013,0,Energetic
+334,Give Me My Name Back,Meg Mac,0.585,0.556,-6.05,0.186,81.012,3,Sad
+335,Soaked,Bene,0.792,0.54,-5.975,0.577,93.001,1,Calm
+336,Martini,The Presets,0.817,0.673,-8.223,0.684,126.042,2,Happy
+337,Without Me,Halsey,0.752,0.488,-7.05,0.533,136.041,3,Sad
+338,Wasted,Peking Duk,0.693,0.76,-5.433,0.751,115,2,Happy
+339,Saturday Sun,Vance Joy,0.628,0.869,-4.339,0.701,99.97,2,Happy
+340,We're Going Home,Vance Joy,0.589,0.688,-5.443,0.453,95.902,3,Sad
+341,Better,Khalid,0.596,0.552,-10.278,0.112,97.949,3,Sad
+342,Mr La Di Da Di,Baker Boy,0.806,0.734,-7.763,0.642,100.935,2,Happy
+343,No Place,RÜFÜS DU SOL,0.616,0.867,-6.232,0.198,120.018,0,Energetic
+344,Missing Me,Angie McMahon,0.429,0.396,-8.41,0.382,99.155,3,Sad
+345,When I Dream,San Cisco,0.666,0.827,-6.618,0.899,122.979,2,Happy
+346,Like People,DZ Deathrays,0.43,0.89,-5.861,0.493,139.978,0,Energetic
+347,you should see me in a crown,Billie Eilish,0.697,0.552,-10.271,0.278,75.235,1,Calm
+348,MANTRA,Bring Me The Horizon,0.502,0.817,-3.508,0.617,90.024,0,Energetic
+349,Clark Griswold,Hilltop Hoods,0.828,0.69,-5.732,0.832,95.997,2,Happy
+350,God's Plan,Drake,0.754,0.449,-9.211,0.357,77.169,3,Sad
+351,Laps Around The Sun,Ziggy Alberts,0.768,0.472,-10.047,0.145,110.024,1,Calm
+352,In The Air,DMA'S,0.414,0.712,-6.162,0.502,144.006,0,Energetic
+353,Nice For What,Drake,0.585,0.909,-6.474,0.758,93.372,2,Happy
+354,The Perfect Life Does Not Exist,Ball Park Music,0.434,0.649,-7.489,0.454,94.065,3,Sad
+355,About You,G Flip,0.564,0.592,-7.598,0.076,112.743,3,Sad
+356,Love Me Now,Ziggy Alberts,0.739,0.378,-10.25,0.591,109.003,1,Calm
+357,All Loved Up,Amy Shark,0.565,0.603,-6.33,0.171,177.996,3,Sad
+358,Ladders,Mac Miller,0.802,0.463,-8.379,0.291,103.961,3,Sad
+359,1950,King Princess,0.6,0.535,-7.043,0.269,71.912,1,Calm
+360,Better Now,Post Malone,0.68,0.578,-5.804,0.341,145.038,3,Sad
+361,God Forgot,The Rubens,0.692,0.737,-5.798,0.487,118.897,2,Happy
+362,Church,Alison Wonderland,0.551,0.681,-4.873,0.227,94.052,3,Sad
+363,Sometimes,Cub Sport,0.607,0.59,-7.518,0.427,118.868,3,Sad
+364,Fire,Peking Duk,0.679,0.69,-2.744,0.648,99.949,2,Happy
+365,All The Stars (with SZA),Kendrick Lamar,0.698,0.633,-4.946,0.552,96.924,2,Happy
+366,Sunflower - Spider-Man: Into the Spider-Verse,Various Artists,0.76,0.479,-5.574,0.913,89.911,2,Happy
+367,All The Pretty Girls,Vera Blue,0.708,0.591,-5.825,0.618,120.976,2,Happy
+368,I Miss You,Thundamentals,0.73,0.69,-7.019,0.87,147.89,2,Happy
+369,Leave Me Lonely,Hilltop Hoods,0.764,0.868,-5.827,0.754,131.031,2,Happy
+370,Treat You Better,RÜFÜS DU SOL,0.612,0.54,-5.886,0.197,121.952,3,Sad
+371,Underwater,RÜFÜS DU SOL,0.604,0.82,-6.64,0.44,117.996,0,Energetic
+372,Never Ever (feat. Sarah),The Rubens,0.729,0.399,-7.159,0.239,111.893,1,Calm
+373,Waiting,KIAN,0.787,0.448,-7.671,0.471,138.03,1,Calm
+374,Peach,Broods,0.688,0.738,-4.829,0.251,111.022,0,Energetic
+375,Join The Club,Hockey Dad,0.303,0.967,-4.561,0.228,159.932,0,Energetic
+376,lovely (with Khalid),Billie Eilish,0.351,0.296,-10.109,0.12,115.284,1,Calm
+377,Baby Come Back,Ocean Alley,0.492,0.544,-9.13,0.373,148.674,3,Sad
+378,Just Friends,Hayden James,0.639,0.685,-4.571,0.363,110.041,3,Sad
+379,I'm Good,Wafia,0.738,0.696,-3.59,0.892,101.989,2,Happy
+380,Praise The Lord (Da Shine) (feat. Skepta),A$AP Rocky,0.854,0.569,-8.151,0.294,80.015,3,Sad
+381,Turn,The Wombats,0.548,0.842,-3.902,0.38,105.121,0,Energetic
+382,Up In The Clouds,Skegss,0.542,0.758,-5.032,0.489,104.944,0,Energetic
+383,Knees,Ocean Alley,0.549,0.594,-9.359,0.365,119.935,3,Sad
+384,Dinosaurs,Ruby Fields,0.487,0.392,-7.613,0.206,153.979,1,Calm
+385,when the party's over,Billie Eilish,0.498,0.104,-14.08,0.205,124.001,1,Calm
+386,Groceries,Mallrat,0.688,0.539,-8.587,0.207,115.964,3,Sad
+387,Be Alright,Dean Lewis,0.553,0.586,-6.319,0.443,126.684,1,Calm
+388,I Said Hi,Amy Shark,0.393,0.855,-4.329,0.328,74.304,0,Energetic
+389,This Is America,Childish Gambino,0.854,0.463,-6.159,0.549,120.024,3,Sad
+390,SICKO MODE,Travis Scott,0.834,0.73,-3.714,0.446,155.008,0,Energetic
+391,Losing It,FISHER,0.76,0.964,-5.844,0.641,125,0,Energetic
+392,Confidence,Ocean Alley,0.59,0.562,-9.607,0.561,140.835,3,Sad
+393,bad guy,Billie Eilish,0.701,0.425,-10.965,0.562,135.128,1,Calm
+394,Rushing Back,Flume,0.574,0.612,-4.741,0.368,136.046,3,Sad
+395,Charlie,Mallrat,0.624,0.589,-6.799,0.286,115.09,3,Sad
+396,Dance Monkey,Tones And I,0.825,0.593,-6.401,0.54,98.078,1,Calm
+397,Bulls On Parade - triple j Like A Version,Denzel Curry,0.228,0.919,-7.953,0.696,176.192,0,Energetic
+398,Drink Too Much,G Flip,0.704,0.683,-4.536,0.71,93.959,2,Happy
+399,Robbery,Lime Cordiale,0.687,0.708,-8.133,0.89,152.937,2,Happy
+400,Heavy Hearted,The Jungle Giants,0.642,0.887,-4.566,0.246,127.062,0,Energetic
+401,Better in Blak,Thelma Plum,0.673,0.849,-5.242,0.375,148.002,0,Energetic
+402,Exit Sign,Hilltop Hoods,0.698,0.789,-5.736,0.814,99.83,2,Happy
+403,Circles,Post Malone,0.695,0.762,-3.497,0.553,120.042,0,Energetic
+404,By Myself,FIDLAR,0.634,0.898,-4.265,0.778,120.972,2,Happy
+405,Inappropriate Behaviour,Lime Cordiale,0.6,0.734,-7.619,0.695,93.016,2,Happy
+406,Purple Hat,Sofi Tukker,0.777,0.744,-7.42,0.654,94.019,2,Happy
+407,Never Seen the Rain,Tones And I,0.485,0.461,-5.646,0.324,87.009,1,Calm
+408,everything i wanted,Billie Eilish,0.704,0.225,-14.454,0.243,120.006,1,Calm
+409,I Touch Myself - triple j Like A Version,Lime Cordiale,0.621,0.644,-7.291,0.724,112.049,2,Happy
+410,Borderline,Tame Impala,0.598,0.71,-6.839,0.726,97.976,2,Happy
+411,Glitter,BENEE,0.801,0.589,-5.157,0.58,116.934,2,Happy
+412,Silver,DMA'S,0.504,0.748,-6.032,0.371,119.008,0,Energetic
+413,Pub Feed,The Chats,0.546,0.967,-6.167,0.773,96.898,2,Happy
+414,Painkiller,Ruel,0.675,0.414,-6.508,0.439,128.927,3,Sad
+415,EARFQUAKE,"Tyler, The Creator",0.554,0.498,-8.866,0.413,79.635,3,Sad
+416,Infinity,Ocean Alley,0.557,0.747,-4.329,0.672,91.001,2,Happy
+417,Find an Island,BENEE,0.836,0.681,-3.793,0.854,81.554,2,Happy
+418,Johnny Run Away,Tones And I,0.817,0.375,-10.21,0.495,92.472,1,Calm
+419,Vossi Bop,Stormzy,0.682,0.653,-6.062,0.428,188.115,0,Energetic
+420,Juice,Lizzo,0.767,0.889,-2.988,0.843,119.93,2,Happy
+421,Piece Of Your Heart,MEDUZA,0.677,0.744,-6.806,0.631,124.08,2,Happy
+422,Friends,Flume,0.628,0.668,-5.935,0.347,138.865,3,Sad
+423,Save It For The Weekend,Skegss,0.424,0.83,-5.298,0.544,101.596,0,Energetic
+424,Money,Lime Cordiale,0.637,0.605,-8.681,0.436,110.077,3,Sad
+425,San Frandisco,Dom Dolla,0.78,0.938,-6.269,0.502,125.031,0,Energetic
+426,Tokyo Drifting (with Denzel Curry),Glass Animals,0.708,0.496,-8.175,0.412,128.914,3,Sad
+427,bury a friend,Billie Eilish,0.905,0.389,-14.505,0.196,120.046,1,Calm
+428,Solid Gold,PNAU,0.567,0.946,-2.245,0.295,104.983,0,Energetic
+429,Red Light Green Light,Duke Dumont,0.811,0.825,-5.48,0.95,124.005,2,Happy
+430,Face To Face,Ruel,0.698,0.634,-4.341,0.371,90.008,3,Sad
+431,Longshot,Catfish and the Bottlemen,0.481,0.765,-4.025,0.465,102.829,0,Energetic
+432,Graveyard,Halsey,0.667,0.583,-5.127,0.187,92.043,3,Sad
+433,HIGHEST IN THE ROOM,Travis Scott,0.598,0.427,-8.764,0.0605,76.469,3,Sad
+434,Robbery,Juice WRLD,0.685,0.692,-5.122,0.578,159.966,2,Happy
+435,It Might Be Time,Tame Impala,0.586,0.786,-3.768,0.326,115.959,0,Energetic
+436,Cool As Hell,Baker Boy,0.828,0.599,-6.593,0.645,110.969,2,Happy
+437,RICKY,Denzel Curry,0.776,0.562,-6.901,0.521,169.03,3,Sad
+438,7 Minutes,Dean Lewis,0.613,0.739,-6.478,0.712,104.966,2,Happy
+439,SUGAR,BROCKHAMPTON,0.453,0.538,-8.212,0.516,122.973,1,Calm
+440,Intentions (22),Ziggy Alberts,0.709,0.382,-11.13,0.769,82.08,2,Happy
+441,Free Time,Ruel,0.637,0.478,-5.783,0.201,99.989,3,Sad
+442,Teach Me About Dying,Holy Holy,0.543,0.721,-5.377,0.346,170.078,0,Energetic
+443,Evil Spider,BENEE,0.826,0.635,-5.844,0.538,105.971,2,Happy
+444,Patience,Tame Impala,0.546,0.859,-5.966,0.645,99.965,2,Happy
+445,You Little Beauty,FISHER,0.927,0.953,-5.524,0.915,123.983,2,Happy
+446,Stained Glass,Ocean Alley,0.561,0.709,-6.215,0.271,132.058,3,Sad
+447,Talk,Khalid,0.9,0.4,-8.443,0.338,136.001,3,Sad
+448,MIDDLE CHILD,J. Cole,0.837,0.364,-11.713,0.463,123.984,3,Sad
+449,Jellyfish,Slowly Slowly,0.706,0.687,-5.071,0.913,128.033,2,Happy
+450,Lover,G Flip,0.448,0.467,-4.942,0.0673,120.201,1,Calm
+451,Nobody's Home,Mallrat,0.623,0.643,-5.478,0.535,111.01,1,Calm
+452,I Missed Out,Hockey Dad,0.291,0.963,-3.881,0.306,86.187,0,Energetic
+453,Maybe You Know,Holy Holy,0.49,0.81,-5.043,0.483,139.107,0,Energetic
+454,Hell N Back,Bakar,0.584,0.684,-4.314,0.72,210.164,2,Happy
+455,Nightmare,Halsey,0.611,0.622,-5.075,0.538,146.11,0,Energetic
+456,Circles,George Alice,0.643,0.526,-8.324,0.163,104.98,3,Sad
+457,Homecoming Queen,Thelma Plum,0.469,0.425,-6.879,0.156,191.536,1,Calm
+458,Stupid,G Flip,0.702,0.639,-5.271,0.22,136.928,3,Sad
+459,wish you were gay,Billie Eilish,0.853,0.351,-10.198,0.282,118.028,1,Calm
+460,Then What,Illy,0.723,0.725,-4.498,0.962,72.473,2,Happy
+461,Vacation Forever,Violent Soho,0.485,0.909,-2.913,0.323,129.108,0,Energetic
+462,TALK DEEP,E^ST,0.71,0.833,-7.536,0.579,130.013,2,Happy
+463,Blinding Lights,The Weeknd,0.513,0.796,-4.075,0.345,171.017,0,Energetic
+464,Pasta,Angie McMahon,0.458,0.452,-7.699,0.395,140.665,3,Sad
+465,Party Pill,Cub Sport,0.634,0.449,-8.999,0.51,114.939,1,Calm
+466,Nowhere To Go,Hayden James,0.664,0.664,-5.606,0.449,111.866,3,Sad
+467,Paradise,Golden Features,0.713,0.703,-9.452,0.203,120.01,1,Calm
+468,Something Tells Me,Meg Mac,0.678,0.551,-5.87,0.38,96.034,3,Sad
+469,I Am Not Afraid,G Flip,0.554,0.674,-4.138,0.336,75.989,3,Sad
+470,Not Angry Anymore,Thelma Plum,0.65,0.685,-5.961,0.936,174.909,2,Happy
+471,Stay Awake,Dean Lewis,0.723,0.829,-7.123,0.582,106.023,2,Happy
+472,Good for You,Spacey Jane,0.436,0.896,-4.736,0.933,174.962,2,Happy
+473,Let You Know,Flume,0.759,0.694,-4.075,0.374,117.056,0,Energetic
+474,Sugar,Peking Duk,0.529,0.722,-5.931,0.47,97.006,0,Energetic
+475,Welcome To The Black Parade - triple j Like A Version,Alex Lahey,0.209,0.726,-9.71,0.281,96.841,3,Sad
+476,Hey You,DOPE LEMON,0.771,0.425,-12.039,0.84,102.613,2,Happy
+477,Doin' Time,Lana Del Rey,0.649,0.538,-11.196,0.496,144.979,1,Calm
+478,Unsainted,Slipknot,0.427,0.946,-2.188,0.237,101.305,0,Energetic
+479,Follow God,Kanye West,0.529,0.9,-3.503,0.434,180.291,0,Energetic
+480,Lose Control,MEDUZA,0.598,0.526,-8.659,0.529,123.935,3,Sad
+481,Final Form,Sampa the Great,0.69,0.889,-6.689,0.761,96.02,2,Happy
+482,Here Comes Your Man - triple j Like A Version,Skegss,0.392,0.875,-5.479,0.42,135.779,0,Energetic
+483,all the good girls go to hell,Billie Eilish,0.726,0.444,-8.922,0.569,185.044,3,Sad
+484,The Real Thing,Client Liaison,0.751,0.87,-5.712,0.769,116.983,2,Happy
+485,Wow.,Post Malone,0.829,0.539,-7.359,0.388,99.96,3,Sad
+486,Protection,Allday,0.814,0.531,-8.198,0.329,119.954,3,Sad
+487,A.O.K,Adrian Eagle,0.773,0.632,-5.917,0.474,83.961,3,Sad
+488,Ludens,Bring Me The Horizon,0.295,0.679,-6.182,0.381,197.964,0,Energetic
+489,Skin,San Cisco,0.599,0.526,-7.384,0.389,96.036,3,Sad
+490,Meditjin,Baker Boy,0.834,0.877,-3.371,0.511,120.051,0,Energetic
+491,C.U.D.I (Can U Dig It),Cosmo's Midnight,0.608,0.863,-7.33,0.689,113.995,2,Happy
+492,No Plans,Dune Rats,0.615,0.895,-3.912,0.656,109.993,0,Energetic
+493,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.531,80.87,1,Calm
+494,Booster Seat,Spacey Jane,0.629,0.551,-5.402,0.699,111.961,2,Happy
+495,The Difference,Flume,0.56,0.865,-1.148,0.424,159.96,0,Energetic
+496,Cherub,Ball Park Music,0.561,0.368,-8.776,0.23,127.989,1,Calm
+497,Lost In Yesterday,Tame Impala,0.569,0.84,-4.123,0.749,183.059,0,Energetic
+498,WAP (feat. Megan Thee Stallion),Cardi B,0.935,0.454,-7.509,0.357,133.073,3,Sad
+499,Hyperfine,G Flip,0.715,0.635,-6.747,0.232,102.021,3,Sad
+500,Sending Me Ur Loving,The Jungle Giants,0.733,0.583,-7.437,0.62,123.006,2,Happy
+501,I'm Good?,Hilltop Hoods,0.901,0.761,-5.986,0.96,119.984,2,Happy
+502,Therefore I Am,Billie Eilish,0.889,0.34,-7.773,0.716,94.009,2,Happy
+503,On Our Own,Lime Cordiale,0.705,0.692,-7.271,0.772,125.933,2,Happy
+504,Get on the Beers,Mashd N Kutcher,0.687,0.961,-4.684,0.686,123.952,0,Energetic
+505,Rockstar,Mallrat,0.566,0.738,-4.534,0.539,88.971,2,Happy
+506,Tombstone,Ocean Alley,0.397,0.527,-9.625,0.796,169.015,2,Happy
+507,Skin,Spacey Jane,0.394,0.811,-4.306,0.804,124.209,2,Happy
+508,Screw Loose,Lime Cordiale,0.657,0.559,-8.176,0.562,151.871,3,Sad
+509,Is It True,Tame Impala,0.731,0.664,-5.474,0.661,118.018,2,Happy
+510,Tangerine,Glass Animals,0.845,0.583,-5.948,0.842,149.941,2,Happy
+511,You should be sad,Halsey,0.591,0.585,-6.35,0.324,110.94,3,Sad
+512,Addicted To The Sunshine,Lime Cordiale,0.677,0.636,-8.901,0.889,126.027,2,Happy
+513,Energy,Stace Cadet,0.703,0.822,-5.142,0.443,125.004,0,Energetic
+514,Complicated,Eves Karydas,0.84,0.503,-6.775,0.663,108.882,2,Happy
+515,Good News,Mac Miller,0.794,0.32,-12.92,0.241,174.088,1,Calm
+516,Blue World,Mac Miller,0.742,0.553,-8.98,0.508,84.931,1,Calm
+517,Reality Check Please,Lime Cordiale,0.703,0.639,-7.341,0.622,138.048,2,Happy
+518,No Plans To Make Plans,Lime Cordiale,0.814,0.504,-10.216,0.708,90.03,2,Happy
+519,Under The Thunder,Skegss,0.518,0.837,-3.87,0.796,97.688,2,Happy
+520,Straightfaced,Spacey Jane,0.48,0.69,-5.309,0.391,142.908,0,Energetic
+521,Dribble,Sycco,0.586,0.693,-5.92,0.518,94.025,2,Happy
+522,Bagi-la-m Bargan,Birdz,0.414,0.79,-4.905,0.323,100.024,0,Energetic
+523,Reasons,San Cisco,0.611,0.78,-3.672,0.315,125.01,0,Energetic
+524,Criminals,DMA'S,0.471,0.672,-4.034,0.496,79.008,0,Energetic
+525,Breathe Deeper,Tame Impala,0.664,0.848,-4.51,0.502,104.998,0,Energetic
+526,Everybody Rise,Amy Shark,0.702,0.676,-6.679,0.65,103.057,2,Happy
+527,Running Red Lights (feat. Rivers Cuomo & Pink Siifu),The Avalanches,0.672,0.684,-6.084,0.664,100.51,2,Happy
+528,forget me too (feat. Halsey),Machine Gun Kelly,0.654,0.875,-4.845,0.522,99.975,0,Energetic
+529,SO DONE,The Kid LAROI,0.719,0.598,-6.254,0.303,142.592,3,Sad
+530,Parasite Eve,Bring Me The Horizon,0.589,0.797,-5.464,0.232,102.489,0,Energetic
+531,Righteous,Juice WRLD,0.706,0.625,-7.426,0.225,142.948,3,Sad
+532,Come & Go (with Marshmello),Juice WRLD,0.625,0.814,-5.181,0.535,144.991,0,Energetic
+533,I Still Dream About You,The Smith Street Band,0.146,0.806,-4.863,0.347,166.882,0,Energetic
+534,WHATS POPPIN,Jack Harlow,0.923,0.604,-6.671,0.826,145.062,2,Happy
+535,together,Ziggy Alberts,0.828,0.375,-10.78,0.749,114.965,1,Calm
+536,You & I,G Flip,0.606,0.592,-6.656,0.287,179.969,3,Sad
+537,as long as you care,Ruel,0.55,0.591,-6.833,0.308,78.68,3,Sad
+538,Pretty Lady,Tash Sultana,0.471,0.602,-7.302,0.573,118.193,1,Calm
+539,Animals,Architects,0.532,0.759,-3.842,0.293,95.01,0,Energetic
+540,Ain't It Different (feat. AJ Tracey & Stormzy),Headie One,0.767,0.569,-6.805,0.524,77.052,3,Sad
+541,Wishing Well,Juice WRLD,0.65,0.613,-6.13,0.0804,149.972,3,Sad
+542,Nothing to Love About Love,Peking Duk,0.506,0.607,-7.001,0.591,132.959,2,Happy
+543,Your Love (Déjà Vu),Glass Animals,0.851,0.663,-7.168,0.605,108.004,2,Happy
+544,The Glow,DMA'S,0.414,0.908,-4.09,0.759,149.941,0,Energetic
+545,In Your Eyes,The Weeknd,0.667,0.719,-5.371,0.717,100.021,2,Happy
+546,Blue - Flume Remix,Eiffel 65,0.743,0.701,-3.907,0.659,134.987,2,Happy
+547,I Think You're Great,Alex the Astronaut,0.622,0.863,-5.912,0.811,122.747,2,Happy
+548,On The Line,San Cisco,0.64,0.863,-4.547,0.653,131.073,0,Energetic
+549,Sobercoaster,Beddy Rays,0.297,0.951,-2.502,0.568,188.097,0,Energetic
+550,Fly Away,Tones And I,0.805,0.515,-6.201,0.488,124.969,3,Sad
+551,Gimme Love,Joji,0.482,0.631,-6.917,0.0743,126.576,1,Calm
+552,GO (feat. Juice WRLD),The Kid LAROI,0.544,0.744,-5.007,0.572,73.699,2,Happy
+553,Pretty Grim,Ruby Fields,0.524,0.665,-4.553,0.325,109.919,3,Sad
+554,Run,Joji,0.447,0.72,-3.954,0.362,157.892,0,Energetic
+555,Day & Age,Ball Park Music,0.536,0.456,-6.055,0.298,122.004,3,Sad
+556,Soak Me In Bleach,The Amity Affliction,0.256,0.91,-5.278,0.196,109.656,0,Energetic
+557,C'MON (feat. Travis Barker),Amy Shark,0.626,0.665,-5.59,0.303,122.004,3,Sad
+558,Fantasising,Skegss,0.176,0.962,-3.139,0.425,153.951,0,Energetic
+559,Boss Bitch,Doja Cat,0.707,0.955,-4.593,0.575,125.989,0,Energetic
+560,Lie To Me,Vera Blue,0.683,0.572,-7.086,0.583,100.035,2,Happy
+561,Second,Hope D,0.508,0.893,-3.542,0.388,80.979,0,Energetic
+562,Low,Chet Faker,0.651,0.533,-8.726,0.573,79.538,3,Sad
+563,Obey (with YUNGBLUD),Bring Me The Horizon,0.462,0.99,-3.175,0.204,137.061,0,Energetic
+564,Way Down,Ocean Alley,0.639,0.653,-9.053,0.716,142.942,2,Happy
+565,Don't Need You,Genesis Owusu,0.927,0.475,-6.864,0.553,119.975,3,Sad
+566,Scream Drive Faster,LAUREL,0.625,0.706,-5.145,0.699,129.987,2,Happy
+567,Photo ID,Remi Wolf,0.822,0.66,-3.637,0.802,113.956,2,Happy
+568,Baby It's You,London Grammar,0.508,0.827,-8.612,0.14,118.009,3,Sad
+569,House Arrest,Sofi Tukker,0.654,0.818,-6.27,0.557,123.982,0,Energetic
+570,Lady Marmalade - triple j Like A Version,G Flip,0.652,0.724,-7.423,0.768,112.991,2,Happy
+571,my future,Billie Eilish,0.444,0.309,-10.956,0.0875,104.745,1,Calm
+572,Freaks,FISHER,0.806,0.869,-4.344,0.785,124.01,2,Happy
+573,Weightless,Spacey Jane,0.487,0.877,-4.625,0.385,99.948,0,Energetic
+574,The Clap,The Chats,0.651,0.693,-6.15,0.967,91.035,2,Happy
+575,Down for You,Cosmo's Midnight,0.763,0.547,-8.017,0.634,97.003,2,Happy
+576,Chicken Tenders,Dominic Fike,0.746,0.741,-5.459,0.72,119.983,2,Happy
+577,Too Tough Terry,Dune Rats,0.595,0.985,-2.552,0.417,75.512,0,Energetic
+578,Laugh Now Cry Later (feat. Lil Durk),Drake,0.761,0.518,-8.871,0.522,133.976,3,Sad
+579,Three Leaf Clover,Teenage Joans,0.548,0.799,-4.098,0.509,124.019,0,Energetic
+580,HEART ATTACK (feat. lau.ra),BRONSON,0.556,0.649,-5.807,0.119,121.999,3,Sad
+581,In Her Eyes,The Jungle Giants,0.89,0.505,-3.106,0.94,119.011,2,Happy
+582,No Time To Die,Billie Eilish,0.38,0.219,-13.273,0.0517,73.537,1,Calm
+583,Charlie - triple j Like A Version,Bugs,0.394,0.557,-9.392,0.338,79.496,3,Sad
+584,These Days,Thelma Plum,0.545,0.281,-8.677,0.427,87.757,1,Calm
+585,"Lemonade (feat. Gunna, Don Toliver & NAV)",Internet Money,0.8,0.658,-6.142,0.462,140.042,3,Sad
+586,Rain,Aitch,0.871,0.87,-4.797,0.83,150.147,2,Happy
+587,Loose Ends (feat. G Flip),Illy,0.704,0.666,-6.652,0.552,90.015,2,Happy
+588,Germaphobe,Hockey Dad,0.47,0.954,-3.966,0.412,127.98,0,Energetic
+589,Audacity (feat. Headie One),Stormzy,0.678,0.516,-4.601,0.11,133.939,3,Sad
+590,Your Man,Joji,0.785,0.818,-8.711,0.0503,117.98,1,Calm
+591,Itch,Hockey Dad,0.253,0.791,-4.889,0.0808,159.916,0,Energetic
+592,Kool,BENEE,0.911,0.811,-3.637,0.97,119.054,2,Happy

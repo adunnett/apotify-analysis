@@ -1,0 +1,61 @@
+,Name,Album,Artist,Release_date,Length,Popularity,Track_id,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Valence,Loudness,Speechiness,Tempo,Time_signature
+0,Always Gonna Love You,Life Rolls On,Florida Georgia Line,2021-02-12,177026,64,5wTt43UbS3HmDvzAJ7Yax3,0.165,0.543,0.723,0.0,0.11,0.428,-4.892,0.0499,143.028,4
+1,Glad You Exist,Glad You Exist,Dan + Shay,2021-02-05,144533,76,472vIK1ldetTxRxG3ovaiY,0.235,0.748,0.551,0.0,0.119,0.66,-6.12,0.0349,103.953,4
+2,Chasing After You (with Maren Morris),Chasing After You (with Maren Morris),Ryan Hurd,2021-02-12,207973,70,1ZIKpMTRPqhwAoVXWY3tXI,0.723,0.596,0.679,0.0,0.116,0.479,-6.395,0.0394,131.912,4
+3,Breakups,Breakups,Seaforth,2021-01-14,223129,68,77Bt2DXJE1R1qsnm4D10Ox,0.436,0.531,0.552,0.0,0.0786,0.328,-5.945,0.0309,74.931,3
+4,What’s Your Country Song,What's Your Country Song,Thomas Rhett,2020-11-11,170372,73,7Cw3yXDA8Uui37SI5FFaA7,0.000532,0.355,0.706,0.0,0.264,0.523,-6.164,0.0309,174.005,4
+5,Ain't No Girly Girl,Ain't No Girly Girl,Taylor Moss,2020-11-20,207500,50,41apHLdnrtAGXMMNehkGNR,0.277,0.663,0.897,2.04e-05,0.0835,0.738,-3.952,0.048,96.05,4
+6,Should’ve Known Better,Should’ve Known Better,Carly Pearce,2021-02-05,181183,59,5ZTsje1HfASFxiffjLoITe,0.717,0.66,0.599,0.0,0.13,0.47,-5.924,0.0333,144.048,4
+7,Leave Each Other Alone,The Demos,Jess Moskaluke,2021-02-19,224439,35,0s3pw4LuWKjZhTLb1799UB,0.138,0.588,0.779,0.0,0.0805,0.496,-4.141,0.0511,120.048,4
+8,The Great Divide,The Great Divide,Luke Combs,2021-02-01,211990,67,3q3lSbfT5BnQlIvGwahgAD,0.597,0.671,0.686,2.24e-06,0.283,0.547,-8.269,0.0271,111.007,4
+9,Find Our Way,Find Our Way,Southbound,2020-09-30,164421,50,2414muVNy0au4CtSWEi0AG,0.0341,0.528,0.932,0.0,0.0891,0.581,-2.289,0.0472,98.076,4
+10,One Too Many,One Too Many,Keith Urban,2020-09-16,203893,75,5NUXE8W12lWcUXgJRCjeEw,0.247,0.697,0.535,0.0,0.569,0.594,-6.504,0.068,82.959,4
+11,Lil Bit,Lil Bit,Nelly,2020-10-23,195962,69,0NmuYnjETG3u3qx0OmEJev,0.0255,0.707,0.689,0.0,0.383,0.41,-7.097,0.0387,119.987,4
+12,We Go Together Like,We Go Together Like,Abby Anderson,2020-08-28,163960,61,3mwQ4tEWBWynjw7HJgMiRA,0.172,0.62,0.817,0.0,0.144,0.614,-5.317,0.0254,99.963,4
+13,The Good Ones,Goldmine,Gabby Barrett,2020-06-19,215140,74,3hLuHKzG1cmlRpq53ZVWd8,0.18,0.519,0.552,0.0,0.149,0.331,-5.023,0.0259,89.957,4
+14,Forever After All,What You See Ain't Always What You Get (Deluxe Edition),Luke Combs,2020-10-23,232533,79,6IBcOGPsniK3Pso1wHIhew,0.191,0.487,0.65,0.0,0.0933,0.456,-5.195,0.0253,151.964,4
+15,Dirt Road,Dirt Road,Kidd G,2020-10-02,150889,72,24LyKCgvEia1eAPUbuISlk,0.519,0.796,0.516,0.0,0.126,0.181,-7.891,0.0744,140.012,4
+16,Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),Chase Rice,2020-11-30,160839,71,1UYfAU2bwgjaM5rIIPQleC,0.185,0.627,0.678,0.0,0.374,0.724,-4.691,0.0294,100.032,4
+17,Where Do We Go,Where Do We Go,Darlinghurst,2021-01-29,215113,41,4rPT6OP2JWQyv43CWQJYIg,0.0102,0.556,0.768,0.0,0.305,0.706,-6.683,0.0978,177.049,4
+18,Cross Country,Cross Country,BRELAND,2021-02-26,206949,0,2YgwcrRc33vIWgv5n2TNZ9,0.82,0.675,0.444,0.0,0.0969,0.293,-7.179,0.0286,117.903,4
+19,Lose You,Lose You,Jordan Davis,2020-10-16,203321,72,0vK1vDEvEMvSpFEKW62Qub,0.209,0.649,0.64,0.000532,0.0965,0.42,-6.09,0.0352,94.957,4
+20,All I Need,Town of a Million Dreams,Casey Barnes,2020-04-17,217095,48,0s8p5akawSBbBO8KlujxDz,0.605,0.281,0.79,0.000741,0.247,0.515,-4.479,0.0379,82.493,4
+21,Country Does,Country Does,Luke Bryan,2021-02-05,228006,60,0Oo9yzhli7r5V5XO6y3GeN,0.0248,0.489,0.863,0.0,0.101,0.534,-3.895,0.0673,173.941,4
+22,My Bad,My Bad,Teddy Swims,2021-02-03,177142,55,5ql22UbzPOJrDSjVeTvX6E,0.122,0.76,0.738,0.0,0.0787,0.313,-6.056,0.0596,137.38,4
+23,Head Full Of Honey,Head Full Of Honey,Andrew Swift,2021-02-12,243127,39,0ZyHmSPsl6eZkKkKdIOpQb,0.246,0.61,0.888,4.95e-06,0.0663,0.757,-3.707,0.0356,99.611,4
+24,She Broke My Heart,She Broke My Heart,Noah Schnacky,2021-02-26,180502,0,5lyyBTTdB9tlNKvni9VwvZ,0.00106,0.544,0.869,8.85e-05,0.0881,0.701,-3.455,0.0763,167.984,4
+25,The Way She Does,The Way She Does,Jake Davey,2021-02-08,178750,36,55CGqzJFZBGOAiGCq3w8Wg,0.215,0.584,0.907,0.000197,0.115,0.759,-4.697,0.0489,160.025,4
+26,Famous Friends,Famous Friends,Chris Young,2020-11-20,165569,73,4iXDn9pu5Q9sxv45vE8Lak,0.0553,0.533,0.855,0.0,0.335,0.64,-2.901,0.0356,102.017,4
+27,Tennessee,Tennessee,Katrina Burgoyne,2020-12-18,212154,35,1SfEypgAP8iZBH2mID42xs,0.19,0.423,0.548,0.0,0.0884,0.474,-11.545,0.0718,118.832,5
+28,Off Road,Off Road,Brad Paisley,2021-02-10,184823,59,5Flk5ig2Lt0FrdM8UQfVeu,0.0389,0.516,0.896,0.0,0.145,0.625,-4.632,0.0384,144.007,4
+29,Every Other Memory,Every Other Memory,Ryan Hurd,2020-04-20,219192,70,3t2xlkvPsrcyia0eBaCZ53,0.000475,0.633,0.732,0.0,0.108,0.515,-6.995,0.0351,103.019,4
+30,Happy Ever After,Happy Ever After,Troy Kemp,2021-02-12,268493,40,5qoMH9hVHYFqARj7nA8A5H,0.152,0.453,0.66,0.0,0.126,0.451,-5.417,0.0305,149.751,4
+31,Still Love You,Two Thousand Miles,Tyler Rich,2020-09-04,180253,52,79SpZx07lxhiWXirNVvqGZ,0.0132,0.691,0.746,0.0,0.151,0.765,-5.534,0.0398,134.977,4
+32,Lost In Us,Lost In Us,Hurricane Fall,2021-01-29,180710,43,2KUacvCrre6ckPVUBrROpN,0.0158,0.489,0.725,0.0,0.13,0.136,-4.455,0.0315,107.938,4
+33,Whatever Forever Is,The Pink Slip EP,Devin Dawson,2021-01-15,217891,61,1fNznqiu5d1wLezuTyy1UB,0.0308,0.635,0.827,2.39e-05,0.0838,0.936,-6.021,0.0468,154.016,4
+34,That Ain't Me No More,That Ain't Me No More,Matt Stell,2021-02-05,191853,61,4wrKruoaRzt3TtdzJ9uR0F,0.082,0.555,0.759,2.5e-06,0.114,0.22,-3.651,0.0305,152.052,4
+35,Heart On Fire,Heart On Fire,Eric Church,2021-01-29,258805,61,0RshiY6XKLbdsnFNEQoHFH,0.0352,0.653,0.927,4.47e-05,0.0966,0.894,-4.699,0.0289,119.97,4
+36,Things A Man Oughta Know,Redneck Hollywood,Lainey Wilson,2019-09-13,206320,68,7cwKO3SvjCpTyLiIWfnxpx,0.518,0.661,0.67,2.2e-06,0.13,0.357,-5.58,0.0307,139.852,4
+37,Undivided,Undivided,Tim McGraw,2021-01-13,175920,70,2DINVEELpI3ibUW2EzeDs7,0.131,0.583,0.812,0.0,0.201,0.408,-4.684,0.0299,89.992,4
+38,29,29,Carly Pearce,2021-02-19,222978,55,3VGGcNF0O9loBSuLveZEUU,0.373,0.564,0.519,0.0,0.0938,0.35,-7.878,0.0294,81.028,4
+39,Good Times Roll,Bettie James,Jimmie Allen,2020-07-10,158240,61,2A0JdQvwSbOtI9sSIIxgQR,0.00935,0.634,0.748,0.0,0.172,0.704,-3.916,0.0275,95.991,4
+40,More Beer,More Beer,Lee Brice,2020-10-02,154386,49,4NmUNvMjX0LzztKePGtiC2,0.0239,0.537,0.802,0.0,0.176,0.776,-6.88,0.0471,152.097,4
+41,GIVE HEAVEN SOME HELL,GIVE HEAVEN SOME HELL,HARDY,2020-07-24,217801,60,5nra2uQhiaYKKpemgiDNC3,0.0525,0.639,0.843,0.0,0.0854,0.528,-4.975,0.0362,126.047,4
+42,Without You,Without You,Luke Combs,2020-09-18,224986,35,34slXA5D75T5S0dwYYRd4J,0.307,0.522,0.659,0.0,0.102,0.355,-6.016,0.0304,141.996,4
+43,Short Lived Love,Short Lived Love,Brad Cox,2020-10-16,278245,47,1LPc97YaYqzIsGEuclhIRh,0.494,0.562,0.515,0.00733,0.0739,0.358,-7.538,0.0322,137.964,4
+44,It's About Time (feat. Florida Georgia Line),It's About Time (feat. Florida Georgia Line),Russell Dickerson,2020-11-20,175772,71,7eQEnXy5vNjPv6aXVl6N26,0.249,0.765,0.92,0.0,0.618,0.799,-4.362,0.0984,121.011,4
+45,Minimum Wage,Minimum Wage,Blake Shelton,2021-01-15,228186,70,4ijajhHtBsOn91S4dgkhu7,0.00187,0.546,0.934,0.0,0.062,0.775,-3.796,0.0643,89.972,4
+46,We're Good Together,Town of a Million Dreams,Casey Barnes,2020-04-17,179674,48,61Hpngia9MglsIAeIJW6Oe,0.221,0.712,0.763,0.000109,0.0855,0.896,-4.08,0.0288,99.962,4
+47,Middle Ground,Middle Ground,Rachael Fahim,2020-11-13,170944,46,4PmYIejHKa1uwDiDfskllF,0.148,0.492,0.826,0.0,0.304,0.518,-1.584,0.0337,82.05,4
+48,Beers And Sunshine,Beers And Sunshine,Darius Rucker,2020-08-06,178278,73,36ISlLb12gKuCCVTYXC0gb,0.134,0.57,0.645,0.0,0.147,0.677,-5.816,0.0304,81.084,4
+49,Close Enough,Close Enough,Seaforth,2020-11-06,201494,52,3cofUarZTBOFUIwPfXgG8I,0.0707,0.644,0.645,0.0,0.126,0.949,-6.193,0.0471,169.903,4
+50,hole in the bottle (with Shania Twain),hole in the bottle (with Shania Twain),Kelsea Ballerini,2020-11-13,156275,68,2bV4NwncWMnVvcWyU2yxwB,0.106,0.598,0.839,0.0,0.372,0.783,-4.605,0.111,105.084,4
+51,Song About You,Song About You,Sam Grow,2020-04-17,180890,59,5gRsliQqZLc4tv688SE3wB,0.000895,0.57,0.767,1.18e-05,0.097,0.713,-4.287,0.0331,110.995,4
+52,Doing Life With Me,Doing Life With Me,Eric Church,2020-12-11,195586,70,57YkkgxAiusJPMtiSG3w3c,0.73,0.646,0.598,5.87e-06,0.118,0.606,-10.293,0.0425,80.993,4
+53,Girl Outta The Country,Girl Outta The Country,Travis Collins,2020-07-17,205190,44,4gEvdyhSgZRQx0dAKcV9Tr,0.028,0.526,0.75,0.0,0.417,0.513,-5.717,0.0396,149.963,4
+54,I Just Feel Like Dancing,I Just Feel Like Dancing,Bryce Sainty,2021-02-12,158341,36,3O0xuYpN1TGkDVW85Drmmz,0.105,0.623,0.78,0.0,0.0553,0.787,-3.616,0.0632,101.698,4
+55,One Kind Of Beautiful,One Kind Of Beautiful,Brock Colley,2020-11-05,170117,42,7db51Qu7R66q8xjbza91gU,0.234,0.58,0.665,0.0,0.193,0.399,-7.257,0.0377,84.954,4
+56,Anybody Ever,Anybody Ever,The Wolfe Brothers,2020-10-23,174175,44,2PhmmMX8uFumk7j1wHZa58,0.183,0.801,0.753,0.0,0.133,0.778,-5.646,0.032,119.998,4
+57,Lightning Strikes (feat. Lauren Alaina),Lightning Strikes (feat. Lauren Alaina),The Shires,2020-10-19,173720,47,08NMNQ9JLEwFBPyxCq7G4Z,0.0855,0.62,0.717,0.0,0.141,0.571,-5.559,0.0854,101.787,4
+58,Like a Hit to Me,Like a Hit to Me,Troy Kemp,2020-12-18,194987,41,51DFMdOGsNe1PYtOUAAvjG,0.0759,0.587,0.792,0.0,0.142,0.721,-3.348,0.0467,92.874,4
+59,Be With You,Be With You,Kaylee Bell,2020-09-24,172963,42,2HT1n4YYTS6zbIHYaUrWeC,0.00376,0.393,0.878,0.234,0.0895,0.631,-3.061,0.0628,89.994,4

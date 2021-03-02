@@ -1,0 +1,594 @@
+Name,Artist,Popularity,Danceability,Energy,Loudness,Valence,kmeans
+Hoops,The Rubens,0,0.738,0.517,-5.82,0.772,3
+King Kunta,Kendrick Lamar,72,0.884,0.657,-4.569,0.489,2
+Lean On (feat. MØ & DJ Snake),Major Lazer,0,0.723,0.809,-3.081,0.274,0
+The Less I Know The Better,Tame Impala,84,0.64,0.74,-4.083,0.785,3
+Let It Happen,Tame Impala,74,0.602,0.881,-5.875,0.577,2
+The Trouble with Us,Marcus Marr,0,0.828,0.744,-4.932,0.831,3
+Do You Remember,Jarryd James,35,0.662,0.334,-10.012,0.315,1
+The Buzz (feat. Mataya & Young Tapz),Hermitude,56,0.739,0.583,-6.434,0.497,2
+Can't Feel My Face,The Weeknd,0,0.702,0.77,-5.416,0.593,2
+Magnets,Disclosure,62,0.704,0.628,-7.882,0.654,2
+Never Be,Meg Mac,29,0.572,0.592,-8.195,0.271,0
+You Were Right,RÜFÜS DU SOL,0,0.708,0.802,-5.427,0.701,3
+Ocean Drive,Duke Dumont,39,0.686,0.718,-5.054,0.557,2
+Hotline Bling,Drake,0,0.896,0.623,-8.008,0.585,2
+Like Soda,Violent Soho,0,0.359,0.911,-3.791,0.252,0
+Fire and the Flood,Vance Joy,0,0.6,0.79,-5.466,0.345,1
+Middle,DJ Snake,0,0.564,0.737,-4.079,0.211,0
+"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,0,0.828,0.609,-4.402,0.707,3
+The Hills,The Weeknd,0,0.356,0.567,-7.011,0.109,0
+Mountain at My Gates,Foals,65,0.495,0.931,-5.336,0.617,2
+Magnolia,Gang of Youths,0,0.429,0.665,-6.985,0.321,1
+Keeping Score (feat. Paige IV),L D R U,45,0.629,0.618,-5.51,0.644,2
+Embracing Me,SAFIA,0,0.716,0.681,-5.144,0.167,0
+Some Minds (feat. Andrew Wyatt),Flume,0,0.263,0.555,-6.884,0.191,0
+Shine On,The Amity Affliction,45,0.48,0.973,-2.586,0.495,2
+I Know There's Gonna Be (Good Times),Jamie xx,6,0.458,0.595,-9.912,0.502,2
+Young,Vallis Alps,57,0.584,0.384,-12.144,0.184,0
+Like An Animal,RÜFÜS DU SOL,0,0.705,0.754,-6.27,0.401,1
+Greek Tragedy,The Wombats,66,0.515,0.869,-4.732,0.452,1
+Say My Name (feat. Benjamin Joseph),Peking Duk,25,0.478,0.635,-6.601,0.595,2
+Loud Places,Jamie xx,8,0.647,0.626,-10.753,0.185,0
+Leave A Trace,CHVRCHES,0,0.587,0.736,-5.824,0.177,0
+Long Loud Hours,Urthboy,0,0.404,0.548,-6.772,0.296,1
+Eventually,Tame Impala,65,0.424,0.615,-6.217,0.155,0
+Counting Sheep,SAFIA,0,0.777,0.524,-6.549,0.617,2
+All My Friends (feat. Tinashe & Chance the Rapper),Snakehips,72,0.689,0.521,-5.845,0.178,0
+Alright,Kendrick Lamar,72,0.796,0.766,-5.974,0.558,2
+Delilah,Florence + The Machine,49,0.426,0.87,-3.821,0.414,1
+Swear Jar,Illy,42,0.692,0.632,-7.009,0.836,3
+Ship To Wreck,Florence + The Machine,51,0.564,0.923,-3.843,0.587,2
+Puppet Theatre,Claptone,0,0.936,0.648,-6.72,0.663,2
+Hold Me Down,Halsey,60,0.677,0.744,-4.512,0.531,2
+Pedestrian at Best,Courtney Barnett,0,0.479,0.854,-6.101,0.535,2
+Something About You,Hayden James,62,0.861,0.602,-7.314,0.684,2
+Throne,Bring Me The Horizon,73,0.426,0.888,-3.72,0.387,1
+Go,The Chemical Brothers,46,0.751,0.897,-3.598,0.482,2
+Dynamite (feat. Allday),Asta,24,0.79,0.758,-5.982,0.901,3
+Crushed,Parkway Drive,53,0.404,0.964,-4.569,0.24,0
+Too Much Time Together,San Cisco,49,0.563,0.841,-5.35,0.954,3
+Deception Bay,Boo Seeka,35,0.483,0.801,-5.253,0.302,1
+Clearest Blue,CHVRCHES,0,0.641,0.832,-5.873,0.167,0
+Cream On Chrome - Single Edit,Ratatat,22,0.79,0.692,-4.704,0.82,3
+Monday,Matt Corby,16,0.299,0.522,-6.394,0.229,0
+Working For It,ZHU,55,0.776,0.715,-6.587,0.502,2
+Multi-Love,Unknown Mortal Orchestra,62,0.784,0.506,-5.243,0.545,2
+Alive,Sia,51,0.32,0.752,-4.91,0.392,1
+Foolish,Alpine,28,0.673,0.672,-6.01,0.77,3
+Vice Grip,Parkway Drive,57,0.48,0.988,-3.229,0.252,0
+Run,Alison Wonderland,49,0.507,0.779,-5.763,0.109,0
+Kamikaze,MØ,57,0.663,0.878,-3.195,0.704,3
+'Cause I'm A Man,Tame Impala,63,0.547,0.695,-4.969,0.641,2
+Omen - Radio Edit,Disclosure,64,0.671,0.786,-4.857,0.621,2
+Walk the Wire,Boy & Bear,34,0.535,0.895,-4.985,0.703,3
+L$D,A$AP Rocky,75,0.598,0.252,-15.086,0.0352,0
+Don't Wanna Fight,Alabama Shakes,0,0.597,0.915,-3.298,0.555,2
+M.O.B.,Tkay Maidza,0,0.692,0.852,-3.454,0.429,1
+Give Me a Try,The Wombats,44,0.623,0.922,-3.013,0.681,2
+Shutdown,Skepta,0,0.656,0.746,-4.716,0.824,3
+Forces,Japanese Wallpaper,0,0.597,0.754,-7.264,0.591,2
+What Kind Of Man,Florence + The Machine,51,0.313,0.635,-4.676,0.224,0
+Flesh without Blood,Grimes,0,0.481,0.965,-2.993,0.66,2
+Anchor,Birds Of Tokyo,10,0.597,0.716,-4.771,0.554,2
+Once - Radio Edit,Ngaiire,0,0.76,0.48,-10.455,0.12,0
+Powerful (feat. Ellie Goulding & Tarrus Riley),Major Lazer,0,0.598,0.792,-4.043,0.732,3
+Elevator Operator,Courtney Barnett,0,0.682,0.769,-7.197,0.769,3
+Suddenly,British India,0,0.532,0.828,-5.081,0.578,2
+Lay Down,DMA'S,0,0.329,0.832,-2.208,0.461,1
+Weathered,Jack Garratt,0,0.367,0.497,-7.311,0.291,1
+Wolves,The Cat Empire,24,0.659,0.9,-5.461,0.856,3
+"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",A$AP Rocky,73,0.394,0.661,-8.684,0.335,1
+Depreston,Courtney Barnett,0,0.692,0.467,-11.577,0.422,1
+Down To Earth - Radio Edit,Flight Facilities,0,0.735,0.622,-5.526,0.417,1
+Heart Attack - Radio Edit,Flight Facilities,0,0.707,0.555,-10.484,0.173,0
+Happy Song,Bring Me The Horizon,66,0.295,0.924,-3.407,0.219,0
+begin again,Purity Ring,23,0.598,0.565,-7.764,0.328,1
+Party Machine,The Bennies,19,0.589,0.889,-4.446,0.619,2
+High By The Beach,Lana Del Rey,66,0.536,0.486,-11.067,0.0968,0
+Gemini (feat. George Maple),What So Not,53,0.481,0.687,-6.748,0.188,0
+Be Your Shadow,The Wombats,37,0.636,0.965,-2.897,0.551,2
+No One (feat. Thelma Plum),Golden Features,46,0.766,0.549,-10.578,0.255,0
+Indian Summer,Jai Wolf,58,0.507,0.824,-2.501,0.0394,0
+Ghost,Halsey,61,0.57,0.606,-8.085,0.212,0
+Nobody Really Cares If You Don't Go to the Party,Courtney Barnett,0,0.421,0.93,-5.133,0.574,2
+Rumour Mill (feat. Anne-Marie & Will Heard),Rudimental,50,0.842,0.534,-8.547,0.761,3
+Twilight Driving,Methyl Ethel,51,0.599,0.744,-6.502,0.585,2
+Be Together (feat. Wild Belle),Major Lazer,0,0.497,0.627,-6.141,0.193,0
+True Friends,Bring Me The Horizon,66,0.419,0.938,-3.12,0.333,1
+Hell Boy,Seth Sentry,0,0.726,0.792,-3.395,0.492,2
+Never Be Like You (feat. Kai),Flume,0,0.54,0.59,-4.359,0.267,0
+Adore,Amy Shark,0,0.592,0.438,-10.054,0.259,0
+Jungle,Tash Sultana,0,0.592,0.701,-5.879,0.509,2
+1955,Hilltop Hoods,63,0.766,0.5,-7.558,0.71,3
+Redbone,Childish Gambino,0,0.743,0.372,-10.459,0.575,2
+Papercuts (feat. Vera Blue),Illy,52,0.369,0.618,-6.304,0.467,1
+Say It,Flume,0,0.367,0.532,-6.837,0.261,0
+Stranger (feat. Elliphant),Peking Duk,55,0.528,0.874,-3.028,0.376,1
+Starboy,The Weeknd,1,0.681,0.594,-7.028,0.535,2
+Chameleon,PNAU,0,0.718,0.934,-3.153,0.239,0
+Cocoon,Milky Chance,0,0.732,0.708,-5.978,0.749,3
+Love$ick,Mura Masa,0,0.65,0.776,-5.059,0.772,3
+Viceroy,Violent Soho,0,0.69,0.73,-5.54,0.574,2
+Genghis Khan,Miike Snow,41,0.699,0.837,-3.264,0.414,1
+Jan-26,A.B. Original,30,0.835,0.63,-4.221,0.608,2
+The Opposite of Us,Big Scary,0,0.747,0.802,-5.768,0.585,2
+All Night (feat. Knox Fortune),Chance the Rapper,65,0.704,0.777,-5.729,0.392,1
+7,Catfish and the Bottlemen,0,0.524,0.726,-4.92,0.311,1
+On Hold,The xx,0,0.725,0.669,-6.582,0.338,1
+Death to the Lads,The Smith Street Band,0,0.222,0.854,-3.859,0.417,1
+Ultralight Beam,Kanye West,0,0.672,0.397,-8.804,0.372,1
+Catch 22 (feat. Anne-Marie),Illy,42,0.765,0.561,-7.464,0.584,2
+Come on Mess Me Up,Cub Sport,0,0.345,0.593,-5.568,0.0392,0
+Because I Love You,Montaigne,35,0.764,0.834,-3.45,0.964,3
+Make Them Wheels Roll,SAFIA,39,0.729,0.66,-5.53,0.458,1
+Drive,Gretta Ray,0,0.697,0.475,-7.763,0.356,1
+Frankie Sinatra,The Avalanches,0,0.693,0.854,-5.816,0.837,3
+Our Town,Sticky Fingers,11,0.545,0.813,-5.394,0.628,2
+Innerbloom (What So Not Remix),RÜFÜS DU SOL,55,0.417,0.71,-6.628,0.101,0
+One Dance,Drake,2,0.791,0.619,-5.886,0.371,1
+Notion,Tash Sultana,0,0.352,0.414,-6.6,0.0688,0
+Bullshit,Dune Rats,29,0.499,0.967,-6.476,0.419,1
+Scott Green,Dune Rats,0,0.566,0.93,-5.98,0.536,2
+World Of Our Love,Client Liaison,44,0.851,0.89,-6.156,0.579,2
+Sad Songs,Sticky Fingers,0,0.422,0.955,-2.994,0.299,1
+Smoke & Retribution (feat. Vince Staples & Kucka),Flume,0,0.743,0.574,-6.028,0.403,1
+Youth,Glass Animals,0,0.648,0.733,-7.803,0.752,3
+Step Up The Morphine,DMA'S,0,0.444,0.803,-3.621,0.476,2
+Surfin',Kid Cudi,57,0.809,0.685,-7.916,0.827,3
+I Feel It Coming,The Weeknd,1,0.769,0.813,-5.9,0.567,2
+Heartlines,Broods,0,0.659,0.677,-4.129,0.273,0
+Final Song,MØ,67,0.695,0.672,-6.109,0.245,0
+Satan,D.D Dumbo,0,0.797,0.685,-7.775,0.682,2
+Dang! (feat. Anderson .Paak),Mac Miller,72,0.836,0.67,-6.907,0.556,2
+Walrus,D.D Dumbo,0,0.611,0.666,-6.777,0.854,3
+Creepin,Kingswood,0,0.397,0.593,-7.369,0.393,1
+Higher,Hilltop Hoods,53,0.737,0.669,-9.127,0.621,2
+Strange Diseases,Gang of Youths,20,0.521,0.769,-6.143,0.417,1
+Outcast at Last,Sticky Fingers,31,0.441,0.905,-3.666,0.752,3
+Blanket,Violent Soho,0,0.476,0.912,-5.101,0.48,2
+Bored To Death,blink-182,0,0.502,0.966,-3.876,0.638,2
+Say a Prayer For Me,RÜFÜS DU SOL,0,0.821,0.675,-6.661,0.551,2
+Twice,Catfish and the Bottlemen,0,0.409,0.793,-4.603,0.313,1
+Girlie Bits,Ali Barter,3,0.457,0.767,-5.644,0.453,1
+Solo,Frank Ocean,68,0.444,0.287,-10.631,0.246,0
+Drinkee,Sofi Tukker,0,0.773,0.663,-8.101,0.324,1
+Gamma Knife,King Gizzard & The Lizard Wizard,0,0.326,0.915,-5.269,0.544,2
+Marinade,DOPE LEMON,0,0.677,0.74,-6.528,0.679,2
+Life Itself,Glass Animals,0,0.696,0.62,-8.346,0.674,2
+Alaska,Maggie Rogers,0,0.853,0.353,-12.146,0.141,0
+All Fucked Up,The Amity Affliction,55,0.511,0.876,-4.287,0.291,1
+I Bring the Weather with Me,The Amity Affliction,27,0.283,0.973,-3.359,0.0962,0
+Next To You (feat. Savoi),L D R U,34,0.443,0.882,-4.623,0.43,1
+So Sentimental,Violent Soho,0,0.567,0.846,-5.546,0.684,2
+Wolfie (feat. Julia Stone),Golden Features,48,0.599,0.585,-7.284,0.214,0
+Free,Broods,0,0.607,0.757,-3.536,0.446,1
+Famous,Kanye West,0,0.357,0.751,-3.771,0.455,1
+No Shade,Violent Soho,0,0.658,0.934,-4.861,0.623,2
+Lost (Season One),Camp Cope,18,0.302,0.859,-3.066,0.684,2
+Because I'm Me,The Avalanches,23,0.472,0.805,-5.793,0.512,2
+This Could Be Heartbreak,The Amity Affliction,22,0.568,0.99,-2.906,0.545,2
+Soundcheck,Catfish and the Bottlemen,0,0.602,0.749,-5.794,0.618,2
+Settle,Vera Blue,0,0.605,0.457,-7.105,0.201,0
+Burn the Witch,Radiohead,14,0.541,0.847,-6.52,0.62,2
+Panda,Desiigner,1,0.679,0.734,-5.542,0.245,0
+Gemini Feed,BANKS,33,0.768,0.654,-6.223,0.543,2
+Think About It,Thundamentals,0,0.69,0.919,-3.593,0.269,0
+Simulation,Tkay Maidza,18,0.776,0.89,-4.395,0.916,3
+Pink + White,Frank Ocean,78,0.544,0.552,-7.45,0.554,2
+My Love Is Gone,SAFIA,25,0.731,0.778,-5.803,0.761,3
+Dopamine (feat. Thief),Bliss n Eso,0,0.557,0.754,-7.508,0.284,1
+Uptown Folks,DOPE LEMON,0,0.475,0.824,-4.935,0.408,1
+Me and Your Mama,Childish Gambino,0,0.555,0.454,-11.806,0.214,0
+Over You,SAFIA,0,0.597,0.544,-6.711,0.607,2
+Anything Near Conviction,Luca Brasi,17,0.504,0.961,-4.876,0.531,2
+Subways,The Avalanches,0,0.502,0.867,-6.77,0.547,2
+How To Taste,Violent Soho,0,0.493,0.91,-7.184,0.591,2
+High And Low,Empire of the Sun,0,0.508,0.782,-4.667,0.286,1
+Fading,Vallis Alps,49,0.662,0.482,-9.786,0.294,1
+Lose It,Flume,0,0.606,0.854,-2.765,0.605,2
+Hanging by a Thread (feat. Natalie Foster),Elk Road,0,0.77,0.794,-5.51,0.107,0
+You Don't Think You Like People Like Me,Alex Lahey,0,0.583,0.935,-2.851,0.549,2
+Season 2 Episode 3,Glass Animals,0,0.739,0.283,-7.965,0.666,2
+Too Good,Drake,1,0.804,0.648,-7.805,0.392,1
+Brace,Birds Of Tokyo,0,0.477,0.779,-5.107,0.133,0
+Panda,Desiigner,0,0.802,0.639,-7.905,0.35,1
+Starboy,The Weeknd,0,0.679,0.599,-7.081,0.511,2
+Starboy,The Weeknd,0,0.679,0.599,-7.081,0.511,2
+HUMBLE.,Kendrick Lamar,1,0.906,0.625,-6.779,0.423,1
+Let Me Down Easy,Gang of Youths,61,0.672,0.899,-6.878,0.927,3
+Chateau,Angus & Julia Stone,60,0.661,0.589,-11.217,0.603,2
+Ubu,Methyl Ethel,36,0.683,0.722,-8.321,0.882,3
+"The Deepest Sighs, the Frankest Shadows",Gang of Youths,52,0.355,0.812,-5.861,0.139,0
+Green Light,Lorde,0,0.616,0.714,-7.792,0.24,0
+Go Bang,PNAU,0,0.598,0.893,-3.072,0.485,2
+Sally,Thundamentals,0,0.723,0.866,-2.989,0.59,2
+Lay It On Me,Vance Joy,0,0.733,0.673,-5.713,0.487,2
+What Can I Do If the Fire Goes Out?,Gang of Youths,51,0.396,0.992,-3.504,0.0975,0
+SWEET,BROCKHAMPTON,64,0.718,0.628,-6.007,0.722,3
+Fake Magic,Peking Duk,53,0.726,0.862,-2.984,0.701,3
+Young Dumb & Broke,Khalid,79,0.798,0.539,-6.351,0.394,1
+Homemade Dynamite,Lorde,0,0.762,0.437,-5.581,0.217,0
+Regular Touch,Vera Blue,0,0.617,0.555,-7.802,0.462,1
+Feel the Way I Do,The Jungle Giants,58,0.803,0.636,-4.64,0.817,3
+Marryuna,Baker Boy,39,0.751,0.898,-6.238,0.627,2
+Exactly How You Are,Ball Park Music,0,0.432,0.809,-5.678,0.612,2
+The Man,The Killers,0,0.614,0.944,-2.545,0.546,2
+Let You Down,Peking Duk,47,0.557,0.883,-5.069,0.588,2
+Birthdays,The Smith Street Band,37,0.488,0.867,-3.34,0.372,1
+Lemon to a Knife Fight,The Wombats,31,0.556,0.846,-3.578,0.722,3
+Not Worth Hiding,Alex the Astronaut,35,0.566,0.65,-6.782,0.851,3
+rockstar,Post Malone,1,0.577,0.522,-6.594,0.119,0
+Weekends,Amy Shark,48,0.28,0.772,-5.509,0.356,1
+Feel It Still,Portugal. The Man,61,0.78,0.798,-5.151,0.771,3
+Be About You,Winston Surfshirt,55,0.763,0.419,-9.916,0.335,1
+Mystik,Tash Sultana,54,0.548,0.699,-7.149,0.308,1
+Mended,Vera Blue,0,0.379,0.537,-6.706,0.0762,0
+Low Blows,Meg Mac,43,0.707,0.706,-5.984,0.469,1
+Lay Down,Touch Sensitive,0,0.453,0.761,-6.179,0.346,1
+NUMB,Hayden James,0,0.623,0.562,-7.08,0.411,1
+Slow Mover,Angie McMahon,50,0.544,0.478,-7.099,0.422,1
+DNA.,Kendrick Lamar,0,0.636,0.517,-6.759,0.394,1
+Passionfruit,Drake,1,0.809,0.463,-11.377,0.364,1
+I Haven’t Been Taking Care Of Myself,Alex Lahey,38,0.541,0.884,-4.39,0.486,2
+Slide (feat. Frank Ocean & Migos),Calvin Harris,66,0.736,0.795,-3.299,0.511,2
+bellyache,Billie Eilish,0,0.694,0.579,-8.608,0.41,1
+Got On My Skateboard,Skegss,46,0.498,0.962,-3.33,0.673,2
+True Lovers,Holy Holy,58,0.427,0.749,-5.092,0.378,1
+Cola,CamelPhat,67,0.706,0.74,-7.904,0.444,1
+Murder to the Mind,Tash Sultana,42,0.568,0.694,-5.657,0.577,2
+In Motion (feat. Japanese Wallpaper),Allday,0,0.659,0.435,-9.788,0.251,0
+Every Day’s The Weekend,Alex Lahey,42,0.464,0.939,-4.189,0.86,3
+Better,Mallrat,0,0.555,0.697,-5.488,0.168,0
+Want You Back,HAIM,51,0.635,0.853,-3.926,0.372,1
+The Comedown,Ocean Alley,50,0.721,0.448,-8.368,0.549,2
+Passiona,The Smith Street Band,41,0.358,0.767,-4.261,0.549,2
+On Your Way Down,The Jungle Giants,39,0.721,0.782,-5.257,0.62,2
+Man's Not Hot,Big Shaq,1,0.895,0.885,-4.182,0.633,2
+Glorious (feat. Skylar Grey),Macklemore,75,0.731,0.794,-5.126,0.356,1
+Moments (feat. Gavin James),Bliss n Eso,0,0.632,0.724,-7.183,0.311,1
+Homely Feeling,Hockey Dad,0,0.46,0.758,-5.426,0.545,2
+6 Pack,Dune Rats,41,0.609,0.903,-4.667,0.825,3
+Watch Me Read You,Odette,0,0.903,0.603,-5.846,0.315,1
+Bad Dream,The Jungle Giants,51,0.686,0.579,-6.104,0.319,1
+The Opener,Camp Cope,22,0.567,0.757,-5.998,0.759,3
+Used to Be in Love,The Jungle Giants,61,0.83,0.631,-5.238,0.877,3
+Boys,Charli XCX,64,0.867,0.545,-5.192,0.525,2
+21 Grams,Thundamentals,0,0.612,0.847,-3.225,0.48,2
+Saved,Khalid,70,0.739,0.448,-10.28,0.553,2
+Life Goes On,E^ST,51,0.701,0.605,-6.024,0.505,2
+Fool's Gold,Jack River,0,0.438,0.661,-6.412,0.355,1
+Everything Now,Arcade Fire,62,0.548,0.865,-5.325,0.61,2
+Lemon,N.E.R.D,62,0.916,0.727,-6.556,0.201,0
+Shred For Summer,DZ Deathrays,0,0.457,0.912,-4.695,0.229,0
+Golden,Kingswood,47,0.735,0.494,-8.657,0.436,1
+"I Love You, Will You Marry Me",YUNGBLUD,0,0.519,0.907,-4.773,0.564,2
+Amsterdam,Nothing But Thieves,64,0.511,0.934,-4.561,0.668,2
+Perfect Places,Lorde,0,0.621,0.574,-5.325,0.537,2
+In Cold Blood,alt-J,0,0.497,0.712,-6.536,0.605,2
+Nuclear Fusion,King Gizzard & The Lizard Wizard,0,0.427,0.783,-6.256,0.608,2
+XO Tour Llif3,Lil Uzi Vert,82,0.732,0.75,-6.366,0.401,1
+Braindead,Dune Rats,35,0.436,0.953,-5.406,0.52,2
+Cloud 9,Baker Boy,35,0.857,0.683,-6.789,0.365,1
+Million Man,The Rubens,0,0.472,0.544,-5.611,0.312,1
+Electric Feel - triple j Like A Version,Tash Sultana,45,0.495,0.459,-8.585,0.244,0
+"Hey, Did I Do You Wrong?",San Cisco,38,0.692,0.753,-7.278,0.889,3
+Say Something Loving,The xx,27,0.627,0.721,-7.782,0.383,1
+Liability,Lorde,0,0.534,0.218,-11.16,0.345,1
+1-800-273-8255,Logic,1,0.627,0.572,-7.738,0.361,1
+Blood Brothers,Amy Shark,39,0.645,0.733,-6.28,0.271,0
+Oceans,Vallis Alps,47,0.752,0.645,-8.594,0.425,1
+Does This Last,Boo Seeka,44,0.447,0.637,-7.074,0.155,0
+Maybe It’s My First Time,Meg Mac,38,0.704,0.645,-6.515,0.606,2
+The Way You Used to Do,Queens of the Stone Age,34,0.474,0.843,-5.909,0.433,1
+Dawning,DMA'S,0,0.302,0.858,-1.808,0.503,2
+Hyperreal,Flume,0,0.65,0.842,-5.211,0.535,2
+Big For Your Boots,Stormzy,59,0.515,0.902,-4.729,0.628,2
+LOVE. FEAT. ZACARI.,Kendrick Lamar,0,0.801,0.58,-7.311,0.777,3
+Do What You Want,The Presets,0,0.666,0.839,-5.493,0.845,3
+Second Hand Car,Kim Churchill,45,0.649,0.81,-5.574,0.634,2
+Mask Off,Future,79,0.833,0.434,-8.795,0.281,1
+Chasin',Cub Sport,46,0.471,0.667,-6.395,0.319,1
+LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,0,0.681,0.523,-8.963,0.473,1
+Snow,Angus & Julia Stone,45,0.741,0.571,-7.541,0.813,3
+Arty Boy,Flight Facilities,0,0.855,0.523,-4.559,0.628,2
+Don't Leave,Snakehips,64,0.657,0.703,-3.402,0.338,1
+Sundress,A$AP Rocky,76,0.721,0.707,-6.364,0.743,3
+Everybody But You,Thundamentals,50,0.585,0.56,-7.992,0.586,2
+You Can Count On Me,Trophy Eyes,0,0.536,0.881,-2.733,0.542,2
+Ivy (Doomsday),The Amity Affliction,52,0.5,0.833,-5.545,0.451,1
+Four Out Of Five,Arctic Monkeys,39,0.601,0.863,-4.31,0.676,2
+Take It To The Heart,Odette,0,0.86,0.758,-4.439,0.67,2
+Do I Need You Now?,DMA'S,0,0.411,0.784,-6.617,0.623,2
+Ghost Town,Kanye West,74,0.573,0.545,-4.247,0.297,1
+Polygraph Eyes,YUNGBLUD,56,0.5,0.754,-4.619,0.52,2
+Happy Sad,Ocean Alley,51,0.477,0.737,-9.262,0.301,1
+Psycho (feat. Ty Dolla $ign),Post Malone,78,0.75,0.56,-8.094,0.459,1
+Dazed & Confused,Ruel,69,0.688,0.5,-7.411,0.418,1
+Labrador,WAAX,0,0.498,0.791,-3.759,0.468,1
+Younger,Ruel,66,0.745,0.477,-7.706,0.454,1
+Dirt Cheap,Lime Cordiale,49,0.687,0.796,-7.699,0.737,3
+Bubblin,Anderson .Paak,60,0.568,0.873,-5.22,0.547,2
+Cigarettes,Tash Sultana,55,0.557,0.753,-5.052,0.562,2
+1999 WILDFIRE,BROCKHAMPTON,64,0.811,0.57,-8.093,0.814,3
+Hunger,Florence + The Machine,49,0.729,0.675,-5.62,0.332,1
+Ballroom,Jack River,0,0.514,0.721,-4.982,0.137,0
+Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,74,0.601,0.794,-5.844,0.244,0
+Clumsy Love,Thelma Plum,48,0.689,0.728,-5.528,0.56,2
+Better Together,Hayden James,0,0.759,0.812,-6.972,0.753,3
+Miracle,CHVRCHES,0,0.577,0.751,-4.204,0.44,1
+Clarity,Polish Club,0,0.595,0.92,-3.638,0.232,0
+Molotov,Kira Puru,41,0.686,0.754,-5.707,0.507,2
+Pussy Is God,King Princess,60,0.739,0.621,-6.929,0.462,1
+Sweet Release,Hockey Dad,0,0.26,0.867,-6.163,0.662,2
+Smogged Out,Skegss,43,0.569,0.848,-6.179,0.836,3
+UFO,Mallrat,0,0.682,0.72,-6.514,0.448,1
+Cheetah Tongue,The Wombats,42,0.525,0.968,-3.075,0.591,2
+Eastside (with Halsey & Khalid),benny blanco,72,0.632,0.686,-7.665,0.329,1
+Tints (feat. Kendrick Lamar),Anderson .Paak,61,0.805,0.833,-6.73,0.703,3
+Need You,Flight Facilities,2,0.759,0.739,-6.501,0.444,1
+Scream Whole,Methyl Ethel,32,0.794,0.71,-7.24,0.519,2
+Mistake,Middle Kids,40,0.515,0.896,-2.825,0.503,2
+BOOGIE,BROCKHAMPTON,34,0.604,0.933,-3.034,0.28,1
+Killing My Time,G Flip,0,0.838,0.609,-5.865,0.609,2
+I Wanna Be Everybody,Hockey Dad,0,0.492,0.863,-6.468,0.753,3
+The End,DMA'S,0,0.35,0.855,-6.307,0.327,1
+Give Me My Name Back,Meg Mac,37,0.585,0.556,-6.05,0.186,0
+Soaked,Bene,0,0.792,0.54,-5.975,0.577,2
+Martini,The Presets,51,0.817,0.673,-8.223,0.684,2
+Without Me,Halsey,81,0.752,0.488,-7.05,0.533,2
+Wasted,Peking Duk,52,0.693,0.76,-5.433,0.751,3
+Saturday Sun,Vance Joy,0,0.628,0.869,-4.339,0.701,3
+We're Going Home,Vance Joy,0,0.589,0.688,-5.443,0.453,1
+Better,Khalid,75,0.596,0.552,-10.278,0.112,0
+Mr La Di Da Di,Baker Boy,40,0.806,0.734,-7.763,0.642,2
+No Place,RÜFÜS DU SOL,49,0.616,0.867,-6.232,0.198,0
+Missing Me,Angie McMahon,37,0.429,0.396,-8.41,0.382,1
+When I Dream,San Cisco,48,0.666,0.827,-6.618,0.899,3
+Like People,DZ Deathrays,0,0.43,0.89,-5.861,0.493,2
+you should see me in a crown,Billie Eilish,1,0.697,0.552,-10.271,0.278,0
+MANTRA,Bring Me The Horizon,59,0.502,0.817,-3.508,0.617,2
+Clark Griswold,Hilltop Hoods,0,0.828,0.69,-5.732,0.832,3
+God's Plan,Drake,82,0.754,0.449,-9.211,0.357,1
+Laps Around The Sun,Ziggy Alberts,61,0.768,0.472,-10.047,0.145,0
+In The Air,DMA'S,0,0.414,0.712,-6.162,0.502,2
+Nice For What,Drake,76,0.585,0.909,-6.474,0.758,3
+The Perfect Life Does Not Exist,Ball Park Music,0,0.434,0.649,-7.489,0.454,1
+About You,G Flip,0,0.564,0.592,-7.598,0.076,0
+Love Me Now,Ziggy Alberts,56,0.739,0.378,-10.25,0.591,2
+All Loved Up,Amy Shark,53,0.565,0.603,-6.33,0.171,0
+Ladders,Mac Miller,71,0.802,0.463,-8.379,0.291,1
+1950,King Princess,76,0.6,0.535,-7.043,0.269,0
+Better Now,Post Malone,82,0.68,0.578,-5.804,0.341,1
+God Forgot,The Rubens,0,0.692,0.737,-5.798,0.487,2
+Church,Alison Wonderland,53,0.551,0.681,-4.873,0.227,0
+Sometimes,Cub Sport,41,0.607,0.59,-7.518,0.427,1
+Fire,Peking Duk,58,0.679,0.69,-2.744,0.648,2
+All The Stars (with SZA),Kendrick Lamar,79,0.698,0.633,-4.946,0.552,2
+Sunflower - Spider-Man: Into the Spider-Verse,Various Artists,83,0.76,0.479,-5.574,0.913,3
+All The Pretty Girls,Vera Blue,52,0.708,0.591,-5.825,0.618,2
+I Miss You,Thundamentals,51,0.73,0.69,-7.019,0.87,3
+Leave Me Lonely,Hilltop Hoods,0,0.764,0.868,-5.827,0.754,3
+Treat You Better,RÜFÜS DU SOL,55,0.612,0.54,-5.886,0.197,0
+Underwater,RÜFÜS DU SOL,54,0.604,0.82,-6.64,0.44,1
+Never Ever (feat. Sarah),The Rubens,0,0.729,0.399,-7.159,0.239,0
+Waiting,KIAN,0,0.787,0.448,-7.671,0.471,1
+Peach,Broods,0,0.688,0.738,-4.829,0.251,0
+Join The Club,Hockey Dad,0,0.303,0.967,-4.561,0.228,0
+lovely (with Khalid),Billie Eilish,87,0.351,0.296,-10.109,0.12,0
+Baby Come Back,Ocean Alley,57,0.492,0.544,-9.13,0.373,1
+Just Friends,Hayden James,0,0.639,0.685,-4.571,0.363,1
+I'm Good,Wafia,0,0.738,0.696,-3.59,0.892,3
+Praise The Lord (Da Shine) (feat. Skepta),A$AP Rocky,79,0.854,0.569,-8.151,0.294,1
+Turn,The Wombats,49,0.548,0.842,-3.902,0.38,1
+Up In The Clouds,Skegss,52,0.542,0.758,-5.032,0.489,2
+Knees,Ocean Alley,61,0.549,0.594,-9.359,0.365,1
+Dinosaurs,Ruby Fields,41,0.487,0.392,-7.613,0.206,0
+when the party's over,Billie Eilish,13,0.498,0.104,-14.08,0.205,0
+Groceries,Mallrat,59,0.688,0.539,-8.587,0.207,0
+Be Alright,Dean Lewis,80,0.553,0.586,-6.319,0.443,1
+I Said Hi,Amy Shark,56,0.393,0.855,-4.329,0.328,1
+This Is America,Childish Gambino,0,0.854,0.463,-6.159,0.549,2
+SICKO MODE,Travis Scott,85,0.834,0.73,-3.714,0.446,1
+Losing It,FISHER,57,0.76,0.964,-5.844,0.641,2
+Confidence,Ocean Alley,66,0.59,0.562,-9.607,0.561,2
+bad guy,Billie Eilish,86,0.701,0.425,-10.965,0.562,2
+Rushing Back,Flume,69,0.574,0.612,-4.741,0.368,1
+Charlie,Mallrat,58,0.624,0.589,-6.799,0.286,1
+Dance Monkey,Tones And I,68,0.825,0.593,-6.401,0.54,2
+Bulls On Parade - triple j Like A Version,Denzel Curry,50,0.228,0.919,-7.953,0.696,3
+Drink Too Much,G Flip,0,0.704,0.683,-4.536,0.71,3
+Robbery,Lime Cordiale,56,0.687,0.708,-8.133,0.89,3
+Heavy Hearted,The Jungle Giants,63,0.642,0.887,-4.566,0.246,0
+Better in Blak,Thelma Plum,45,0.673,0.849,-5.242,0.375,1
+Exit Sign,Hilltop Hoods,62,0.698,0.789,-5.736,0.814,3
+Circles,Post Malone,87,0.695,0.762,-3.497,0.553,2
+By Myself,FIDLAR,46,0.634,0.898,-4.265,0.778,3
+Inappropriate Behaviour,Lime Cordiale,56,0.6,0.734,-7.619,0.695,3
+Purple Hat,Sofi Tukker,71,0.777,0.744,-7.42,0.654,2
+Never Seen the Rain,Tones And I,64,0.485,0.461,-5.646,0.324,1
+everything i wanted,Billie Eilish,84,0.704,0.225,-14.454,0.243,0
+I Touch Myself - triple j Like A Version,Lime Cordiale,58,0.621,0.644,-7.291,0.724,3
+Borderline,Tame Impala,13,0.598,0.71,-6.839,0.726,3
+Glitter,BENEE,72,0.801,0.589,-5.157,0.58,2
+Silver,DMA'S,44,0.504,0.748,-6.032,0.371,1
+Pub Feed,The Chats,40,0.546,0.967,-6.167,0.773,3
+Painkiller,Ruel,63,0.675,0.414,-6.508,0.439,1
+EARFQUAKE,"Tyler, The Creator",79,0.554,0.498,-8.866,0.413,1
+Infinity,Ocean Alley,51,0.557,0.747,-4.329,0.672,2
+Find an Island,BENEE,63,0.836,0.681,-3.793,0.854,3
+Johnny Run Away,Tones And I,55,0.817,0.375,-10.21,0.495,2
+Vossi Bop,Stormzy,68,0.682,0.653,-6.062,0.428,1
+Juice,Lizzo,75,0.767,0.889,-2.988,0.843,3
+Piece Of Your Heart,MEDUZA,80,0.677,0.744,-6.806,0.631,2
+Friends,Flume,60,0.628,0.668,-5.935,0.347,1
+Save It For The Weekend,Skegss,47,0.424,0.83,-5.298,0.544,2
+Money,Lime Cordiale,53,0.637,0.605,-8.681,0.436,1
+San Frandisco,Dom Dolla,53,0.78,0.938,-6.269,0.502,2
+Tokyo Drifting (with Denzel Curry),Glass Animals,65,0.708,0.496,-8.175,0.412,1
+bury a friend,Billie Eilish,78,0.905,0.389,-14.505,0.196,0
+Solid Gold,PNAU,62,0.567,0.946,-2.245,0.295,1
+Red Light Green Light,Duke Dumont,67,0.811,0.825,-5.48,0.95,3
+Face To Face,Ruel,51,0.698,0.634,-4.341,0.371,1
+Longshot,Catfish and the Bottlemen,60,0.481,0.765,-4.025,0.465,1
+Graveyard,Halsey,8,0.667,0.583,-5.127,0.187,0
+HIGHEST IN THE ROOM,Travis Scott,86,0.598,0.427,-8.764,0.0605,0
+Robbery,Juice WRLD,86,0.685,0.692,-5.122,0.578,2
+It Might Be Time,Tame Impala,2,0.586,0.786,-3.768,0.326,1
+Cool As Hell,Baker Boy,51,0.828,0.599,-6.593,0.645,2
+RICKY,Denzel Curry,68,0.776,0.562,-6.901,0.521,2
+7 Minutes,Dean Lewis,62,0.613,0.739,-6.478,0.712,3
+SUGAR,BROCKHAMPTON,78,0.453,0.538,-8.212,0.516,2
+Intentions (22),Ziggy Alberts,51,0.709,0.382,-11.13,0.769,3
+Free Time,Ruel,61,0.637,0.478,-5.783,0.201,0
+Teach Me About Dying,Holy Holy,51,0.543,0.721,-5.377,0.346,1
+Evil Spider,BENEE,56,0.826,0.635,-5.844,0.538,2
+Patience,Tame Impala,62,0.546,0.859,-5.966,0.645,2
+You Little Beauty,FISHER,53,0.927,0.953,-5.524,0.915,3
+Stained Glass,Ocean Alley,47,0.561,0.709,-6.215,0.271,0
+Talk,Khalid,72,0.9,0.4,-8.443,0.338,1
+MIDDLE CHILD,J. Cole,80,0.837,0.364,-11.713,0.463,1
+Jellyfish,Slowly Slowly,38,0.706,0.687,-5.071,0.913,3
+Lover,G Flip,0,0.448,0.467,-4.942,0.0673,0
+Nobody's Home,Mallrat,50,0.623,0.643,-5.478,0.535,2
+I Missed Out,Hockey Dad,42,0.291,0.963,-3.881,0.306,1
+Maybe You Know,Holy Holy,53,0.49,0.81,-5.043,0.483,2
+Hell N Back,Bakar,73,0.584,0.684,-4.314,0.72,3
+Nightmare,Halsey,71,0.611,0.622,-5.075,0.538,2
+Circles,George Alice,49,0.643,0.526,-8.324,0.163,0
+Homecoming Queen,Thelma Plum,61,0.469,0.425,-6.879,0.156,0
+Stupid,G Flip,0,0.702,0.639,-5.271,0.22,0
+wish you were gay,Billie Eilish,77,0.853,0.351,-10.198,0.282,1
+Then What,Illy,53,0.723,0.725,-4.498,0.962,3
+Vacation Forever,Violent Soho,34,0.485,0.909,-2.913,0.323,1
+TALK DEEP,E^ST,47,0.71,0.833,-7.536,0.579,2
+Blinding Lights,The Weeknd,27,0.513,0.796,-4.075,0.345,1
+Pasta,Angie McMahon,43,0.458,0.452,-7.699,0.395,1
+Party Pill,Cub Sport,42,0.634,0.449,-8.999,0.51,2
+Nowhere To Go,Hayden James,54,0.664,0.664,-5.606,0.449,1
+Paradise,Golden Features,57,0.713,0.703,-9.452,0.203,0
+Something Tells Me,Meg Mac,44,0.678,0.551,-5.87,0.38,1
+I Am Not Afraid,G Flip,0,0.554,0.674,-4.138,0.336,1
+Not Angry Anymore,Thelma Plum,44,0.65,0.685,-5.961,0.936,3
+Stay Awake,Dean Lewis,65,0.723,0.829,-7.123,0.582,2
+Good for You,Spacey Jane,44,0.436,0.896,-4.736,0.933,3
+Let You Know,Flume,62,0.759,0.694,-4.075,0.374,1
+Sugar,Peking Duk,53,0.529,0.722,-5.931,0.47,1
+Welcome To The Black Parade - triple j Like A Version,Alex Lahey,40,0.209,0.726,-9.71,0.281,1
+Hey You,DOPE LEMON,40,0.771,0.425,-12.039,0.84,3
+Doin' Time,Lana Del Rey,73,0.649,0.538,-11.196,0.496,2
+Unsainted,Slipknot,72,0.427,0.946,-2.188,0.237,0
+Follow God,Kanye West,72,0.529,0.9,-3.503,0.434,1
+Lose Control,MEDUZA,83,0.598,0.526,-8.659,0.529,2
+Final Form,Sampa the Great,39,0.69,0.889,-6.689,0.761,3
+Here Comes Your Man - triple j Like A Version,Skegss,48,0.392,0.875,-5.479,0.42,1
+all the good girls go to hell,Billie Eilish,77,0.726,0.444,-8.922,0.569,2
+The Real Thing,Client Liaison,51,0.751,0.87,-5.712,0.769,3
+Wow.,Post Malone,81,0.829,0.539,-7.359,0.388,1
+Protection,Allday,45,0.814,0.531,-8.198,0.329,1
+A.O.K,Adrian Eagle,43,0.773,0.632,-5.917,0.474,1
+Ludens,Bring Me The Horizon,65,0.295,0.679,-6.182,0.381,1
+Skin,San Cisco,43,0.599,0.526,-7.384,0.389,1
+Meditjin,Baker Boy,41,0.834,0.877,-3.371,0.511,2
+C.U.D.I (Can U Dig It),Cosmo's Midnight,56,0.608,0.863,-7.33,0.689,3
+No Plans,Dune Rats,36,0.615,0.895,-3.912,0.656,2
+Heat Waves,Glass Animals,81,0.761,0.525,-6.9,0.531,2
+Booster Seat,Spacey Jane,71,0.629,0.551,-5.402,0.699,3
+The Difference,Flume,72,0.56,0.865,-1.148,0.424,1
+Cherub,Ball Park Music,59,0.561,0.368,-8.776,0.23,0
+Lost In Yesterday,Tame Impala,71,0.569,0.84,-4.123,0.749,3
+WAP (feat. Megan Thee Stallion),Cardi B,89,0.935,0.454,-7.509,0.357,1
+Hyperfine,G Flip,58,0.715,0.635,-6.747,0.232,0
+Sending Me Ur Loving,The Jungle Giants,64,0.733,0.583,-7.437,0.62,2
+I'm Good?,Hilltop Hoods,64,0.901,0.761,-5.986,0.96,3
+Therefore I Am,Billie Eilish,91,0.889,0.34,-7.773,0.716,3
+On Our Own,Lime Cordiale,58,0.705,0.692,-7.271,0.772,3
+Get on the Beers,Mashd N Kutcher,61,0.687,0.961,-4.684,0.686,2
+Rockstar,Mallrat,57,0.566,0.738,-4.534,0.539,2
+Tombstone,Ocean Alley,57,0.397,0.527,-9.625,0.796,3
+Skin,Spacey Jane,59,0.394,0.811,-4.306,0.804,3
+Screw Loose,Lime Cordiale,53,0.657,0.559,-8.176,0.562,2
+Is It True,Tame Impala,71,0.731,0.664,-5.474,0.661,2
+Tangerine,Glass Animals,67,0.845,0.583,-5.948,0.842,3
+You should be sad,Halsey,78,0.591,0.585,-6.35,0.324,1
+Addicted To The Sunshine,Lime Cordiale,51,0.677,0.636,-8.901,0.889,3
+Energy,Stace Cadet,65,0.703,0.822,-5.142,0.443,1
+Complicated,Eves Karydas,57,0.84,0.503,-6.775,0.663,2
+Good News,Mac Miller,64,0.794,0.32,-12.92,0.241,0
+Blue World,Mac Miller,75,0.742,0.553,-8.98,0.508,2
+Reality Check Please,Lime Cordiale,55,0.703,0.639,-7.341,0.622,2
+No Plans To Make Plans,Lime Cordiale,53,0.814,0.504,-10.216,0.708,3
+Under The Thunder,Skegss,54,0.518,0.837,-3.87,0.796,3
+Straightfaced,Spacey Jane,55,0.48,0.69,-5.309,0.391,1
+Dribble,Sycco,57,0.586,0.693,-5.92,0.518,2
+Bagi-la-m Bargan,Birdz,51,0.414,0.79,-4.905,0.323,1
+Reasons,San Cisco,51,0.611,0.78,-3.672,0.315,1
+Criminals,DMA'S,51,0.471,0.672,-4.034,0.496,2
+Breathe Deeper,Tame Impala,68,0.664,0.848,-4.51,0.502,2
+Everybody Rise,Amy Shark,64,0.702,0.676,-6.679,0.65,2
+Running Red Lights (feat. Rivers Cuomo & Pink Siifu),The Avalanches,58,0.672,0.684,-6.084,0.664,2
+forget me too (feat. Halsey),Machine Gun Kelly,79,0.654,0.875,-4.845,0.522,2
+SO DONE,The Kid LAROI,82,0.719,0.598,-6.254,0.303,1
+Parasite Eve,Bring Me The Horizon,70,0.589,0.797,-5.464,0.232,0
+Righteous,Juice WRLD,81,0.706,0.625,-7.426,0.225,0
+Come & Go (with Marshmello),Juice WRLD,84,0.625,0.814,-5.181,0.535,2
+I Still Dream About You,The Smith Street Band,51,0.146,0.806,-4.863,0.347,1
+WHATS POPPIN,Jack Harlow,82,0.923,0.604,-6.671,0.826,3
+together,Ziggy Alberts,61,0.828,0.375,-10.78,0.749,3
+You & I,G Flip,54,0.606,0.592,-6.656,0.287,1
+as long as you care,Ruel,67,0.55,0.591,-6.833,0.308,1
+Pretty Lady,Tash Sultana,65,0.471,0.602,-7.302,0.573,2
+Animals,Architects,69,0.532,0.759,-3.842,0.293,1
+Ain't It Different (feat. AJ Tracey & Stormzy),Headie One,73,0.767,0.569,-6.805,0.524,2
+Wishing Well,Juice WRLD,87,0.65,0.613,-6.13,0.0804,0
+Nothing to Love About Love,Peking Duk,58,0.506,0.607,-7.001,0.591,2
+Your Love (Déjà Vu),Glass Animals,59,0.851,0.663,-7.168,0.605,2
+The Glow,DMA'S,49,0.414,0.908,-4.09,0.759,3
+In Your Eyes,The Weeknd,86,0.667,0.719,-5.371,0.717,3
+Blue - Flume Remix,Eiffel 65,62,0.743,0.701,-3.907,0.659,2
+I Think You're Great,Alex the Astronaut,47,0.622,0.863,-5.912,0.811,3
+On The Line,San Cisco,49,0.64,0.863,-4.547,0.653,2
+Sobercoaster,Beddy Rays,51,0.297,0.951,-2.502,0.568,2
+Fly Away,Tones And I,71,0.805,0.515,-6.201,0.488,2
+Gimme Love,Joji,72,0.482,0.631,-6.917,0.0743,0
+GO (feat. Juice WRLD),The Kid LAROI,68,0.544,0.744,-5.007,0.572,2
+Pretty Grim,Ruby Fields,49,0.524,0.665,-4.553,0.325,1
+Run,Joji,68,0.447,0.72,-3.954,0.362,1
+Day & Age,Ball Park Music,50,0.536,0.456,-6.055,0.298,1
+Soak Me In Bleach,The Amity Affliction,49,0.256,0.91,-5.278,0.196,0
+C'MON (feat. Travis Barker),Amy Shark,59,0.626,0.665,-5.59,0.303,1
+Fantasising,Skegss,52,0.176,0.962,-3.139,0.425,1
+Boss Bitch,Doja Cat,82,0.707,0.955,-4.593,0.575,2
+Lie To Me,Vera Blue,57,0.683,0.572,-7.086,0.583,2
+Second,Hope D,51,0.508,0.893,-3.542,0.388,1
+Low,Chet Faker,64,0.651,0.533,-8.726,0.573,2
+Obey (with YUNGBLUD),Bring Me The Horizon,66,0.462,0.99,-3.175,0.204,0
+Way Down,Ocean Alley,53,0.639,0.653,-9.053,0.716,3
+Don't Need You,Genesis Owusu,51,0.927,0.475,-6.864,0.553,2
+Scream Drive Faster,LAUREL,59,0.625,0.706,-5.145,0.699,3
+Photo ID,Remi Wolf,71,0.822,0.66,-3.637,0.802,3
+Baby It's You,London Grammar,60,0.508,0.827,-8.612,0.14,0
+House Arrest,Sofi Tukker,66,0.654,0.818,-6.27,0.557,2
+Lady Marmalade - triple j Like A Version,G Flip,45,0.652,0.724,-7.423,0.768,3
+my future,Billie Eilish,79,0.444,0.309,-10.956,0.0875,0
+Freaks,FISHER,53,0.806,0.869,-4.344,0.785,3
+Weightless,Spacey Jane,56,0.487,0.877,-4.625,0.385,1
+The Clap,The Chats,48,0.651,0.693,-6.15,0.967,3
+Down for You,Cosmo's Midnight,59,0.763,0.547,-8.017,0.634,2
+Chicken Tenders,Dominic Fike,63,0.746,0.741,-5.459,0.72,3
+Too Tough Terry,Dune Rats,49,0.595,0.985,-2.552,0.417,1
+Laugh Now Cry Later (feat. Lil Durk),Drake,88,0.761,0.518,-8.871,0.522,2
+Three Leaf Clover,Teenage Joans,49,0.548,0.799,-4.098,0.509,2
+HEART ATTACK (feat. lau.ra),BRONSON,56,0.556,0.649,-5.807,0.119,0
+In Her Eyes,The Jungle Giants,61,0.89,0.505,-3.106,0.94,3
+No Time To Die,Billie Eilish,78,0.38,0.219,-13.273,0.0517,0
+Charlie - triple j Like A Version,Bugs,51,0.394,0.557,-9.392,0.338,1
+These Days,Thelma Plum,54,0.545,0.281,-8.677,0.427,1
+"Lemonade (feat. Gunna, Don Toliver & NAV)",Internet Money,86,0.8,0.658,-6.142,0.462,1
+Rain,Aitch,67,0.871,0.87,-4.797,0.83,3
+Loose Ends (feat. G Flip),Illy,49,0.704,0.666,-6.652,0.552,2
+Germaphobe,Hockey Dad,48,0.47,0.954,-3.966,0.412,1
+Audacity (feat. Headie One),Stormzy,64,0.678,0.516,-4.601,0.11,0
+Your Man,Joji,68,0.785,0.818,-8.711,0.0503,0
+Itch,Hockey Dad,43,0.253,0.791,-4.889,0.0808,0
+Kool,BENEE,62,0.911,0.811,-3.637,0.97,3

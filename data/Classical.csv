@@ -1,0 +1,67 @@
+,Name,Album,Artist,Release_date,Length,Popularity,Track_id,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Valence,Loudness,Speechiness,Tempo,Time_signature
+0,Spiral - Sunrise Session,A Sunrise Session,Ólafur Arnalds,2021-02-26,250160,0,1n8VEQ0V6kUIhuMwg6R0eQ,0.982,0.191,0.106,0.905,0.118,0.0634,-17.885,0.0388,75.704,4
+1,O I End,O I End,Nils Frahm,2021-02-24,289903,2,4hK0boKyayuoHkQiVMYDGE,0.97,0.179,0.112,0.904,0.116,0.0356,-20.531,0.0361,143.342,4
+2,A Leopard's Lullaby,A Leopard's Lullaby,Simon Mulligan,2021-02-26,140346,0,0Bt3fqEY4EMLSfvXZ6HT6O,0.993,0.214,0.0262,0.71,0.102,0.0962,-21.455,0.0438,68.723,3
+3,Piazzolla / Transcr. Ducros: Chiquilín de Bachín,Piazzolla Stories,Lucienne Renaudin Vary,2021-02-26,212560,0,2FyZPz8VMau6DsDkFIAKWM,0.988,0.246,0.0515,0.887,0.109,0.157,-19.751,0.0373,97.335,4
+4,Ink Dark Moon: II. Largo flessiblile,Talbot: Ink Dark Moon: II. Largo flessiblile,Joby Talbot,2021-02-26,303893,0,3MHJYkfGRD3syRa9EdnN7z,0.953,0.286,0.0489,0.91,0.108,0.0418,-24.146,0.0436,125.77,1
+5,"Piano Concerto No.3 in C Major, Op.26: 1. Andante - Allegro",Sergei Prokofiev: Piano Concerto No.3,Sergei Prokofiev,2021-02-26,577093,0,6UIsw8vpaQyNTsqxphUP5t,0.905,0.296,0.192,0.919,0.064,0.0843,-21.166,0.038,138.157,4
+6,String Quartet No.6: Movement II,Philip Glass: String Quartet No.6 (2013),Philip Glass,2021-02-26,510508,0,3c7sFAMQkG1yQIPP9gB3TT,0.915,0.146,0.112,0.802,0.0724,0.0405,-19.637,0.0479,167.231,4
+7,Orange Sky,Boundless (Original Game Soundtrack),Peter Gregson,2021-02-26,200569,0,4uGIGOSeutNFZmxtT9TXHf,0.911,0.43,0.215,0.96,0.0742,0.0573,-16.588,0.033,179.973,4
+8,Avalanche,Avalanche,Thomas Enhco,2021-02-26,266520,0,1F8LwsDutArvYZEj2eydtr,0.972,0.333,0.327,0.925,0.105,0.168,-14.42,0.0356,131.841,3
+9,"Prelude from 'Te Deum', H.146","Prelude from 'Te Deum', H.146",Marc-Antoine Charpentier,2021-02-26,81346,0,7qN2hYe6eKWzCujDcAkz1P,0.722,0.386,0.221,0.824,0.169,0.423,-15.163,0.0348,80.262,4
+10,"Prelude in B Minor, BWV 855a - Transcr. Alexander Siloti","Prelude in B Minor, BWV 855a (Transcr. Alexander Siloti)",Johann Sebastian Bach,2021-02-24,186080,0,0evHmBpDuROeZW2NAyxVz4,0.986,0.295,0.0596,0.946,0.0887,0.0379,-35.373,0.0485,128.682,4
+11,Flying,Immersion,Angèle Dubeau,2021-02-26,303480,0,4wMekUOjBLDF3fLkJCFn9X,0.842,0.197,0.165,0.856,0.261,0.0363,-18.081,0.0393,140.091,4
+12,Amber,Amber,Anne Chmelewsky,2021-02-26,261133,0,68VflTvcYMswocyvhtWxK1,0.984,0.201,0.109,0.909,0.093,0.0427,-18.395,0.0395,110.724,4
+13,Lambent Rag,Forever Chemicals / Lambent Rag,Clark,2021-02-26,204123,0,0s2X76Inz20xLRqOS2E8qW,0.989,0.574,0.302,0.94,0.116,0.428,-17.991,0.0559,184.013,4
+14,"Trio for piano, violin and cello after the Symphony No. 2 in D Major, Op. 36: III. Scherzo. Trio","Beethoven: Triple Concerto, Op. 56 & Trio, Op. 36",Ludwig van Beethoven,2021-02-26,233453,0,0aXqKlntTDuyvRDYwTWqoZ,0.952,0.467,0.124,0.851,0.0942,0.554,-24.861,0.0401,144.201,3
+15,Night Shift,Vivaldi Sleep,Antonio Vivaldi,2021-02-25,289320,0,3v0y6LeTkFrszhPhNkHcvJ,0.922,0.401,0.0284,0.768,0.158,0.0807,-24.345,0.0368,50.75,4
+16,"Violin Concerto in D Major, Op. 61: II. Larghetto",Mozart - Beethoven,Liya Petrova,2021-02-26,592015,0,5ct90dcfFThgpPKbSvUBNQ,0.945,0.154,0.0144,0.071,0.0812,0.0421,-29.162,0.0466,82.373,4
+17,Riverbank,February Sounds,Laura Cannell & Kate Ellis,2021-02-26,286597,0,2vsGFAjZLI2XXJof4Wdaiv,0.978,0.0966,0.156,0.893,0.132,0.112,-16.667,0.0377,170.3,3
+18,"Goldberg Variations in G Major, BWV 988: Aria. Andante espressivo — - Arr. for 2 Pianos by Joseph Rheinberger & Max Reger",Bach: Goldberg Variations BWV 988 (Arr. for 2 Pianos by Joseph Rheinberger & Max Reger),Johann Sebastian Bach,2021-02-26,165813,0,5HyGQl2jglJpygxvRsJMMC,0.995,0.356,0.00716,0.947,0.102,0.181,-32.705,0.0554,83.714,1
+19,"Cantabile in D Major, Op. 17, MS 109 (Arr. C. Boccadoro for Violin & Piano)",Il Cannone: Francesca Dego Plays Paganini's Violin,Francesca Dego,2021-02-26,310866,0,3wAFKwg2hDcZqyUR6wwXBJ,0.958,0.108,0.0788,0.143,0.0879,0.105,-24.062,0.0478,73.67,3
+20,"Symphony No. 5 in B-Flat Major, Op. 100: II. Scherzo Allegro marcato","Symphony No. 5 in B-Flat Major, Op. 100: II. Scherzo Allegro marcato",Sergei Prokofiev,2021-02-23,513880,1,0dnOLBOHiWANgD7LzOSR6h,0.96,0.415,0.148,0.909,0.0796,0.267,-18.514,0.0395,82.646,4
+21,Harry Potter and the Chamber of Secrets : The Chamber of Secrets - Orchestral Suite,Harry Potter and the Chamber of Secrets (Orchestral Suite),John Williams,2021-02-26,234266,0,2xi1Zmvh05sZSUGmHat59f,0.924,0.203,0.273,0.958,0.124,0.0374,-14.892,0.0362,93.813,3
+22,"Scenes from Childhood, Op. 15: VII. Dreaming","Schumann: Scenes from Childhood, Op. 15: VII. Dreaming",Robert Schumann,2021-02-26,144000,0,4s0zijvTkj2Uk6KLB0pNZg,0.995,0.37,0.0189,0.88,0.0719,0.242,-34.008,0.0589,143.695,3
+23,Earthsong (feat. Hugar),Earthsong (feat. Hugar),Dirk Maassen,2021-02-26,316946,0,1QNgu4IKEYPYtpl10OiXLs,0.909,0.203,0.222,0.883,0.0948,0.0334,-18.868,0.0424,92.036,3
+24,"Wesendonck Lieder, WWV 91: 4. Schmerzen (Orch. Mottl)","Wagner: Wesendonck Lieder, WWV 91: 4. Schmerzen (Orch. Mottl)",Richard Wagner,2021-02-26,146360,0,7irPG7hz9LgaewysZpC1ja,0.967,0.265,0.19,0.00074,0.117,0.0444,-13.027,0.0383,138.141,5
+25,Time - Excerpt,Time (Excerpt),Jacob Mühlrad,2021-02-26,183396,0,6NBSwDtdtofmaaVNB95810,0.972,0.102,0.164,0.454,0.101,0.0312,-19.689,0.041,84.485,4
+26,"Piano Concerto No. 17 in G Major, K. 453 (Arr. I. Lachner for Piano & String Quintet): III. Allegretto",Mozart: Piano Concertos Nos. 9 & 17 (Arr. I. Lachner for Piano & String Quintet),Wolfgang Amadeus Mozart,2021-02-26,461346,0,4Xp09IaYObJX9u04Wv6OcJ,0.962,0.407,0.188,0.893,0.132,0.395,-19.804,0.0419,151.927,4
+27,"Vier letzte Lieder, TrV 296: IV. Im Abendrot","R. Strauss: Vier letzte Lieder, TrV 296: IV. Im Abendrot",Richard Strauss,2021-02-26,468360,0,1ojXGupfPJoxNAVWHWUEeU,0.985,0.225,0.0478,0.754,0.0912,0.0366,-26.413,0.0452,74.566,4
+28,"Piano Sonata No. 53 in E Minor, Hob. XVI:34: III. Finale. Vivace molto","Haydn: Piano Sonatas, Vol. 9",Franz Joseph Haydn,2021-02-26,212493,0,5HwASbpIAnGRLjeASsX1sG,0.988,0.47,0.106,0.867,0.172,0.799,-25.69,0.0422,127.997,4
+29,"String Quintet No. 1 in F Minor, Op. 42, G. 348: I. Allegro moderato assai",Boccherini: String Quintets Op.42,Luigi Boccherini,2021-02-26,399800,0,4Em5mcOfkRV60N543hgomQ,0.989,0.319,0.0687,0.832,0.0731,0.145,-23.137,0.0474,115.567,4
+30,The Grey / The Bright: II. The Bright,The Grey / The Bright,Jabra Latham,2021-02-26,213527,0,5F17S8eZtgXRe8XogmjRqK,0.95,0.223,0.268,0.953,0.136,0.301,-17.028,0.033,79.07,1
+31,"Violin Partita No. 2 in D Minor, BWV 1004: III. Sarabande","Violin Partita No. 2 in D Minor, BWV 1004: III. Sarabande",Johann Sebastian Bach,2021-02-26,242440,0,7whogA3XdWesT3I2bD4ZsJ,0.987,0.301,0.0431,0.00211,0.165,0.174,-19.218,0.0479,103.1,3
+32,Still,Still,Hiroko Murakami,2021-02-26,152970,0,6lW188NkLKFSOuD14Jyhbk,0.984,0.36,0.0126,0.91,0.118,0.0856,-27.883,0.04,106.713,3
+33,"Come Again, Sweet Love Doth Now Invite","Come Again, Sweet Love Doth Now Invite",John Dowland,2021-02-26,210640,0,4SDOhX7kALJTd6GD95GxMs,0.984,0.345,0.0356,0.000444,0.104,0.228,-24.16,0.0379,97.683,4
+34,Song for Three - Solo Piano Version,Song for Three (Solo Piano Version),Wide Eyed,2021-02-26,194328,0,35Bv3J8Kshz866zr7mI9ji,0.986,0.351,0.0284,0.919,0.0975,0.0876,-26.623,0.0373,71.485,3
+35,"Symphony No. 7 in A Major, Op. 92: II. Allegretto","Beethoven: Symphonies No. 1 & 7 (Complete Symphonies, Vol. 1)",Ludwig van Beethoven,2021-02-26,470093,0,0OgnrUqhIOvjvHKtlnwtYa,0.956,0.238,0.0118,0.132,0.0633,0.0719,-26.381,0.0402,69.502,4
+36,"Cello Concerto in D Major, G. 479 (Transcribed by Sonia Wieder-Atherton and Françoise Rivalland): Cadenza by Eric Dolphy 'God Bless the Child'",Cadenza,Luigi Boccherini,2021-02-26,384213,0,6qRS0hg3ILJvlITXHwHC3q,0.968,0.283,0.211,0.607,0.0873,0.105,-16.099,0.0481,87.105,4
+37,フランス組曲 I. ノルマンディー,佼成ウインドLIVE 〜クラシカル・コンポーザー,Tokyo Kosei Wind Orchestra,2021-02-24,106893,0,2uxSg0KSQYThQsGu0eEEZT,0.962,0.571,0.388,0.751,0.116,0.548,-14.361,0.0335,131.819,4
+38,Clouds Are Not Spheres,Clouds Are Not Spheres,Solomon Grey,2021-02-26,137886,0,6ZVggisISeKreuyjwVtiVO,0.941,0.149,0.265,0.964,0.116,0.034,-17.051,0.0381,75.195,4
+39,Petrichor,Petrichor,BAWK,2021-02-26,146013,0,339p6W47wDVMbylqypXyMZ,0.991,0.507,0.0732,0.95,0.124,0.208,-20.677,0.0362,99.852,4
+40,"Debussy: 3 Chansons de Bilitis, L. 97 - Live","Debussy: 3 Chansons de Bilitis, L. 97 (Live)",Claude Debussy,2021-02-23,500948,0,6ZEufZtlNI0kgQLDBxnMWA,0.994,0.352,0.111,0.000369,0.106,0.0322,-19.909,0.0627,133.809,5
+41,Gestern und Heute,The Dark Night Has Vanished,Catriona Morison,2021-02-26,270992,0,6oEVjPPCssv4LmG9Vq4zaX,0.992,0.22,0.0251,0.000253,0.101,0.0485,-22.516,0.0521,169.496,5
+42,"String Quartet in E Major, Op. 36: II. Allegretto assai Scherzando","La Tombelle: String Quartet in E Major, Op. 36: II. Allegretto assai Scherzando",Fernand de la Tombelle,2021-02-26,236540,0,5k2Vza4f7tUB1wHHNSNXQe,0.861,0.503,0.167,0.799,0.202,0.322,-21.868,0.0478,107.104,4
+43,"Brandenburg Concerto No. 2 in F Major, BWV 1047: I. —",Bach: Brandenburg Concerto No. 1: I. —,Johann Sebastian Bach,2021-02-26,301832,0,3QTjCMlGIFoV4Q0lRfFQGg,0.875,0.594,0.371,0.273,0.107,0.788,-13.68,0.0343,97.83,4
+44,Tribularer si nescirem,Biber: Requiem,Vox Luminis,2021-02-26,340973,0,3czONanyZwNqDKwWKXCQm9,0.97,0.127,0.108,0.022,0.124,0.0842,-18.949,0.0404,78.048,4
+45,For the Koalas,Bartsch: For The Koalas,Nat Bartsch,2021-02-26,359026,0,22CSsqN2T20qET15uJiEHc,0.989,0.243,0.126,0.876,0.133,0.0399,-19.832,0.0416,122.906,3
+46,Mandag,Mandag,Søndag Søndag,2021-02-26,182430,0,0B0XncqI7zf7Q8tydlUQ0k,0.984,0.279,0.0515,0.778,0.124,0.273,-26.832,0.0322,85.982,4
+47,Mystery of Love - Call Me by Your Name,Mystery of Love - Call Me by Your Name,Sufjan Stevens,2021-02-26,205853,0,6VAQ2snOMFwWSXim6QYFaH,0.982,0.53,0.419,0.895,0.18,0.663,-11.155,0.0319,108.019,4
+48,golden rule,golden rule,praam,2021-02-26,170200,0,7BZXB0kwDID9MkRbDusQFG,0.988,0.366,0.0779,0.901,0.158,0.0883,-26.097,0.0281,104.438,3
+49,Alone,Alone,Marie Awadis,2021-02-26,126093,0,72JOB4vVxuhCE6ruAv93f0,0.978,0.411,0.0293,0.924,0.11,0.0388,-25.115,0.047,67.921,3
+50,"Trio Sonata in G Major, BuxWV 253: I. Lento - Vivace - II. Adagio - III. Allegro - IV. Largo - V. Arioso - Variations Nos.1-5 - No. 2 from ""Suonate a doi, violine e viola da gamba con cembalo, Opera prima, 1694""","Dietrich Buxtehude: Sonatine à doi, Violine and Viola da Gamba, Opus 1 & 2",Dietrich Buxtehude,2021-02-26,469333,0,5iAYHtCLsnX0H4piEZAtFk,0.872,0.298,0.161,0.0524,0.104,0.185,-20.967,0.0453,104.226,4
+51,"Italian Concerto in F Major, BWV 971: III. Presto - Arr. for Accordion","Bach: Italian Concerto in F Major, BWV 971 (Arr. for Accordion)",Johann Sebastian Bach,2021-02-26,238840,0,4G5K4kHshF6vvB4W4Lp0LL,0.908,0.428,0.262,0.247,0.0747,0.655,-18.245,0.0385,114.017,4
+52,Fragment,Fragment,Hideyuki Hashimoto,2021-02-26,194374,0,0SzKEFWzWvqrPmHPPilLxA,0.99,0.365,0.0582,0.941,0.0992,0.157,-31.558,0.0327,140.151,4
+53,"Violin Concerto in A Minor, P. 75 ""All'antica"" (Ed. S. Di Vittorio): II. Adagio non troppo",Respighi: Orchestral Works,Ottorino Respighi,2021-02-26,499440,0,5IlexF8aWGIgm2MSKBQjCK,0.899,0.0991,0.0708,0.641,0.156,0.0397,-24.846,0.0464,87.808,3
+54,70 PERCENT,70 PERCENT,Rui Massena,2021-02-26,216000,0,7JoopHhSGfuOgT5YdXy0jI,0.986,0.256,0.129,0.919,0.098,0.049,-22.546,0.0317,81.022,4
+55,Concertino for Clarinet and String Orchestra: III. Allegro,Concertino for Clarinet and String Orchestra: III. Allegro,Elizabeth Maconchy,2021-02-25,332533,0,75KYHdXtU2B7EHmEkgos4R,0.963,0.417,0.0621,0.834,0.0503,0.111,-21.091,0.0398,58.757,4
+56,Elysian Days,Elysian Days,Sophie Hutchings,2021-02-26,164748,0,0AzfgtoosHL5bSDkj7vPee,0.992,0.328,0.0634,0.922,0.108,0.156,-25.513,0.0377,145.289,4
+57,In Ilo Tempore,In Ilo Tempore,Jøsefine,2021-02-24,106625,0,17PFitkvSvoQOlKxVvnC8e,0.991,0.466,0.00561,0.95,0.104,0.102,-31.035,0.0622,126.192,3
+58,"Cantata, BWV 147","Cantata, BWV 147",Johann Sebastian Bach,2021-02-26,120579,0,0hk407xtHJ3ghRQ4AAtB5o,0.964,0.906,0.132,0.914,0.099,0.548,-17.291,0.104,119.944,3
+59,Sonata Terza in G major for Alto Recorder and Basso Continuo: II. Allegro cantabile,Domenico Maria Dreyer: Sonata in G for Recorder and Basso Continuo,Domenico Maria Dreyer,2021-02-26,144920,0,7D2hANk6B5K9ZCZam2oEeK,0.943,0.33,0.183,0.00234,0.129,0.581,-13.757,0.0382,66.904,3
+60,"Weber: Der Freischütz, Op. 77, Act 1: ""Viktoria, Viktoria!"" (Chorus)",The Freischütz Project,Carl Maria von Weber,2021-02-26,89213,0,1H9tA5FDSG9TMQNN4Qizh4,0.97,0.372,0.252,0.367,0.251,0.52,-19.233,0.0329,134.962,3
+61,"The Miraculous Mandarin, Sz. 73: VI. Dance of the Girl",Bartok: The Miraculous Mandarin,Béla Bartók,2021-02-26,239520,0,7aXBAYGNmWJhj7aUV0vpvj,0.921,0.16,0.12,0.437,0.72,0.0675,-20.642,0.0392,92.027,4
+62,Reverie,Reverie,Akira Kosemura,2021-02-26,84004,0,60OjpDPBify2TqHfYzZPHd,0.961,0.443,0.116,0.904,0.109,0.0396,-24.034,0.107,84.764,3
+63,Listen,Listen,Vincent Corver,2021-02-26,142867,0,7IcAXr03yELuewdezNFPZa,0.98,0.473,0.094,0.926,0.166,0.0469,-20.721,0.0336,69.582,3
+64,Berg: Seven Early Songs: Nacht,"Berg: Violin Concerto, Seven Early Songs & Three Pieces for Orchestra",Alban Berg,2021-02-26,238000,0,6mo8FmViK0vyECVG6JbZPw,0.96,0.217,0.0973,0.151,0.113,0.0337,-24.129,0.0426,91.345,4
+65,Two Journeys,Two Journeys,Jef Martens,2021-02-21,110625,14,7DffxMw1FizlYTkLGyYjfE,0.983,0.307,0.0645,0.951,0.0968,0.286,-25.705,0.0312,90.474,4
